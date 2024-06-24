@@ -73,19 +73,25 @@
         }
 
         async function findRandomPayphone() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(async position => {
+            const { latitude, longitude } = position.coords;
             const response = await fetch('payphones.json');
             const data = await response.json();
 
             const randomIndex = Math.floor(Math.random() * data.length);
             const randomPhone = data[randomIndex];
-
-            // Assuming the user's location for the random distance calculation is the center of the dataset
-            const avgLat = data.reduce((sum, phone) => sum + phone.latitude, 0) / data.length;
-            const avgLon = data.reduce((sum, phone) => sum + phone.longitude, 0) / data.length;
-            const distance = getDistanceFromLatLonInKm(avgLat, avgLon, randomPhone.latitude, randomPhone.longitude);
+            const distance = getDistanceFromLatLonInKm(latitude, longitude, randomPhone.latitude, randomPhone.longitude);
 
             displayPhoneInfo(randomPhone, distance);
-        }
+        }, error => {
+            alert('Error getting location: ' + error.message);
+        });
+    } else {
+        alert('Geolocation is not supported by this browser.');
+    }
+}
+
 
         function displayPhoneInfo(phone, distance = null) {
             const phoneInfo = document.getElementById('phoneInfo');
