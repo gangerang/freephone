@@ -90,7 +90,7 @@
         function displayPhoneInfo(phone, distance = null) {
             const phoneInfo = document.getElementById('phoneInfo');
             phoneInfo.innerHTML = `
-                <p>Address: ${phone.address}</p>
+                <p>Address: <a href="https://maps.google.com/?q=${phone.latitude},${phone.longitude}" target="_blank">${phone.address}</a></p>
                 <p>Phone Number: <a href="tel:${phone.number}">${phone.number}</a></p>
                 ${distance !== null ? `<p>Distance: ${formatDistance(distance)}</p>` : ''}
             `;
