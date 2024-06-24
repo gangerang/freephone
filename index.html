@@ -3,17 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Find Nearest Payphone</title>
+    <title>Find Payphone</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
             padding: 50px;
         }
-        #findPhoneButton {
+        .button-group {
+            margin-top: 20px;
+        }
+        .button-group button {
             padding: 10px 20px;
             font-size: 16px;
             cursor: pointer;
+            margin: 0 10px;
         }
         #phoneInfo {
             margin-top: 20px;
@@ -21,12 +25,15 @@
     </style>
 </head>
 <body>
-    <h1>Find and Call the Nearest Payphone</h1>
-    <button id="findPhoneButton">Find a Phone</button>
+    <h1>Find and Call a Payphone</h1>
+    <div class="button-group">
+        <button id="findNearestButton">Nearest</button>
+        <button id="findRandomButton">Random</button>
+    </div>
     <div id="phoneInfo"></div>
 
     <script>
-        document.getElementById('findPhoneButton').addEventListener('click', () => {
+        document.getElementById('findNearestButton').addEventListener('click', () => {
             if (navigator.geolocation) {
                 navigator.geolocation.getCurrentPosition(position => {
                     const { latitude, longitude } = position.coords;
@@ -37,6 +44,10 @@
             } else {
                 alert('Geolocation is not supported by this browser.');
             }
+        });
+
+        document.getElementById('findRandomButton').addEventListener('click', () => {
+            findRandomPayphone();
         });
 
         async function findNearestPayphone(lat, lon) {
@@ -61,12 +72,27 @@
             }
         }
 
-        function displayPhoneInfo(phone, distance) {
+        async function findRandomPayphone() {
+            const response = await fetch('payphones.json');
+            const data = await response.json();
+
+            const randomIndex = Math.floor(Math.random() * data.length);
+            const randomPhone = data[randomIndex];
+
+            // Assuming the user's location for the random distance calculation is the center of the dataset
+            const avgLat = data.reduce((sum, phone) => sum + phone.latitude, 0) / data.length;
+            const avgLon = data.reduce((sum, phone) => sum + phone.longitude, 0) / data.length;
+            const distance = getDistanceFromLatLonInKm(avgLat, avgLon, randomPhone.latitude, randomPhone.longitude);
+
+            displayPhoneInfo(randomPhone, distance);
+        }
+
+        function displayPhoneInfo(phone, distance = null) {
             const phoneInfo = document.getElementById('phoneInfo');
             phoneInfo.innerHTML = `
                 <p>Address: ${phone.address}</p>
                 <p>Phone Number: <a href="tel:${phone.number}">${phone.number}</a></p>
-                <p>Distance: ${distance.toFixed(2)} km</p>
+                ${distance !== null ? `<p>Distance: ${formatDistance(distance)}</p>` : ''}
             `;
         }
 
@@ -85,6 +111,10 @@
 
         function deg2rad(deg) {
             return deg * (Math.PI / 180);
+        }
+
+        function formatDistance(distance) {
+            return distance < 1 ? `${(distance * 1000).toFixed(0)} m` : `${distance.toFixed(2)} km`;
         }
     </script>
 </body>
