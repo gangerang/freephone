@@ -129,20 +129,40 @@
 
             const filteredPhones = data.filter(phone => phone.postcode === postcode);
 
-            const phoneInfo = document.getElementById('phoneInfo');
-            phoneInfo.innerHTML = `<p>Found ${filteredPhones.length} phone(s) in postcode ${postcode}</p>`;
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(position => {
+                    const { latitude, longitude } = position.coords;
+                    filteredPhones.forEach(phone => {
+                        phone.distance = getDistanceFromLatLonInKm(latitude, longitude, phone.latitude, phone.longitude);
+                    });
+                    filteredPhones.sort((a, b) => a.distance - b.distance);
+                    displayPostcodeResults(filteredPhones, postcode);
+                }, error => {
+                    displayPostcodeResults(filteredPhones, postcode);
+                    document.getElementById('locationWarning').innerText = 'Location not shared. Enable location to sort results by distance.';
+                });
+            } else {
+                displayPostcodeResults(filteredPhones, postcode);
+                document.getElementById('locationWarning').innerText = 'Geolocation is not supported by this browser. Enable location to sort results by distance.';
+            }
+        }
 
-            filteredPhones.forEach(phone => {
+        function displayPostcodeResults(phones, postcode) {
+            const phoneInfo = document.getElementById('phoneInfo');
+            phoneInfo.innerHTML = `<p>Found ${phones.length} phone(s) in postcode ${postcode}</p>`;
+
+            phones.forEach(phone => {
                 phoneInfo.innerHTML += `
                     <div>
                         <p>Address: <a href="https://maps.google.com/?q=${phone.latitude},${phone.longitude}" target="_blank">${phone.address}</a></p>
                         <p>Phone Number: <a href="tel:${phone.number}">${phone.number}</a></p>
+                        ${phone.distance !== undefined ? `<p>Distance: ${formatDistance(phone.distance)}</p>` : ''}
                     </div>
                     <hr>
                 `;
             });
 
-            if (filteredPhones.length === 0) {
+            if (phones.length === 0) {
                 phoneInfo.innerHTML += '<p>No phones found for the entered postcode.</p>';
             }
         }
