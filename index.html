@@ -12,12 +12,23 @@
         }
         .button-group {
             margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
         }
-        .button-group button {
+        .button-group button, 
+        .postcode-search input,
+        .postcode-search button {
             padding: 10px 20px;
             font-size: 16px;
             cursor: pointer;
-            margin: 0 10px;
+            box-sizing: border-box;
+        }
+        .postcode-search {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
         }
         #phoneInfo {
             margin-top: 20px;
@@ -33,6 +44,10 @@
     <div class="button-group">
         <button id="findNearestButton">Nearest</button>
         <button id="findRandomButton">Random</button>
+    </div>
+    <div class="postcode-search">
+        <input type="text" id="postcodeInput" maxlength="4" pattern="\d{4}" placeholder="Enter postcode">
+        <button id="searchButton">Search</button>
     </div>
     <div id="phoneInfo"></div>
     <div id="locationWarning"></div>
@@ -53,6 +68,15 @@
 
         document.getElementById('findRandomButton').addEventListener('click', () => {
             findRandomPayphone();
+        });
+
+        document.getElementById('searchButton').addEventListener('click', () => {
+            const postcode = document.getElementById('postcodeInput').value;
+            if (postcode.match(/^\d{4}$/)) {
+                searchByPostcode(postcode);
+            } else {
+                alert('Please enter a valid 4-digit postcode.');
+            }
         });
 
         async function findNearestPayphone(lat, lon) {
@@ -96,6 +120,30 @@
             } else {
                 displayPhoneInfo(randomPhone);
                 document.getElementById('locationWarning').innerText = 'Geolocation is not supported by this browser. Enable location for nearest to work and for random to indicate distance.';
+            }
+        }
+
+        async function searchByPostcode(postcode) {
+            const response = await fetch('payphones.json');
+            const data = await response.json();
+
+            const filteredPhones = data.filter(phone => phone.postcode === postcode);
+
+            const phoneInfo = document.getElementById('phoneInfo');
+            phoneInfo.innerHTML = `<p>Found ${filteredPhones.length} phone(s) in postcode ${postcode}</p>`;
+
+            filteredPhones.forEach(phone => {
+                phoneInfo.innerHTML += `
+                    <div>
+                        <p>Address: <a href="https://maps.google.com/?q=${phone.latitude},${phone.longitude}" target="_blank">${phone.address}</a></p>
+                        <p>Phone Number: <a href="tel:${phone.number}">${phone.number}</a></p>
+                    </div>
+                    <hr>
+                `;
+            });
+
+            if (filteredPhones.length === 0) {
+                phoneInfo.innerHTML += '<p>No phones found for the entered postcode.</p>';
             }
         }
 
