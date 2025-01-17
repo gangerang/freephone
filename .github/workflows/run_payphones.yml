@@ -24,20 +24,23 @@ jobs:
     - name: Run Payphones Data Script
       run: python main.py
 
-    - name: Rename Output Files
-      run: |
-        mv payphones_data_*.json payphones.json || echo "File not found"
-        mv payphones_data_nsw_*.json payphones_nsw.json || echo "File not found"
-
     - name: Configure Git
       run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-    - name: Commit and Push Changes
+    - name: Commit and Push changes - all au
       run: |
-        git add payphones.json payphones_nsw.json payphones_data.geojson payphones_data_nsw.geojson || exit 0
-        git commit -m "Update payphones data" || exit 0
+        git add payphones.json payphones.geojson || exit 0
+        git commit -m "Update payphones data for australia" || exit 0
+        git push origin ${{ github.ref_name }}  # Push to the same branch || exit 0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Commit and Push changes - nsw
+      run: |
+        git add payphones_nsw.json payphones_nsw.geojson || exit 0
+        git commit -m "Update payphones data for nsw" || exit 0
         git push origin ${{ github.ref_name }}  # Push to the same branch || exit 0
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
