@@ -181,11 +181,11 @@ def main():
             future.result()
 
     # Generate timestamped filenames
-    csv_output_filename = f'payphones_data.csv'
-    json_output_filename = f'payphones_data.json'
-    geojson_output_filename = f'payphones_data.geojson'
-    nsw_json_output_filename = f'payphones_data_nsw.json'
-    nsw_geojson_output_filename = f'payphones_data_nsw.geojson'
+    csv_output_filename = f'payphones.csv'
+    json_output_filename = f'payphones.json'
+    geojson_output_filename = f'payphones.geojson'
+    nsw_json_output_filename = f'payphones_nsw.json'
+    nsw_geojson_output_filename = f'payphones_nsw.geojson'
 
     # Write JSON and GeoJSON
     write_json(records, json_output_filename)
