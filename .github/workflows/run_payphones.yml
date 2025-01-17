@@ -1,0 +1,43 @@
+name: Payphones Data Update
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs every Sunday at midnight
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: pip install requests
+
+    - name: Run Payphones Data Script
+      run: python main.py
+
+    - name: Rename Output Files
+      run: |
+        mv payphones_data_*.json payphones.json || echo "File not found"
+        mv payphones_data_nsw_*.json payphones_nsw.json || echo "File not found"
+
+    - name: Configure Git
+      run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Commit and Push Changes
+      run: |
+        git add payphones.json payphones_nsw.json payphones_data.geojson payphones_data_nsw.geojson || exit 0
+        git commit -m "Update payphones data" || exit 0
+        git push origin ${{ github.ref_name }}  # Push to the same branch || exit 0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
