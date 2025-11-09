@@ -53,6 +53,98 @@
     <div id="locationWarning"></div>
 
     <script>
+        // Performance optimization: Cache and spatial indexing
+        let payphonesData = null;
+        let spatialIndex = null;
+        let postcodeIndex = null;
+        const CACHE_KEY = 'payphones_cache';
+        const CACHE_VERSION_KEY = 'payphones_cache_version';
+        const CACHE_VERSION = '1.0';
+        const GRID_SIZE = 0.1; // ~11km grid cells for spatial index
+
+        // Load and cache payphone data with spatial indexing
+        async function loadPayphonesData() {
+            if (payphonesData) {
+                return payphonesData;
+            }
+
+            // Try to load from cache first
+            try {
+                const cachedVersion = localStorage.getItem(CACHE_VERSION_KEY);
+                const cachedData = localStorage.getItem(CACHE_KEY);
+
+                if (cachedData && cachedVersion === CACHE_VERSION) {
+                    payphonesData = JSON.parse(cachedData);
+                    buildIndexes();
+                    return payphonesData;
+                }
+            } catch (e) {
+                console.warn('Cache load failed:', e);
+            }
+
+            // Fetch from network
+            const response = await fetch('payphones.json');
+            payphonesData = await response.json();
+
+            // Save to cache
+            try {
+                localStorage.setItem(CACHE_KEY, JSON.stringify(payphonesData));
+                localStorage.setItem(CACHE_VERSION_KEY, CACHE_VERSION);
+            } catch (e) {
+                console.warn('Cache save failed:', e);
+            }
+
+            buildIndexes();
+            return payphonesData;
+        }
+
+        // Build spatial grid index and postcode index
+        function buildIndexes() {
+            // Build spatial index (grid-based)
+            spatialIndex = new Map();
+            postcodeIndex = new Map();
+
+            payphonesData.forEach((phone, idx) => {
+                // Add to spatial index
+                const gridX = Math.floor(phone.latitude / GRID_SIZE);
+                const gridY = Math.floor(phone.longitude / GRID_SIZE);
+                const gridKey = `${gridX},${gridY}`;
+
+                if (!spatialIndex.has(gridKey)) {
+                    spatialIndex.set(gridKey, []);
+                }
+                spatialIndex.get(gridKey).push(idx);
+
+                // Add to postcode index
+                if (phone.postcode) {
+                    if (!postcodeIndex.has(phone.postcode)) {
+                        postcodeIndex.set(phone.postcode, []);
+                    }
+                    postcodeIndex.get(phone.postcode).push(idx);
+                }
+            });
+        }
+
+        // Get candidate payphones from spatial index (checking 9 grid cells)
+        function getCandidatesFromSpatialIndex(lat, lon) {
+            const gridX = Math.floor(lat / GRID_SIZE);
+            const gridY = Math.floor(lon / GRID_SIZE);
+            const candidates = [];
+
+            // Check current cell and 8 neighboring cells
+            for (let dx = -1; dx <= 1; dx++) {
+                for (let dy = -1; dy <= 1; dy++) {
+                    const gridKey = `${gridX + dx},${gridY + dy}`;
+                    const cellIndices = spatialIndex.get(gridKey);
+                    if (cellIndices) {
+                        candidates.push(...cellIndices.map(idx => payphonesData[idx]));
+                    }
+                }
+            }
+
+            return candidates;
+        }
+
         document.getElementById('findNearestButton').addEventListener('click', () => {
             if (navigator.geolocation) {
                 navigator.geolocation.getCurrentPosition(position => {
@@ -80,13 +172,15 @@
         });
 
         async function findNearestPayphone(lat, lon) {
-            const response = await fetch('payphones.json');
-            const data = await response.json();
+            await loadPayphonesData();
 
             let nearestPhone = null;
             let minDistance = Infinity;
 
-            data.forEach(phone => {
+            // Use spatial index to reduce search space
+            const candidates = getCandidatesFromSpatialIndex(lat, lon);
+
+            candidates.forEach(phone => {
                 const distance = getDistanceFromLatLonInKm(lat, lon, phone.latitude, phone.longitude);
                 if (distance < minDistance) {
                     minDistance = distance;
@@ -102,8 +196,7 @@
         }
 
         async function findRandomPayphone() {
-            const response = await fetch('payphones.json');
-            const data = await response.json();
+            const data = await loadPayphonesData();
 
             const randomIndex = Math.floor(Math.random() * data.length);
             const randomPhone = data[randomIndex];
@@ -124,10 +217,11 @@
         }
 
         async function searchByPostcode(postcode) {
-            const response = await fetch('payphones.json');
-            const data = await response.json();
+            await loadPayphonesData();
 
-            const filteredPhones = data.filter(phone => phone.postcode === postcode);
+            // Use postcode index for O(1) lookup
+            const phoneIndices = postcodeIndex.get(postcode) || [];
+            const filteredPhones = phoneIndices.map(idx => payphonesData[idx]);
 
             if (navigator.geolocation) {
                 navigator.geolocation.getCurrentPosition(position => {
