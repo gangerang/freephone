@@ -78,7 +78,7 @@ def write_json(records, output_filename):
             "postcode": str(record[4]),
             "number": record[8]
         }
-        for record in records
+        for record in sorted(records, key=lambda r: r[8])
     ]
 
     with open(output_filename, 'w') as json_file:
@@ -104,7 +104,7 @@ def write_geojson(records, output_filename):
                     "number": record[8]
                 }
             }
-            for record in records
+            for record in sorted(records, key=lambda r: r[8])
         ]
     }
 
@@ -123,7 +123,7 @@ def write_nsw_json(records, output_filename):
             "postcode": record[4],
             "number": record[8]
         }
-        for record in records if record[3] == 'NSW'
+        for record in sorted(records, key=lambda r: r[8]) if record[3] == 'NSW'
     ]
 
     with open(output_filename, 'w') as json_file:
@@ -148,7 +148,7 @@ def write_nsw_geojson(records, output_filename):
                     "number": record[8]
                 }
             }
-            for record in records if record[3] == 'NSW'
+            for record in sorted(records, key=lambda r: r[8]) if record[3] == 'NSW'
         ]
     }
 
