@@ -681,21 +681,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.476986,
-                    -33.364945
-                ]
-            },
-            "properties": {
-                "address": "501 THE ENTRANCE RD CNR TUGGERAH PDE, LONG JETTY",
-                "postcode": "2261",
-                "number": "0243345326"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.296329,
                     -33.434153
                 ]
@@ -1146,36 +1131,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.480731,
-                    -33.261415
-                ]
-            },
-            "properties": {
-                "address": "664 PACIFIC HWY WYONG HOSPITAL, HAMLYN TERRACE",
-                "postcode": "2259",
-                "number": "0243924163"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.48166,
-                    -33.26158
-                ]
-            },
-            "properties": {
-                "address": "WARD  664 PACIFIC HWY WYNG-HOSP TARAMIND, HAMLYN TERRACE",
-                "postcode": "2259",
-                "number": "0243924831"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.51108,
                     -33.257906
                 ]
@@ -1316,7 +1271,7 @@
                 ]
             },
             "properties": {
-                "address": "32 EAST ST STOCKLAND NOWRA, NOWRA",
+                "address": "32 EAST ST NOWRA FAIR, NOWRA",
                 "postcode": "2541",
                 "number": "0244225238"
             }
@@ -2691,21 +2646,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.311822,
-                    -33.712013
-                ]
-            },
-            "properties": {
-                "address": "1 MAIN ST KATOOMBA RLWY STN, KATOOMBA",
-                "postcode": "2780",
-                "number": "0247821884"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.311012,
                     -33.717468
                 ]
@@ -3576,21 +3516,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.622184,
-                    -32.955504
-                ]
-            },
-            "properties": {
-                "address": "91 MAIN RD NR SEVENTH ST, SPEERS POINT",
-                "postcode": "2284",
-                "number": "0249582676"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.7322255,
                     -32.9013802
                 ]
@@ -4011,21 +3936,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.3107993,
-                    -32.9142596
-                ]
-            },
-            "properties": {
-                "address": "5 RUGBY ST , ELLALONG",
-                "postcode": "2325",
-                "number": "0249981406"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     147.247627,
                     -35.833194
                 ]
@@ -4211,7 +4121,7 @@
                 ]
             },
             "properties": {
-                "address": "37 HIGH ST OS POST OFFICE, YKNDNDA YACKANDANDAH",
+                "address": "37 HIGH ST , YKNDNDA YACKANDANDAH",
                 "postcode": "3749",
                 "number": "0260271509"
             }
@@ -9644,21 +9554,6 @@
                 "address": "383 NORTH ST MARINE PARK RESORT, WOOLI WOOLI",
                 "postcode": "2462",
                 "number": "0266497565"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.107016,
-                    -30.299939
-                ]
-            },
-            "properties": {
-                "address": "52 AZALEA AVE NR COMBINE ST, COFFS HARBOUR",
-                "postcode": "2450",
-                "number": "0266512708"
             }
         },
         {
@@ -16026,21 +15921,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.919969,
-                    -33.718487
-                ]
-            },
-            "properties": {
-                "address": "2 SENTRY DRV STANHOPE VILLAGE, STANHOPE GARDENS",
-                "postcode": "2768",
-                "number": "0288141397"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.204499,
                     -33.843627
                 ]
@@ -16364,21 +16244,6 @@
                 "address": "11 GROSVENOR ST NR LANG ST, SYDNEY",
                 "postcode": "2000",
                 "number": "0292522053"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.2079176,
-                    -33.8589771
-                ]
-            },
-            "properties": {
-                "address": "16 ARGYLE ST OPP HARRINGTON ST, THE ROCKS",
-                "postcode": "2000",
-                "number": "0292522485"
             }
         },
         {
@@ -17526,21 +17391,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.210595,
-                    -33.888921
-                ]
-            },
-            "properties": {
-                "address": "38 BELVOIR ST OS FLATS JOHN NORT, SURRY HILLS",
-                "postcode": "2010",
-                "number": "0293101537"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.23151,
                     -33.95154
                 ]
@@ -17549,21 +17399,6 @@
                 "address": "238 BUNNERONG RD SOUTHPOINT S/C, HILLSDALE",
                 "postcode": "2036",
                 "number": "0293112864"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.22619,
-                    -33.918664
-                ]
-            },
-            "properties": {
-                "address": "227 ANZAC PDE OS UNISEARCH HOUSE, KENSINGTON",
-                "postcode": "2033",
-                "number": "0293136759"
             }
         },
         {
@@ -17714,21 +17549,6 @@
                 "address": "734 ANZAC PDE NR HOLMES, MAROUBRA",
                 "postcode": "2035",
                 "number": "0293498001"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.2396,
-                    -33.94617
-                ]
-            },
-            "properties": {
-                "address": "130 FITZGERALD AVE NR ANZAC PDE, MAROUBRA",
-                "postcode": "2035",
-                "number": "0293498798"
             }
         },
         {
@@ -18434,21 +18254,6 @@
                 "address": "97 GRAFTON ST BONDI JUNCTION RWS, BONDI JUNCTION",
                 "postcode": "2022",
                 "number": "0293694049"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.254511,
-                    -33.902099
-                ]
-            },
-            "properties": {
-                "address": "267 BRONTE RD NR JUDGES LANE, WAVERLY",
-                "postcode": "2024",
-                "number": "0293694372"
             }
         },
         {
@@ -19856,7 +19661,7 @@
                 ]
             },
             "properties": {
-                "address": "1 GROVE ST CAR ILLAWARRA RD, MARRICKVILLE",
+                "address": "1 GROVE ST NR ILLAWARRA RD, MARRICKVILLE",
                 "postcode": "2204",
                 "number": "0295594877"
             }
@@ -20901,21 +20706,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.956638,
-                    -33.801141
-                ]
-            },
-            "properties": {
-                "address": "220 WENTWORTH AVE OS RAIL STN, PENDLE HILL",
-                "postcode": "2145",
-                "number": "0296318309"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.982461,
                     -33.826544
                 ]
@@ -21606,21 +21396,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.780331,
-                    -33.79219
-                ]
-            },
-            "properties": {
-                "address": "44 MELVILLE RD MELVILLE ROAD SHOP, ST CLAIR ST CLAIR",
-                "postcode": "2759",
-                "number": "0296706419"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.909081,
                     -33.770024
                 ]
@@ -21854,36 +21629,6 @@
                 "address": "1203 ANZAC PDE OS LIBRARY, MATRAVILLE",
                 "postcode": "2036",
                 "number": "0296941002"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.202535,
-                    -33.898303
-                ]
-            },
-            "properties": {
-                "address": "95 WELLINGTON ST OUTSIDE IGA, WATERLOO",
-                "postcode": "2017",
-                "number": "0296993632"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.214821,
-                    -33.889594
-                ]
-            },
-            "properties": {
-                "address": "255 DEVONSHIRE ST NR BOURKE ST, SURRY HILLS",
-                "postcode": "2010",
-                "number": "0296999989"
             }
         },
         {
@@ -22781,7 +22526,7 @@
                 ]
             },
             "properties": {
-                "address": "1 ALBERT RD OS RAIL STATION, STRATHFIELD",
+                "address": "1 ALBERT RD OS RAILWAY STN, STRATHFIELD",
                 "postcode": "2135",
                 "number": "0297461629"
             }
@@ -24591,21 +24336,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.295761,
-                    -33.702571
-                ]
-            },
-            "properties": {
-                "address": "54 GARDEN ST CNR POWDERWORKS RD, NORTH NARRABEEN",
-                "postcode": "2101",
-                "number": "0299132232"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.296302,
                     -33.707875
                 ]
@@ -25446,21 +25176,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.320932,
-                    -33.654832
-                ]
-            },
-            "properties": {
-                "address": "366 BARRENJOEY RD CNR BRAMLEY RD, NEWPORT",
-                "postcode": "2106",
-                "number": "0299973262"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     143.561891,
                     -34.638506
                 ]
@@ -26279,6 +25994,21 @@
                 "address": "32 ALBURY ST NR DUFF ST, ASHFD ASHFORD",
                 "postcode": "2361",
                 "number": "0400759357"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.3041876,
+                    -32.5054698
+                ]
+            },
+            "properties": {
+                "address": "0 RESORT RD NRMA MYALL SHRS HP, BOMBAH POINT",
+                "postcode": "2423",
+                "number": "0400772504"
             }
         },
         {
@@ -28926,6 +28656,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.3107993,
+                    -32.9142596
+                ]
+            },
+            "properties": {
+                "address": "5 RUGBY ST , ELLALONG",
+                "postcode": "2325",
+                "number": "0418628481"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.09797,
                     -33.70344
                 ]
@@ -30011,7 +29756,7 @@
                 ]
             },
             "properties": {
-                "address": "1 RICHMOND RD OS RAIL STATION, KINGSWOOD",
+                "address": "1 RICHMOND RD OS RAILWAY STN, KINGSWOOD",
                 "postcode": "2747",
                 "number": "0419906076"
             }
@@ -30074,6 +29819,21 @@
                 "address": "495 BUNNERONG RD CNR DAUNT AVE, MATRAVILLE",
                 "postcode": "2036",
                 "number": "0419941777"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.480731,
+                    -33.261415
+                ]
+            },
+            "properties": {
+                "address": "664 PACIFIC HWY WYONG HOSPITAL, HAMLYN TERRACE",
+                "postcode": "2259",
+                "number": "0419942447"
             }
         },
         {
@@ -33876,6 +33636,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.107016,
+                    -30.299939
+                ]
+            },
+            "properties": {
+                "address": "52 AZALEA AVE NR COMBINE ST, COFFS HARBOUR",
+                "postcode": "2450",
+                "number": "0429940803"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.949353,
                     -33.788601
                 ]
@@ -34971,6 +34746,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.320932,
+                    -33.654832
+                ]
+            },
+            "properties": {
+                "address": "366 BARRENJOEY RD CNR BRAMLEY RD, NEWPORT",
+                "postcode": "2106",
+                "number": "0436340228"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.849683,
                     -33.780225
                 ]
@@ -35939,6 +35729,21 @@
                 "address": "32 AMY ST OPP REGENT ST, REGENTS PARK",
                 "postcode": "2143",
                 "number": "0436436083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.22619,
+                    -33.918664
+                ]
+            },
+            "properties": {
+                "address": "227 ANZAC PDE OS UNISEARCH HOUSE, KENSINGTON",
+                "postcode": "2033",
+                "number": "0436436648"
             }
         },
         {
@@ -38936,7 +38741,7 @@
                 ]
             },
             "properties": {
-                "address": "192 GREAT WESTERN HWY OPP KINGSWOOD R/ST, KINGSWOOD",
+                "address": "192 GREAT WESTERN HWY OPPOSITE STATION, KINGSWOOD",
                 "postcode": "2747",
                 "number": "0438804697"
             }
@@ -39014,6 +38819,21 @@
                 "address": "2 BECKETT ST NR CESSNOCK RD, GILLIESTON HEIGHTS",
                 "postcode": "2321",
                 "number": "0438888743"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.919969,
+                    -33.718487
+                ]
+            },
+            "properties": {
+                "address": "2 SENTRY DRV STANHOPE VILLAGE, STANHOPE GARDENS",
+                "postcode": "2768",
+                "number": "0438917254"
             }
         },
         {
@@ -42756,6 +42576,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.295761,
+                    -33.702571
+                ]
+            },
+            "properties": {
+                "address": "54 GARDEN ST CNR POWDERWORKS RD, NORTH NARRABEEN",
+                "postcode": "2101",
+                "number": "0448109660"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.10534,
                     -33.86861
                 ]
@@ -43049,6 +42884,21 @@
                 "address": "420 HIGH ST O/S WESTPAC, MAITLAND",
                 "postcode": "2320",
                 "number": "0448172725"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.214821,
+                    -33.889594
+                ]
+            },
+            "properties": {
+                "address": "255 DEVONSHIRE ST NR BOURKE ST, SURRY HILLS",
+                "postcode": "2010",
+                "number": "0448173429"
             }
         },
         {
@@ -43514,21 +43364,6 @@
                 "address": "1020 FOREST RD OPPOSITE TAFFS AVE, LUGARNO",
                 "postcode": "2210",
                 "number": "0448315797"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    152.3041876,
-                    -32.5054698
-                ]
-            },
-            "properties": {
-                "address": "0 RESORT RD NRMA MYALL SHRS HP, BOMBAH POINT",
-                "postcode": "2423",
-                "number": "0448316794"
             }
         },
         {
@@ -45111,6 +44946,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.780331,
+                    -33.79219
+                ]
+            },
+            "properties": {
+                "address": "44 MELVILLE RD MELVILLE ROAD SHOP, ST CLAIR ST CLAIR",
+                "postcode": "2759",
+                "number": "0448726426"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.924148,
                     -33.920719
                 ]
@@ -45659,6 +45509,21 @@
                 "address": "46 BLACKWALL RD PENINSULA PLAZA, WOY WOY",
                 "postcode": "2256",
                 "number": "0448779803"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.254511,
+                    -33.902099
+                ]
+            },
+            "properties": {
+                "address": "267 BRONTE RD NR JUDGES LANE, WAVERLY",
+                "postcode": "2024",
+                "number": "0448783434"
             }
         },
         {
@@ -47631,6 +47496,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    141.446365,
+                    -31.956251
+                ]
+            },
+            "properties": {
+                "address": "54 WILLIAM ST NR JONES ST, BROKEN HILL",
+                "postcode": "2880",
+                "number": "0455326610"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.8996232,
                     -32.2652419
                 ]
@@ -47826,12 +47706,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    148.88377,
+                    148.883742,
                     -37.14676
                 ]
             },
             "properties": {
-                "address": "19 DOWLING ST OPP BENDOC HOTEL, BNDC BENDOC",
+                "address": "17 DOWLING & JAMIESON ST , BNDC BENDOC",
                 "postcode": "3888",
                 "number": "0455404083"
             }
@@ -48119,6 +47999,21 @@
                 "address": "198 BATHURST RD NR BUTI ST, KATOOMBA",
                 "postcode": "2780",
                 "number": "0455460156"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.622184,
+                    -32.955504
+                ]
+            },
+            "properties": {
+                "address": "91 MAIN RD NR SEVENTH ST, SPEERS POINT",
+                "postcode": "2284",
+                "number": "0455464823"
             }
         },
         {
@@ -48539,6 +48434,21 @@
                 "address": "5 HENDERSON RD NR BOTANY RD, ALEXANDRIA",
                 "postcode": "2015",
                 "number": "0455572025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.210595,
+                    -33.888921
+                ]
+            },
+            "properties": {
+                "address": "38 BELVOIR ST OS FLATS JOHN NORT, SURRY HILLS",
+                "postcode": "2010",
+                "number": "0455574765"
             }
         },
         {
@@ -49169,6 +49079,21 @@
                 "address": "35 BROOKES ST MITCHELL RETAIL CE, MTCHEL MITCHELL",
                 "postcode": "2911",
                 "number": "0455716082"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.202535,
+                    -33.898303
+                ]
+            },
+            "properties": {
+                "address": "95 WELLINGTON ST OUTSIDE IGA, WATERLOO",
+                "postcode": "2017",
+                "number": "0455716818"
             }
         },
         {
@@ -54366,6 +54291,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.956638,
+                    -33.801141
+                ]
+            },
+            "properties": {
+                "address": "220 WENTWORTH AVE OS RAIL STN, PENDLE HILL",
+                "postcode": "2145",
+                "number": "0467963429"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.488263,
                     -34.402781
                 ]
@@ -55154,6 +55094,21 @@
                 "address": "83 MILLER RD CNR GURNEY RD, CHESTER HILL",
                 "postcode": "2162",
                 "number": "0474535418"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.311822,
+                    -33.712013
+                ]
+            },
+            "properties": {
+                "address": "1 MAIN ST KATOOMBA RLWY STN, KATOOMBA",
+                "postcode": "2780",
+                "number": "0474544659"
             }
         },
         {
@@ -58116,21 +58071,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.896415,
-                    -34.395463
-                ]
-            },
-            "properties": {
-                "address": "0 MONTAGUE ST FAIRY MEADOW RWS, FAIRY MEADOW",
-                "postcode": "2519",
-                "number": "0477954643"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.7150523,
                     -33.0124267
                 ]
@@ -59646,6 +59586,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.48166,
+                    -33.26158
+                ]
+            },
+            "properties": {
+                "address": "WARD  664 PACIFIC HWY WYNG-HOSP TARAMIND, HAMLYN TERRACE",
+                "postcode": "2259",
+                "number": "0484832617"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.999978,
                     -33.820643
                 ]
@@ -59744,6 +59699,21 @@
                 "address": "2 MANNING RD NEAR VICTORIA RD, GLADESVILLE",
                 "postcode": "2111",
                 "number": "0484958100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2079176,
+                    -33.8589771
+                ]
+            },
+            "properties": {
+                "address": "16 ARGYLE ST OPP HARRINGTON ST, THE ROCKS",
+                "postcode": "2000",
+                "number": "0484960165"
             }
         },
         {
@@ -60456,6 +60426,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.2396,
+                    -33.94617
+                ]
+            },
+            "properties": {
+                "address": "130 FITZGERALD AVE NR ANZAC PDE, MAROUBRA",
+                "postcode": "2035",
+                "number": "0488381940"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     152.111552,
                     -32.786897
                 ]
@@ -61071,6 +61056,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.476986,
+                    -33.364945
+                ]
+            },
+            "properties": {
+                "address": "501 THE ENTRANCE RD CNR TUGGERAH PDE, LONG JETTY",
+                "postcode": "2261",
+                "number": "0492643871"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.072829,
                     -33.979873
                 ]
@@ -61304,6 +61304,21 @@
                 "address": "0 RAILWAY PDE ALLAWAH RWS, ALLAWAH",
                 "postcode": "2218",
                 "number": "0497992803"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.896415,
+                    -34.395463
+                ]
+            },
+            "properties": {
+                "address": "0 MONTAGUE ST FAIRY MEADOW RWS, FAIRY MEADOW",
+                "postcode": "2519",
+                "number": "0498009694"
             }
         },
         {
@@ -62084,21 +62099,6 @@
                 "address": "393 ARGENT ST , BROKEN HILL",
                 "postcode": "2880",
                 "number": "0880881084"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    141.446365,
-                    -31.956251
-                ]
-            },
-            "properties": {
-                "address": "54 WILLIAM ST NR JONES ST, BROKEN HILL",
-                "postcode": "2880",
-                "number": "0880881247"
             }
         },
         {
