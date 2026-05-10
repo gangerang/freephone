@@ -1116,36 +1116,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.489421,
-                    -33.270041
-                ]
-            },
-            "properties": {
-                "address": "7 STANLEY ST CNR WAHROONGA RD, WYONGAH",
-                "postcode": "2259",
-                "number": "0243922121"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.51108,
-                    -33.257906
-                ]
-            },
-            "properties": {
-                "address": "74 WALLARAH RD , GOROKAN",
-                "postcode": "2263",
-                "number": "0243931620"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.493198,
                     -33.253465
                 ]
@@ -1154,21 +1124,6 @@
                 "address": "258 WALLARAH RD NR OASIS VAN PARK, KANWAL",
                 "postcode": "2259",
                 "number": "0243931622"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.49052,
-                    -33.274908
-                ]
-            },
-            "properties": {
-                "address": "140 TUGGERAWONG RD OS POST OFFICE, WYONGAH",
-                "postcode": "2259",
-                "number": "0243931626"
             }
         },
         {
@@ -24636,21 +24591,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.207521,
-                    -33.841147
-                ]
-            },
-            "properties": {
-                "address": "CNCRSE  15 BLUE ST NTH SYD RLWY STN, NORTH SYDNEY",
-                "postcode": "2060",
-                "number": "0299554493"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.207304,
                     -33.841043
                 ]
@@ -24659,21 +24599,6 @@
                 "address": "PLATFM 1 15 BLUE ST NTH SYD RLWY STN, NORTH SYDNEY",
                 "postcode": "2060",
                 "number": "0299554530"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.207521,
-                    -33.841147
-                ]
-            },
-            "properties": {
-                "address": "CNCRSE  15 BLUE ST NTH SYD RLWY STN, NORTH SYDNEY",
-                "postcode": "2060",
-                "number": "0299554724"
             }
         },
         {
@@ -26384,6 +26309,21 @@
                 "address": "ENTRCE  0 GURAGURA ST KELLYVILLE STN, KELLYVILLE",
                 "postcode": "2155",
                 "number": "0407477404"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.207521,
+                    -33.841147
+                ]
+            },
+            "properties": {
+                "address": "CNCRSE  15 BLUE ST NTH SYD RLWY STN, NORTH SYDNEY",
+                "postcode": "2060",
+                "number": "0407530816"
             }
         },
         {
@@ -28304,6 +28244,21 @@
                 "address": "161 ST GEORGE ST O/S PARK, MNGIDI",
                 "postcode": "2406",
                 "number": "0418163566"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.49052,
+                    -33.274908
+                ]
+            },
+            "properties": {
+                "address": "140 TUGGERAWONG RD OS POST OFFICE, WYONGAH",
+                "postcode": "2259",
+                "number": "0418165303"
             }
         },
         {
@@ -32571,12 +32526,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.908611,
-                    -31.431028
+                    152.907963,
+                    -31.4311807
                 ]
             },
             "properties": {
-                "address": "109 WILLIAM ST E OF HORTON ST, PORT MACQUARIE",
+                "address": "123 WILLIAM ST W OF HORTON ST, PORT MACQUARIE",
                 "postcode": "2444",
                 "number": "0429079843"
             }
@@ -36494,6 +36449,21 @@
                 "address": "27 OGILVIE ST OS POST OFFICE, DENMAN",
                 "postcode": "2328",
                 "number": "0436670347"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.489421,
+                    -33.270041
+                ]
+            },
+            "properties": {
+                "address": "7 STANLEY ST CNR WAHROONGA RD, WYONGAH",
+                "postcode": "2259",
+                "number": "0436671575"
             }
         },
         {
@@ -43649,6 +43619,21 @@
                 "address": "80 GLENHAVEN RD OS GLENHAVEN COURT, GLENHAVEN",
                 "postcode": "2156",
                 "number": "0448392653"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.51108,
+                    -33.257906
+                ]
+            },
+            "properties": {
+                "address": "74 WALLARAH RD , GOROKAN",
+                "postcode": "2263",
+                "number": "0448392655"
             }
         },
         {
@@ -57936,8 +57921,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    149.2267,
-                    -35.19849
+                    149.212894,
+                    -35.20205
                 ]
             },
             "properties": {
@@ -58431,12 +58416,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.90793,
-                    -31.43107
+                    152.908524,
+                    -31.4311471
                 ]
             },
             "properties": {
-                "address": "123 WILLIAM ST W OF HORTON ST, PORT MACQUARIE",
+                "address": "109 WILLIAM ST E OF HORTON ST, PORT MACQUARIE",
                 "postcode": "2444",
                 "number": "0482936794"
             }
@@ -60089,6 +60074,21 @@
                 "address": "2 BIRMINGHAM RD SOUTHLANDS S/C, SOUTH PENRITH",
                 "postcode": "2750",
                 "number": "0487622040"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.207521,
+                    -33.841147
+                ]
+            },
+            "properties": {
+                "address": "CNCRSE  15 BLUE ST NTH SYD RLWY STN, NORTH SYDNEY",
+                "postcode": "2060",
+                "number": "0487673836"
             }
         },
         {
