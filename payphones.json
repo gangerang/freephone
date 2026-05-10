@@ -592,36 +592,12 @@
         "number": "0243852459"
     },
     {
-        "latitude": -33.270041,
-        "longitude": 151.489421,
-        "address": "7 STANLEY ST CNR WAHROONGA RD, WYONGAH",
-        "state": "NSW",
-        "postcode": "2259",
-        "number": "0243922121"
-    },
-    {
-        "latitude": -33.257906,
-        "longitude": 151.51108,
-        "address": "74 WALLARAH RD , GOROKAN",
-        "state": "NSW",
-        "postcode": "2263",
-        "number": "0243931620"
-    },
-    {
         "latitude": -33.253465,
         "longitude": 151.493198,
         "address": "258 WALLARAH RD NR OASIS VAN PARK, KANWAL",
         "state": "NSW",
         "postcode": "2259",
         "number": "0243931622"
-    },
-    {
-        "latitude": -33.274908,
-        "longitude": 151.49052,
-        "address": "140 TUGGERAWONG RD OS POST OFFICE, WYONGAH",
-        "state": "NSW",
-        "postcode": "2259",
-        "number": "0243931626"
     },
     {
         "latitude": -33.273612,
@@ -13408,28 +13384,12 @@
         "number": "0299554172"
     },
     {
-        "latitude": -33.841147,
-        "longitude": 151.207521,
-        "address": "CNCRSE  15 BLUE ST NTH SYD RLWY STN, NORTH SYDNEY",
-        "state": "NSW",
-        "postcode": "2060",
-        "number": "0299554493"
-    },
-    {
         "latitude": -33.841043,
         "longitude": 151.207304,
         "address": "PLATFM 1 15 BLUE ST NTH SYD RLWY STN, NORTH SYDNEY",
         "state": "NSW",
         "postcode": "2060",
         "number": "0299554530"
-    },
-    {
-        "latitude": -33.841147,
-        "longitude": 151.207521,
-        "address": "CNCRSE  15 BLUE ST NTH SYD RLWY STN, NORTH SYDNEY",
-        "state": "NSW",
-        "postcode": "2060",
-        "number": "0299554724"
     },
     {
         "latitude": -33.846291,
@@ -21056,14 +21016,6 @@
         "number": "0394711213"
     },
     {
-        "latitude": -37.737981,
-        "longitude": 145.028866,
-        "address": "2 MURRAY RD I/S WOOLWORTHS ENT, PRESTON",
-        "state": "VIC",
-        "postcode": "3072",
-        "number": "0394713518"
-    },
-    {
         "latitude": -37.738326,
         "longitude": 145.006421,
         "address": "221 MURRAY RD , PRESTON",
@@ -26192,6 +26144,14 @@
         "number": "0407502017"
     },
     {
+        "latitude": -33.841147,
+        "longitude": 151.207521,
+        "address": "CNCRSE  15 BLUE ST NTH SYD RLWY STN, NORTH SYDNEY",
+        "state": "NSW",
+        "postcode": "2060",
+        "number": "0407530816"
+    },
+    {
         "latitude": -36.532823,
         "longitude": 147.495886,
         "address": "0 BINAMBOOLA RD NR MURTAGH PL, DRTMTH DARTMOUTH",
@@ -26758,6 +26718,14 @@
         "state": "VIC",
         "postcode": "3862",
         "number": "0408293214"
+    },
+    {
+        "latitude": -27.588954,
+        "longitude": 151.929889,
+        "address": "154 DRAYTON RD , Harristown",
+        "state": "QLD",
+        "postcode": "4350",
+        "number": "0408312682"
     },
     {
         "latitude": -32.194626,
@@ -29928,6 +29896,14 @@
         "number": "0418163566"
     },
     {
+        "latitude": -33.274908,
+        "longitude": 151.49052,
+        "address": "140 TUGGERAWONG RD OS POST OFFICE, WYONGAH",
+        "state": "NSW",
+        "postcode": "2259",
+        "number": "0418165303"
+    },
+    {
         "latitude": -33.358549,
         "longitude": 138.203564,
         "address": "26 GADD AVE NR LYON ST, CRYSTAL BROOK",
@@ -30840,6 +30816,14 @@
         "number": "0418689254"
     },
     {
+        "latitude": -27.57632,
+        "longitude": 152.20314,
+        "address": "200 ANZAC ST NR WILLIAM ST, GRANTHAM",
+        "state": "QLD",
+        "postcode": "4347",
+        "number": "0418694499"
+    },
+    {
         "latitude": -33.90624,
         "longitude": 151.20247,
         "address": "312 BOTANY RD GREEN SQR RLWY STN, ALEXANDRIA",
@@ -31550,6 +31534,14 @@
         "state": "QLD",
         "postcode": "4285",
         "number": "0419216104"
+    },
+    {
+        "latitude": -27.52801,
+        "longitude": 151.936944,
+        "address": "1 HOGG ST HOSPITAL, CRANLEY",
+        "state": "QLD",
+        "postcode": "4350",
+        "number": "0419217779"
     },
     {
         "latitude": -33.60112,
@@ -32886,6 +32878,14 @@
         "state": "NSW",
         "postcode": "2256",
         "number": "0427064268"
+    },
+    {
+        "latitude": -27.555553,
+        "longitude": 151.936584,
+        "address": "49 ROME ST CNR CLAIRMONT ST, NEWTOWN",
+        "state": "QLD",
+        "postcode": "4350",
+        "number": "0427064824"
     },
     {
         "latitude": -31.941013,
@@ -36032,14 +36032,6 @@
         "number": "0428502866"
     },
     {
-        "latitude": -27.555553,
-        "longitude": 151.936584,
-        "address": "49 ROME ST CNR CLAIRMONT ST, NEWTOWN",
-        "state": "QLD",
-        "postcode": "4350",
-        "number": "0428507406"
-    },
-    {
         "latitude": -31.944193,
         "longitude": 115.9749,
         "address": "100 AIRPORT DRV AIRPORT RWS, PERTH AIRPORT",
@@ -37152,9 +37144,9 @@
         "number": "0429077778"
     },
     {
-        "latitude": -31.431028,
-        "longitude": 152.908611,
-        "address": "109 WILLIAM ST E OF HORTON ST, PORT MACQUARIE",
+        "latitude": -31.4311807,
+        "longitude": 152.907963,
+        "address": "123 WILLIAM ST W OF HORTON ST, PORT MACQUARIE",
         "state": "NSW",
         "postcode": "2444",
         "number": "0429079843"
@@ -37760,6 +37752,14 @@
         "number": "0429372099"
     },
     {
+        "latitude": -27.570182,
+        "longitude": 151.945501,
+        "address": "LVL 1 154 WEST ST TOOWOOMBA HOSP, SOUTH TOOWOOMBA",
+        "state": "QLD",
+        "postcode": "4350",
+        "number": "0429379408"
+    },
+    {
         "latitude": -33.882124,
         "longitude": 151.228367,
         "address": "6 GOODHOPE ST NR GLENMORE RD, PADDINGTON",
@@ -38342,14 +38342,6 @@
         "state": "SA",
         "postcode": "5112",
         "number": "0429602550"
-    },
-    {
-        "latitude": -27.56468,
-        "longitude": 152.42356,
-        "address": "4414 WARREGO HWY NR GEHREKE RD, PLAINLAND",
-        "state": "QLD",
-        "postcode": "4341",
-        "number": "0429603490"
     },
     {
         "latitude": -37.813095,
@@ -40152,14 +40144,6 @@
         "number": "0436295153"
     },
     {
-        "latitude": -27.588954,
-        "longitude": 151.929889,
-        "address": "154 DRAYTON RD , Harristown",
-        "state": "QLD",
-        "postcode": "4350",
-        "number": "0436295335"
-    },
-    {
         "latitude": -33.82355,
         "longitude": 151.19549,
         "address": "90 CHRISTIE ST CRN CHRISTIE LANE, ST LEONARDS",
@@ -40582,14 +40566,6 @@
         "state": "VIC",
         "postcode": "3207",
         "number": "0436325237"
-    },
-    {
-        "latitude": -27.57632,
-        "longitude": 152.20314,
-        "address": "200 ANZAC ST NR WILLIAM ST, GRANTHAM",
-        "state": "QLD",
-        "postcode": "4347",
-        "number": "0436326210"
     },
     {
         "latitude": -31.924773,
@@ -42064,14 +42040,6 @@
         "number": "0436416967"
     },
     {
-        "latitude": -27.571534,
-        "longitude": 151.936625,
-        "address": "109 STEPHEN ST ADJ CNR FOURTH AV, Harristown",
-        "state": "QLD",
-        "postcode": "4350",
-        "number": "0436417192"
-    },
-    {
         "latitude": -31.499566,
         "longitude": 145.83809,
         "address": "47 LINSLEY ST NR POST OFFICE, COBAR COBAR",
@@ -42526,6 +42494,14 @@
         "state": "WA",
         "postcode": "6530",
         "number": "0436443846"
+    },
+    {
+        "latitude": -31.87451,
+        "longitude": 116.0128,
+        "address": "12 TOODYAY RD NR AFRIC ST, MIDDLE SWAN",
+        "state": "WA",
+        "postcode": "6056",
+        "number": "0436444371"
     },
     {
         "latitude": -33.889313,
@@ -43582,6 +43558,14 @@
         "state": "NSW",
         "postcode": "2328",
         "number": "0436670347"
+    },
+    {
+        "latitude": -33.270041,
+        "longitude": 151.489421,
+        "address": "7 STANLEY ST CNR WAHROONGA RD, WYONGAH",
+        "state": "NSW",
+        "postcode": "2259",
+        "number": "0436671575"
     },
     {
         "latitude": -34.873834,
@@ -47232,6 +47216,14 @@
         "number": "0438492326"
     },
     {
+        "latitude": -27.93705,
+        "longitude": 153.40405,
+        "address": "235 TURPIN RD NR BRISBANE RD, LABRADOR",
+        "state": "QLD",
+        "postcode": "4215",
+        "number": "0438513297"
+    },
+    {
         "latitude": -16.906024,
         "longitude": 145.759191,
         "address": "333 SHERIDAN ST O/S HUNGRY JACKS, CAIRNS NORTH",
@@ -47966,6 +47958,14 @@
         "state": "SA",
         "postcode": "5070",
         "number": "0438981064"
+    },
+    {
+        "latitude": -27.56895,
+        "longitude": 151.94343,
+        "address": "ACUTE PHYC 154 WEST ST TOOWOOMBA HOSP, SOUTH TOOWOOMBA",
+        "state": "QLD",
+        "postcode": "4350",
+        "number": "0438991163"
     },
     {
         "latitude": -37.68162,
@@ -54736,8 +54736,8 @@
         "number": "0448170922"
     },
     {
-        "latitude": -37.698508,
-        "longitude": 144.771824,
+        "latitude": -37.700782,
+        "longitude": 144.773817,
         "address": "LVL 1 0 SYDENHAM RD STN TICKET OFF, TAYLORS LAKES",
         "state": "VIC",
         "postcode": "3038",
@@ -56518,6 +56518,14 @@
         "state": "NSW",
         "postcode": "2156",
         "number": "0448392653"
+    },
+    {
+        "latitude": -33.257906,
+        "longitude": 151.51108,
+        "address": "74 WALLARAH RD , GOROKAN",
+        "state": "NSW",
+        "postcode": "2263",
+        "number": "0448392655"
     },
     {
         "latitude": -37.830547,
@@ -66440,6 +66448,14 @@
         "number": "0455672578"
     },
     {
+        "latitude": -37.737981,
+        "longitude": 145.028866,
+        "address": "2 MURRAY RD I/S WOOLWORTHS ENT, PRESTON",
+        "state": "VIC",
+        "postcode": "3072",
+        "number": "0455672719"
+    },
+    {
         "latitude": -36.13449,
         "longitude": 146.85583,
         "address": "2 BARTON ST NR FELLTIMBER CREE, WEST WODONGA",
@@ -69968,14 +69984,6 @@
         "number": "0455875682"
     },
     {
-        "latitude": -27.594425,
-        "longitude": 151.932284,
-        "address": "44 PLATZ ST OPP CROSBY ST, DARLING HEIGHTS",
-        "state": "QLD",
-        "postcode": "4350",
-        "number": "0455877536"
-    },
-    {
         "latitude": -42.8366792,
         "longitude": 147.5049432,
         "address": "HOBART  6 HINKLER RD NR GATE 2/3 & ATM, CAMBRIDGE",
@@ -70648,8 +70656,8 @@
         "number": "0455988940"
     },
     {
-        "latitude": -37.986794,
-        "longitude": 145.216396,
+        "latitude": -37.98577,
+        "longitude": 145.215439,
         "address": "28 PALM PLZ MALL, DANDENONG",
         "state": "VIC",
         "postcode": "3175",
@@ -72286,6 +72294,14 @@
         "state": "NSW",
         "postcode": "2430",
         "number": "0456645488"
+    },
+    {
+        "latitude": -27.571534,
+        "longitude": 151.936625,
+        "address": "109 STEPHEN ST ADJ CNR FOURTH AV, Harristown",
+        "state": "QLD",
+        "postcode": "4350",
+        "number": "0456645628"
     },
     {
         "latitude": -27.182959,
@@ -76072,6 +76088,14 @@
         "number": "0467672016"
     },
     {
+        "latitude": -27.56468,
+        "longitude": 152.42356,
+        "address": "4414 WARREGO HWY NR GEHREKE RD, PLAINLAND",
+        "state": "QLD",
+        "postcode": "4341",
+        "number": "0467687077"
+    },
+    {
         "latitude": -33.816636,
         "longitude": 151.107126,
         "address": "690 VICTORIA RD OPP HATTON ST, RYDE RYDE",
@@ -76678,6 +76702,14 @@
         "state": "QLD",
         "postcode": "4388",
         "number": "0473089269"
+    },
+    {
+        "latitude": -27.594425,
+        "longitude": 151.932284,
+        "address": "44 PLATZ ST OPP CROSBY ST, DARLING HEIGHTS",
+        "state": "QLD",
+        "postcode": "4350",
+        "number": "0473089646"
     },
     {
         "latitude": -32.7617976,
@@ -83616,8 +83648,8 @@
         "number": "0477858153"
     },
     {
-        "latitude": -35.19849,
-        "longitude": 149.2267,
+        "latitude": -35.20205,
+        "longitude": 149.212894,
         "address": "47 BIDGES RD CAPITAL HOLIDAY PK, SUTTON",
         "state": "NSW",
         "postcode": "2620",
@@ -84488,9 +84520,9 @@
         "number": "0482932669"
     },
     {
-        "latitude": -31.43107,
-        "longitude": 152.90793,
-        "address": "123 WILLIAM ST W OF HORTON ST, PORT MACQUARIE",
+        "latitude": -31.4311471,
+        "longitude": 152.908524,
+        "address": "109 WILLIAM ST E OF HORTON ST, PORT MACQUARIE",
         "state": "NSW",
         "postcode": "2444",
         "number": "0482936794"
@@ -87854,6 +87886,14 @@
         "state": "WA",
         "postcode": "6230",
         "number": "0487647872"
+    },
+    {
+        "latitude": -33.841147,
+        "longitude": 151.207521,
+        "address": "CNCRSE  15 BLUE ST NTH SYD RLWY STN, NORTH SYDNEY",
+        "state": "NSW",
+        "postcode": "2060",
+        "number": "0487673836"
     },
     {
         "latitude": -32.092125,
@@ -95384,14 +95424,6 @@
         "number": "0746332534"
     },
     {
-        "latitude": -27.52801,
-        "longitude": 151.936944,
-        "address": "1 HOGG ST HOSPITAL, CRANLEY",
-        "state": "QLD",
-        "postcode": "4350",
-        "number": "0746334173"
-    },
-    {
         "latitude": -27.535997,
         "longitude": 151.904725,
         "address": "546 BRIDGE ST O/S WALL ALDI, TORRINGTON",
@@ -95606,14 +95638,6 @@
         "state": "QLD",
         "postcode": "4350",
         "number": "0746393671"
-    },
-    {
-        "latitude": -27.570182,
-        "longitude": 151.945501,
-        "address": "LVL 1 154 WEST ST TOOWOOMBA HOSP, SOUTH TOOWOOMBA",
-        "state": "QLD",
-        "postcode": "4350",
-        "number": "0746396685"
     },
     {
         "latitude": -23.552261,
@@ -95950,14 +95974,6 @@
         "state": "QLD",
         "postcode": "4731",
         "number": "0746588120"
-    },
-    {
-        "latitude": -27.56895,
-        "longitude": 151.94343,
-        "address": "ACUTE PHYC 154 WEST ST TOOWOOMBA HOSP, SOUTH TOOWOOMBA",
-        "state": "QLD",
-        "postcode": "4350",
-        "number": "0746599056"
     },
     {
         "latitude": -28.213934,
@@ -101040,14 +101056,6 @@
         "number": "0755368358"
     },
     {
-        "latitude": -27.93705,
-        "longitude": 153.40405,
-        "address": "235 TURPIN RD NR BRISBANE RD, LABRADOR",
-        "state": "QLD",
-        "postcode": "4215",
-        "number": "0755371702"
-    },
-    {
         "latitude": -27.913266,
         "longitude": 153.401201,
         "address": "10 LAE DRV S/C NR BUS STOP, RUNAWAY BAY",
@@ -102054,14 +102062,6 @@
         "state": "SA",
         "postcode": "5173",
         "number": "0885563472"
-    },
-    {
-        "latitude": -35.24904,
-        "longitude": 138.472487,
-        "address": "22 TUIT RD PT WILLUNGA C PK, ALDINGA",
-        "state": "SA",
-        "postcode": "5173",
-        "number": "0885576318"
     },
     {
         "latitude": -35.969383,
@@ -108696,14 +108696,6 @@
         "number": "0892745812"
     },
     {
-        "latitude": -31.87451,
-        "longitude": 116.0128,
-        "address": "12 TOODYAY RD NR AFRIC ST, MIDDLE SWAN",
-        "state": "WA",
-        "postcode": "6056",
-        "number": "0892745912"
-    },
-    {
         "latitude": -31.889593,
         "longitude": 116.010986,
         "address": "274 GREAT EASTERN HWY MIDLAND GATE S/C, MIDLAND",
@@ -110096,8 +110088,8 @@
         "number": "0895377003"
     },
     {
-        "latitude": -32.55721,
-        "longitude": 115.785144,
+        "latitude": -32.557731,
+        "longitude": 115.787178,
         "address": "678 PINJARRA RD O/S GULL ROADHOUSE, BARRAGUP",
         "state": "WA",
         "postcode": "6209",
