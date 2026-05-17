@@ -621,21 +621,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.34204,
-                    -33.42284
-                ]
-            },
-            "properties": {
-                "address": "0 BURNS CRS RAIL BUS INTCHNG, GOSFORD",
-                "postcode": "2250",
-                "number": "0243232111"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.346212,
                     -33.411174
                 ]
@@ -1109,21 +1094,6 @@
                 "address": "40 TERRIGAL ESP OPP HOLIDAY INN, TERRIGAL",
                 "postcode": "2260",
                 "number": "0243852459"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.493198,
-                    -33.253465
-                ]
-            },
-            "properties": {
-                "address": "258 WALLARAH RD NR OASIS VAN PARK, KANWAL",
-                "postcode": "2259",
-                "number": "0243931622"
             }
         },
         {
@@ -2991,21 +2961,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    149.43463,
-                    -34.91235
-                ]
-            },
-            "properties": {
-                "address": "LOT 195 0 CHURCH ST NR BUS STOP, COLLECTOR",
-                "postcode": "2581",
-                "number": "0248480009"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     149.654659,
                     -35.069738
                 ]
@@ -3434,36 +3389,6 @@
                 "address": "2 CHURCH ST NR LOSTOCK RD, GRESFORD",
                 "postcode": "2311",
                 "number": "0249389408"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.6583931,
-                    -33.0287786
-                ]
-            },
-            "properties": {
-                "address": "30 EVANS ST , BELMONT",
-                "postcode": "2280",
-                "number": "0249459254"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.660944,
-                    -33.036152
-                ]
-            },
-            "properties": {
-                "address": "24 MACQUARIE ST OS POST OFFICE, BELMONT",
-                "postcode": "2280",
-                "number": "0249477098"
             }
         },
         {
@@ -3936,21 +3861,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    146.914046,
-                    -36.096791
-                ]
-            },
-            "properties": {
-                "address": "516 ABERCORN ST CNR PLUMMER ST, SOUTH ALBURY",
-                "postcode": "2640",
-                "number": "0260213240"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     146.916139,
                     -36.080786
                 ]
@@ -3974,21 +3884,6 @@
                 "address": "2 WILLIAM ST , WDNGA WODONGA",
                 "postcode": "3690",
                 "number": "0260241819"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    146.932457,
-                    -36.056729
-                ]
-            },
-            "properties": {
-                "address": "117 MATE ST CRN WANTIGONG ST, NORTH ALBURY",
-                "postcode": "2640",
-                "number": "0260253074"
             }
         },
         {
@@ -5594,36 +5489,6 @@
                 "address": "1984 JENOLAN CAVES RD NR WICKETTY WAR RD, HAMPTON",
                 "postcode": "2790",
                 "number": "0263593301"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    149.099937,
-                    -33.28377
-                ]
-            },
-            "properties": {
-                "address": "222 MITCHELL HWY POST OFFICE LANE, ORANGE",
-                "postcode": "2800",
-                "number": "0263620172"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    149.098513,
-                    -33.283834
-                ]
-            },
-            "properties": {
-                "address": "209 ANSON ST NR SUMMER ST, ORANGE",
-                "postcode": "2800",
-                "number": "0263629363"
             }
         },
         {
@@ -8711,7 +8576,7 @@
                 ]
             },
             "properties": {
-                "address": "5 DIXON PL S.C.U. WILSON BK B, LISMORE",
+                "address": "5 DIXON PL , LISMORE",
                 "postcode": "2480",
                 "number": "0266252073"
             }
@@ -8969,21 +8834,6 @@
                 "address": "23 THROUGH ST RAILWAY STATION, SOUTH GRAFTON",
                 "postcode": "2460",
                 "number": "0266431583"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    152.939111,
-                    -29.683962
-                ]
-            },
-            "properties": {
-                "address": "205 PRINCE ST NEAR BAWDEN ST, GRAFTON",
-                "postcode": "2460",
-                "number": "0266431647"
             }
         },
         {
@@ -15771,21 +15621,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    144.101052,
-                    -34.196851
-                ]
-            },
-            "properties": {
-                "address": "0 MAIN ST NR OXLEY LODGE, OXLEY OXLEY",
-                "postcode": "2711",
-                "number": "0269938183"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     144.300117,
                     -32.8995
                 ]
@@ -18561,21 +18396,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.180801,
-                    -33.797208
-                ]
-            },
-            "properties": {
-                "address": "CNCRSE  436 VICTORIA AVE CHATSWOOD INTERCHA, CHATSWOOD",
-                "postcode": "2067",
-                "number": "0294192927"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.18646,
                     -33.83147
                 ]
@@ -20571,21 +20391,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.826412,
-                    -33.726145
-                ]
-            },
-            "properties": {
-                "address": "0 CHESTNUT CRS BTWN EUGENIA WAY, BIDWILL",
-                "postcode": "2770",
-                "number": "0296281310"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.796274,
                     -33.744855
                 ]
@@ -20834,21 +20639,6 @@
                 "address": "158 CHURCH ST CNR ARGYLE ST, PARRAMATTA",
                 "postcode": "2150",
                 "number": "0296356895"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.972394,
-                    -33.806646
-                ]
-            },
-            "properties": {
-                "address": "81 WENTWORTH AVE , WENTWORTHVILLE",
-                "postcode": "2145",
-                "number": "0296363109"
             }
         },
         {
@@ -24846,21 +24636,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.28648,
-                    -33.798814
-                ]
-            },
-            "properties": {
-                "address": "2 DARLEY RD NEAR CHILD CENTRE, MANLY MANLY",
-                "postcode": "2095",
-                "number": "0299773870"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.28671,
                     -33.79794
                 ]
@@ -27179,6 +26954,21 @@
                 "address": "25 ABERFORD ST , COONAMBLE",
                 "postcode": "2829",
                 "number": "0409406853"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.939111,
+                    -29.683962
+                ]
+            },
+            "properties": {
+                "address": "205 PRINCE ST NEAR BAWDEN ST, GRAFTON",
+                "postcode": "2460",
+                "number": "0409439020"
             }
         },
         {
@@ -30891,6 +30681,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.041273,
+                    -33.793934
+                ]
+            },
+            "properties": {
+                "address": "57 ADDERTON ST OPP RWS O/S SHOPS, TELOPEA",
+                "postcode": "2117",
+                "number": "0427870027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.155617,
                     -34.050308
                 ]
@@ -31551,8 +31356,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.280803,
-                    -33.885512
+                    151.280821,
+                    -33.885501
                 ]
             },
             "properties": {
@@ -31769,21 +31574,6 @@
                 "address": "113 CHARLES ST OS NEWSAGENT, ILUKA",
                 "postcode": "2466",
                 "number": "0428489415"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.204117,
-                    -33.879136
-                ]
-            },
-            "properties": {
-                "address": "73 DIXON ST CHINATOWN PLAZA, HAYMARKET",
-                "postcode": "2000",
-                "number": "0428495176"
             }
         },
         {
@@ -37236,6 +37026,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.6583931,
+                    -33.0287786
+                ]
+            },
+            "properties": {
+                "address": "30 EVANS ST , BELMONT",
+                "postcode": "2280",
+                "number": "0437324066"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     152.4286714,
                     -31.8791432
                 ]
@@ -41256,6 +41061,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.493198,
+                    -33.253465
+                ]
+            },
+            "properties": {
+                "address": "258 WALLARAH RD NR OASIS VAN PARK, KANWAL",
+                "postcode": "2259",
+                "number": "0447801070"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.067655,
                     -33.849343
                 ]
@@ -41594,6 +41414,21 @@
                 "address": "52 RAWSON ST , EPPING",
                 "postcode": "2121",
                 "number": "0447872353"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.099937,
+                    -33.28377
+                ]
+            },
+            "properties": {
+                "address": "222 MITCHELL HWY POST OFFICE LANE, ORANGE",
+                "postcode": "2800",
+                "number": "0447873678"
             }
         },
         {
@@ -42224,21 +42059,6 @@
                 "address": "384 VICTORIA ST CNR BURTON ST, DARLINGHURST",
                 "postcode": "2010",
                 "number": "0448046767"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.041273,
-                    -33.793934
-                ]
-            },
-            "properties": {
-                "address": "57 ADDERTON ST OPP RWS O/S SHOPS, TELOPEA",
-                "postcode": "2117",
-                "number": "0448048805"
             }
         },
         {
@@ -45546,6 +45366,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.34204,
+                    -33.42284
+                ]
+            },
+            "properties": {
+                "address": "0 BURNS CRS RAIL BUS INTCHNG, GOSFORD",
+                "postcode": "2250",
+                "number": "0448784566"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.207999,
                     -33.878128
                 ]
@@ -45734,6 +45569,21 @@
                 "address": "48 PRESIDENT WILSON WLK OP KOOINDAH CENTRE, TANILBA BAY",
                 "postcode": "2319",
                 "number": "0448833582"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.28648,
+                    -33.798814
+                ]
+            },
+            "properties": {
+                "address": "2 DARLEY RD NEAR CHILD CENTRE, MANLY MANLY",
+                "postcode": "2095",
+                "number": "0448839289"
             }
         },
         {
@@ -46091,8 +45941,8 @@
                 ]
             },
             "properties": {
-                "address": "500 ELIZABETH ST CNR BELVOIR ST, REDFERN",
-                "postcode": "2016",
+                "address": "500 ELIZABETH ST CNR BELVOIR ST, SURRY HILLS",
+                "postcode": "2010",
                 "number": "0448951314"
             }
         },
@@ -47001,6 +46851,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.972394,
+                    -33.806646
+                ]
+            },
+            "properties": {
+                "address": "81 WENTWORTH AVE , WENTWORTHVILLE",
+                "postcode": "2145",
+                "number": "0455208628"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.67082,
                     -35.03908
                 ]
@@ -47309,6 +47174,21 @@
                 "address": "100 BROADWAY  NR ABERCROMBIE ST, CHIPPENDALE",
                 "postcode": "2008",
                 "number": "0455285307"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.660944,
+                    -33.036152
+                ]
+            },
+            "properties": {
+                "address": "24 MACQUARIE ST OS POST OFFICE, BELMONT",
+                "postcode": "2280",
+                "number": "0455290216"
             }
         },
         {
@@ -50736,21 +50616,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.09813,
-                    -33.67679
-                ]
-            },
-            "properties": {
-                "address": "110 GALSTON RD OS AMPOL, HORNSBY HEIGHTS",
-                "postcode": "2077",
-                "number": "0455879867"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.269188,
                     -33.870662
                 ]
@@ -51059,6 +50924,21 @@
                 "address": "25 FIRST AVE OS 1ST AVE CINEMA, SAWTELL",
                 "postcode": "2452",
                 "number": "0455989210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.098513,
+                    -33.283834
+                ]
+            },
+            "properties": {
+                "address": "209 ANSON ST NR SUMMER ST, ORANGE",
+                "postcode": "2800",
+                "number": "0455989220"
             }
         },
         {
@@ -52274,6 +52154,21 @@
                 "address": "51 SHOAL BAY RD OS SHOPPING CENTRE, SHOAL BAY",
                 "postcode": "2315",
                 "number": "0456937050"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.09813,
+                    -33.67679
+                ]
+            },
+            "properties": {
+                "address": "110 GALSTON RD OS AMPOL, HORNSBY HEIGHTS",
+                "postcode": "2077",
+                "number": "0456939995"
             }
         },
         {
@@ -55581,6 +55476,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    146.914046,
+                    -36.096791
+                ]
+            },
+            "properties": {
+                "address": "516 ABERCORN ST CNR PLUMMER ST, SOUTH ALBURY",
+                "postcode": "2640",
+                "number": "0475254561"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.289084,
                     -33.747227
                 ]
@@ -57111,6 +57021,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    146.932457,
+                    -36.056729
+                ]
+            },
+            "properties": {
+                "address": "117 MATE ST CRN WANTIGONG ST, NORTH ALBURY",
+                "postcode": "2640",
+                "number": "0477032314"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     141.46632,
                     -31.947057
                 ]
@@ -57854,6 +57779,36 @@
                 "address": "10 ETHEL ST , EASTWOOD",
                 "postcode": "2122",
                 "number": "0477785621"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.180801,
+                    -33.797208
+                ]
+            },
+            "properties": {
+                "address": "CNCRSE  436 VICTORIA AVE CHATSWOOD INTERCHA, CHATSWOOD",
+                "postcode": "2067",
+                "number": "0477798928"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.43463,
+                    -34.91235
+                ]
+            },
+            "properties": {
+                "address": "LOT 195 0 CHURCH ST NR BUS STOP, COLLECTOR",
+                "postcode": "2581",
+                "number": "0477802467"
             }
         },
         {
@@ -58799,6 +58754,21 @@
                 "address": "1 ALLENBY RD NR BATHURST RD, ORANGE",
                 "postcode": "2800",
                 "number": "0484074831"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.826412,
+                    -33.726145
+                ]
+            },
+            "properties": {
+                "address": "0 CHESTNUT CRS BTWN EUGENIA WAY, BIDWILL",
+                "postcode": "2770",
+                "number": "0484082444"
             }
         },
         {
