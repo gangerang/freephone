@@ -681,21 +681,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.323478,
-                    -33.48562
-                ]
-            },
-            "properties": {
-                "address": "3 RAILWAY ST RAILWAY BOOKINGS, WOY WOY",
-                "postcode": "2256",
-                "number": "0243413720"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.309072,
                     -33.495483
                 ]
@@ -749,21 +734,6 @@
                 "address": "3 RAILWAY ST WOY WOY RWLY STN, WOY WOY",
                 "postcode": "2256",
                 "number": "0243442650"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.324552,
-                    -33.484339
-                ]
-            },
-            "properties": {
-                "address": "15 THE BOULEVARDE  NR BRISB. WATER DR, WOY WOY",
-                "postcode": "2256",
-                "number": "0243446124"
             }
         },
         {
@@ -5759,21 +5729,6 @@
                 "address": "1 LOWE ST CNR ARTHUR ST, TRUNKEY CREEK",
                 "postcode": "2795",
                 "number": "0263688605"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    149.10126,
-                    -33.28367
-                ]
-            },
-            "properties": {
-                "address": "208 LORDS PL NR SUMMER ST, ORANGE",
-                "postcode": "2800",
-                "number": "0263691748"
             }
         },
         {
@@ -13941,21 +13896,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    147.114285,
-                    -35.268346
-                ]
-            },
-            "properties": {
-                "address": "96 URANA ST O/S POST OFFICE, THE ROCK",
-                "postcode": "2655",
-                "number": "0269202100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     147.057491,
                     -35.38675
                 ]
@@ -14144,21 +14084,6 @@
                 "address": "293 LAKE ALBERT RD O/S SHOPS, KOORINGAL",
                 "postcode": "2650",
                 "number": "0269224098"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    147.245966,
-                    -35.193284
-                ]
-            },
-            "properties": {
-                "address": "30 OLYMPIC HWY CNR RYAN ST, URANQUINTY",
-                "postcode": "2652",
-                "number": "0269229697"
             }
         },
         {
@@ -15321,21 +15246,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    147.25373,
-                    -33.51577
-                ]
-            },
-            "properties": {
-                "address": "3 BENA ST NR MYALL ST, BURCHER",
-                "postcode": "2671",
-                "number": "0269725210"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     146.728021,
                     -33.421321
                 ]
@@ -15891,8 +15801,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.21208,
-                    -33.8765
+                    151.209872,
+                    -33.876482
                 ]
             },
             "properties": {
@@ -15944,21 +15854,6 @@
                 "address": "10 SPRING ST , SYDNEY",
                 "postcode": "2000",
                 "number": "0292476842"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.2125912,
-                    -33.8610933
-                ]
-            },
-            "properties": {
-                "address": "JCDBTH 1131 0 CIRCULAR QY OPP AMATIL BLDG, SYDNEY",
-                "postcode": "2000",
-                "number": "0292479781"
             }
         },
         {
@@ -20901,21 +20796,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.00511,
-                    -33.66083
-                ]
-            },
-            "properties": {
-                "address": "137 KENTHURST RD OS AMPOL STN, KENTHURST",
-                "postcode": "2156",
-                "number": "0296542042"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.170195,
                     -33.881193
                 ]
@@ -24321,21 +24201,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.289954,
-                    -33.780239
-                ]
-            },
-            "properties": {
-                "address": "50 KOOLOORA AVE , FRESHWATER",
-                "postcode": "2096",
-                "number": "0299384583"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.285143,
                     -33.778987
                 ]
@@ -25409,6 +25274,21 @@
                 "address": "25 QUEEN ST CNR KING ST, LAKE ILLAWARRA",
                 "postcode": "2528",
                 "number": "0400336569"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.245966,
+                    -35.193284
+                ]
+            },
+            "properties": {
+                "address": "30 OLYMPIC HWY CNR RYAN ST, URANQUINTY",
+                "postcode": "2652",
+                "number": "0400370609"
             }
         },
         {
@@ -26624,21 +26504,6 @@
                 "address": "47 STANLEY ST CNR MEMORIAL AVE, INGLEBURN",
                 "postcode": "2565",
                 "number": "0408636785"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.038442,
-                    -33.871911
-                ]
-            },
-            "properties": {
-                "address": "0 NOTTINGHILL RD CNR GEORGES AVE, BERALA",
-                "postcode": "2141",
-                "number": "0408689719"
             }
         },
         {
@@ -28566,6 +28431,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.289954,
+                    -33.780239
+                ]
+            },
+            "properties": {
+                "address": "50 KOOLOORA AVE , FRESHWATER",
+                "postcode": "2096",
+                "number": "0418743722"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.768914,
                     -33.769863
                 ]
@@ -28994,6 +28874,21 @@
                 "address": "38 BELVOIR ST OS FLATS JOHN NORT, SURRY HILLS",
                 "postcode": "2010",
                 "number": "0419254326"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.323478,
+                    -33.48562
+                ]
+            },
+            "properties": {
+                "address": "3 RAILWAY ST RAILWAY BOOKINGS, WOY WOY",
+                "postcode": "2256",
+                "number": "0419258631"
             }
         },
         {
@@ -30351,6 +30246,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.2125912,
+                    -33.8610933
+                ]
+            },
+            "properties": {
+                "address": "JCDBTH 1131 0 CIRCULAR QY OPP AMATIL BLDG, SYDNEY",
+                "postcode": "2000",
+                "number": "0427625840"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.937835,
                     -33.895443
                 ]
@@ -30386,7 +30296,7 @@
                 ]
             },
             "properties": {
-                "address": "16 CROUDACE BAY RD , BELMONT",
+                "address": "16 CROUDACE BAY RD BELMONT HOSPITAL, BELMONT",
                 "postcode": "2280",
                 "number": "0427648433"
             }
@@ -31686,6 +31596,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.324552,
+                    -33.484339
+                ]
+            },
+            "properties": {
+                "address": "15 THE BOULEVARDE  NR BRISB. WATER DR, WOY WOY",
+                "postcode": "2256",
+                "number": "0428595889"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     146.944912,
                     -36.044334
                 ]
@@ -31709,6 +31634,21 @@
                 "address": "266 MAITLAND RD IS TAFE NR B/STOP, TIGHES HILL",
                 "postcode": "2297",
                 "number": "0428638174"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.10126,
+                    -33.28367
+                ]
+            },
+            "properties": {
+                "address": "223 LORDS PL NR SUMMER ST, ORANGE",
+                "postcode": "2800",
+                "number": "0428662623"
             }
         },
         {
@@ -32819,21 +32759,6 @@
                 "address": "87 MELBOURNE ST , EAST MAITLAND",
                 "postcode": "2323",
                 "number": "0429549851"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.76153,
-                    -32.926443
-                ]
-            },
-            "properties": {
-                "address": "1 NATIONAL PARK ST NR CNR HUNTER ST, NEWCASTLE WEST",
-                "postcode": "2302",
-                "number": "0429550323"
             }
         },
         {
@@ -37761,6 +37686,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.00511,
+                    -33.66083
+                ]
+            },
+            "properties": {
+                "address": "137 KENTHURST RD CALTEX SERVICE STN, KENTHURST",
+                "postcode": "2156",
+                "number": "0437956171"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     152.045254,
                     -30.511195
                 ]
@@ -41241,12 +41181,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.214084,
-                    -33.878249
+                    151.214003,
+                    -33.878803
                 ]
             },
             "properties": {
-                "address": "181 RILEY ST OPP ARNOLD PL, DARLINGHURST",
+                "address": "181 RILEY ST OPP ARNOLD PL, SURRY HILLS",
                 "postcode": "2010",
                 "number": "0447822770"
             }
@@ -42141,8 +42081,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.099722,
-                    -33.90913
+                    151.099757,
+                    -33.904623
                 ]
             },
             "properties": {
@@ -44901,12 +44841,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.212198,
-                    -33.867914
+                    151.210487,
+                    -33.867578
                 ]
             },
             "properties": {
-                "address": "50 MARTIN PL ON ELIZABTH ST, SYDNEY",
+                "address": "48 MARTIN PL ON CNR ELIZ ST, SYDNEY",
                 "postcode": "2000",
                 "number": "0448750345"
             }
@@ -45389,6 +45329,21 @@
                 "address": "66 GOULBURN ST OS MASONIC CENTRE, SYDNEY",
                 "postcode": "2000",
                 "number": "0448786507"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.038442,
+                    -33.871911
+                ]
+            },
+            "properties": {
+                "address": "0 NOTTINGHILL RD CNR GEORGES AVE, BERALA",
+                "postcode": "2141",
+                "number": "0448794572"
             }
         },
         {
@@ -48801,8 +48756,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.209508,
-                    -33.867605
+                    151.208359,
+                    -33.867715
                 ]
             },
             "properties": {
@@ -50646,8 +50601,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.209029,
-                    -33.867626
+                    151.208387,
+                    -33.867395
                 ]
             },
             "properties": {
@@ -50774,21 +50729,6 @@
                 "address": "PLATFM 2 0 WELLINGTON RD SEFTON RLWY STN, SEFTON",
                 "postcode": "2162",
                 "number": "0455903131"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.664599,
-                    -32.794273
-                ]
-            },
-            "properties": {
-                "address": "0 LAWSON AVE NR FREWIN AVE S/C, WOODBERRY",
-                "postcode": "2322",
-                "number": "0455903338"
             }
         },
         {
@@ -50961,8 +50901,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.195933,
-                    -33.891223
+                    151.194209,
+                    -33.891699
                 ]
             },
             "properties": {
@@ -53736,6 +53676,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.664599,
+                    -32.794273
+                ]
+            },
+            "properties": {
+                "address": "0 LAWSON AVE NR FREWIN AVE S/C, WOODBERRY",
+                "postcode": "2322",
+                "number": "0461254241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.126299,
                     -33.950413
                 ]
@@ -54659,6 +54614,21 @@
                 "address": "55 CARAWA RD , CROMER",
                 "postcode": "2099",
                 "number": "0473375157"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.25373,
+                    -33.51577
+                ]
+            },
+            "properties": {
+                "address": "3 BENA ST NR MYALL ST, BURCHER",
+                "postcode": "2671",
+                "number": "0473393372"
             }
         },
         {
@@ -60059,6 +60029,21 @@
                 "address": "CNCRSE  15 BLUE ST NTH SYD RLWY STN, NORTH SYDNEY",
                 "postcode": "2060",
                 "number": "0487673836"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.114285,
+                    -35.268346
+                ]
+            },
+            "properties": {
+                "address": "96 URANA ST O/S POST OFFICE, THE ROCK",
+                "postcode": "2655",
+                "number": "0487683010"
             }
         },
         {

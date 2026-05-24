@@ -315,13 +315,6 @@
         "number": "0243402016"
     },
     {
-        "latitude": -33.48562,
-        "longitude": 151.323478,
-        "address": "3 RAILWAY ST RAILWAY BOOKINGS, WOY WOY",
-        "postcode": "2256",
-        "number": "0243413720"
-    },
-    {
         "latitude": -33.495483,
         "longitude": 151.309072,
         "address": "76 WOY WOY RD , WOY WOY",
@@ -348,13 +341,6 @@
         "address": "3 RAILWAY ST WOY WOY RWLY STN, WOY WOY",
         "postcode": "2256",
         "number": "0243442650"
-    },
-    {
-        "latitude": -33.484339,
-        "longitude": 151.324552,
-        "address": "15 THE BOULEVARDE  NR BRISB. WATER DR, WOY WOY",
-        "postcode": "2256",
-        "number": "0243446124"
     },
     {
         "latitude": -33.485586,
@@ -2686,13 +2672,6 @@
         "address": "1 LOWE ST CNR ARTHUR ST, TRUNKEY CREEK",
         "postcode": "2795",
         "number": "0263688605"
-    },
-    {
-        "latitude": -33.28367,
-        "longitude": 149.10126,
-        "address": "208 LORDS PL NR SUMMER ST, ORANGE",
-        "postcode": "2800",
-        "number": "0263691748"
     },
     {
         "latitude": -32.5966235,
@@ -6503,13 +6482,6 @@
         "number": "0269200106"
     },
     {
-        "latitude": -35.268346,
-        "longitude": 147.114285,
-        "address": "96 URANA ST O/S POST OFFICE, THE ROCK",
-        "postcode": "2655",
-        "number": "0269202100"
-    },
-    {
         "latitude": -35.38675,
         "longitude": 147.057491,
         "address": "10 PLUNKET ST OS OLD POST OFFICE, YERONG CREEK",
@@ -6599,13 +6571,6 @@
         "address": "293 LAKE ALBERT RD O/S SHOPS, KOORINGAL",
         "postcode": "2650",
         "number": "0269224098"
-    },
-    {
-        "latitude": -35.193284,
-        "longitude": 147.245966,
-        "address": "30 OLYMPIC HWY CNR RYAN ST, URANQUINTY",
-        "postcode": "2652",
-        "number": "0269229697"
     },
     {
         "latitude": -34.870974,
@@ -7147,13 +7112,6 @@
         "number": "0269723098"
     },
     {
-        "latitude": -33.51577,
-        "longitude": 147.25373,
-        "address": "3 BENA ST NR MYALL ST, BURCHER",
-        "postcode": "2671",
-        "number": "0269725210"
-    },
-    {
         "latitude": -33.421321,
         "longitude": 146.728021,
         "address": "14 CONDOBOLIN ST NR CARGELLIGO ST, TULLIBIGEAL",
@@ -7413,8 +7371,8 @@
         "number": "0292125004"
     },
     {
-        "latitude": -33.8765,
-        "longitude": 151.21208,
+        "latitude": -33.876482,
+        "longitude": 151.209872,
         "address": "1 LIVERPOOL ST MUSEUM RLWY STN, SYDNEY",
         "postcode": "2000",
         "number": "0292125070"
@@ -7439,13 +7397,6 @@
         "address": "10 SPRING ST , SYDNEY",
         "postcode": "2000",
         "number": "0292476842"
-    },
-    {
-        "latitude": -33.8610933,
-        "longitude": 151.2125912,
-        "address": "JCDBTH 1131 0 CIRCULAR QY OPP AMATIL BLDG, SYDNEY",
-        "postcode": "2000",
-        "number": "0292479781"
     },
     {
         "latitude": -33.861211,
@@ -9751,13 +9702,6 @@
         "number": "0296532842"
     },
     {
-        "latitude": -33.66083,
-        "longitude": 151.00511,
-        "address": "137 KENTHURST RD OS AMPOL STN, KENTHURST",
-        "postcode": "2156",
-        "number": "0296542042"
-    },
-    {
         "latitude": -33.881193,
         "longitude": 151.170195,
         "address": "119 BOOTH ST NR JOHNSTON ST, ANNANDALE",
@@ -11347,13 +11291,6 @@
         "number": "0299250232"
     },
     {
-        "latitude": -33.780239,
-        "longitude": 151.289954,
-        "address": "50 KOOLOORA AVE , FRESHWATER",
-        "postcode": "2096",
-        "number": "0299384583"
-    },
-    {
         "latitude": -33.778987,
         "longitude": 151.285143,
         "address": "1 LAWRENCE ST NR ALBERT ST, FRESHWATER",
@@ -11856,6 +11793,13 @@
         "address": "25 QUEEN ST CNR KING ST, LAKE ILLAWARRA",
         "postcode": "2528",
         "number": "0400336569"
+    },
+    {
+        "latitude": -35.193284,
+        "longitude": 147.245966,
+        "address": "30 OLYMPIC HWY CNR RYAN ST, URANQUINTY",
+        "postcode": "2652",
+        "number": "0400370609"
     },
     {
         "latitude": -35.357123,
@@ -12423,13 +12367,6 @@
         "address": "47 STANLEY ST CNR MEMORIAL AVE, INGLEBURN",
         "postcode": "2565",
         "number": "0408636785"
-    },
-    {
-        "latitude": -33.871911,
-        "longitude": 151.038442,
-        "address": "0 NOTTINGHILL RD CNR GEORGES AVE, BERALA",
-        "postcode": "2141",
-        "number": "0408689719"
     },
     {
         "latitude": -34.031207,
@@ -13328,6 +13265,13 @@
         "number": "0418738353"
     },
     {
+        "latitude": -33.780239,
+        "longitude": 151.289954,
+        "address": "50 KOOLOORA AVE , FRESHWATER",
+        "postcode": "2096",
+        "number": "0418743722"
+    },
+    {
         "latitude": -33.769863,
         "longitude": 150.768914,
         "address": "1 PAGES RD NR GREAT WESTN HWY, ST MARYS ST MARYS",
@@ -13529,6 +13473,13 @@
         "address": "38 BELVOIR ST OS FLATS JOHN NORT, SURRY HILLS",
         "postcode": "2010",
         "number": "0419254326"
+    },
+    {
+        "latitude": -33.48562,
+        "longitude": 151.323478,
+        "address": "3 RAILWAY ST RAILWAY BOOKINGS, WOY WOY",
+        "postcode": "2256",
+        "number": "0419258631"
     },
     {
         "latitude": -33.765525,
@@ -14161,6 +14112,13 @@
         "number": "0427618596"
     },
     {
+        "latitude": -33.8610933,
+        "longitude": 151.2125912,
+        "address": "JCDBTH 1131 0 CIRCULAR QY OPP AMATIL BLDG, SYDNEY",
+        "postcode": "2000",
+        "number": "0427625840"
+    },
+    {
         "latitude": -33.895443,
         "longitude": 150.937835,
         "address": "2 JOHN ST NR CABRAMATTA RD W, CABRAMATTA",
@@ -14177,7 +14135,7 @@
     {
         "latitude": -33.024795,
         "longitude": 151.648364,
-        "address": "16 CROUDACE BAY RD , BELMONT",
+        "address": "16 CROUDACE BAY RD BELMONT HOSPITAL, BELMONT",
         "postcode": "2280",
         "number": "0427648433"
     },
@@ -14784,6 +14742,13 @@
         "number": "0428582517"
     },
     {
+        "latitude": -33.484339,
+        "longitude": 151.324552,
+        "address": "15 THE BOULEVARDE  NR BRISB. WATER DR, WOY WOY",
+        "postcode": "2256",
+        "number": "0428595889"
+    },
+    {
         "latitude": -36.044334,
         "longitude": 146.944912,
         "address": "443 WAGGA RD OS C/VAN PARK, LAVINGTON",
@@ -14796,6 +14761,13 @@
         "address": "266 MAITLAND RD IS TAFE NR B/STOP, TIGHES HILL",
         "postcode": "2297",
         "number": "0428638174"
+    },
+    {
+        "latitude": -33.28367,
+        "longitude": 149.10126,
+        "address": "223 LORDS PL NR SUMMER ST, ORANGE",
+        "postcode": "2800",
+        "number": "0428662623"
     },
     {
         "latitude": -33.892515,
@@ -15314,13 +15286,6 @@
         "address": "87 MELBOURNE ST , EAST MAITLAND",
         "postcode": "2323",
         "number": "0429549851"
-    },
-    {
-        "latitude": -32.926443,
-        "longitude": 151.76153,
-        "address": "1 NATIONAL PARK ST NR CNR HUNTER ST, NEWCASTLE WEST",
-        "postcode": "2302",
-        "number": "0429550323"
     },
     {
         "latitude": -33.922802,
@@ -17619,6 +17584,13 @@
         "number": "0437946059"
     },
     {
+        "latitude": -33.66083,
+        "longitude": 151.00511,
+        "address": "137 KENTHURST RD CALTEX SERVICE STN, KENTHURST",
+        "postcode": "2156",
+        "number": "0437956171"
+    },
+    {
         "latitude": -30.511195,
         "longitude": 152.045254,
         "address": "82 WOOLLOMOMBI RD CNR KILCOY RD, WOLLOMOMBI",
@@ -19243,9 +19215,9 @@
         "number": "0447820932"
     },
     {
-        "latitude": -33.878249,
-        "longitude": 151.214084,
-        "address": "181 RILEY ST OPP ARNOLD PL, DARLINGHURST",
+        "latitude": -33.878803,
+        "longitude": 151.214003,
+        "address": "181 RILEY ST OPP ARNOLD PL, SURRY HILLS",
         "postcode": "2010",
         "number": "0447822770"
     },
@@ -19663,8 +19635,8 @@
         "number": "0448060104"
     },
     {
-        "latitude": -33.90913,
-        "longitude": 151.099722,
+        "latitude": -33.904623,
+        "longitude": 151.099757,
         "address": "67 FIFTH AVE NR SEVENTH AVE, CAMPSIE",
         "postcode": "2194",
         "number": "0448065616"
@@ -20951,9 +20923,9 @@
         "number": "0448750229"
     },
     {
-        "latitude": -33.867914,
-        "longitude": 151.212198,
-        "address": "50 MARTIN PL ON ELIZABTH ST, SYDNEY",
+        "latitude": -33.867578,
+        "longitude": 151.210487,
+        "address": "48 MARTIN PL ON CNR ELIZ ST, SYDNEY",
         "postcode": "2000",
         "number": "0448750345"
     },
@@ -21180,6 +21152,13 @@
         "address": "66 GOULBURN ST OS MASONIC CENTRE, SYDNEY",
         "postcode": "2000",
         "number": "0448786507"
+    },
+    {
+        "latitude": -33.871911,
+        "longitude": 151.038442,
+        "address": "0 NOTTINGHILL RD CNR GEORGES AVE, BERALA",
+        "postcode": "2141",
+        "number": "0448794572"
     },
     {
         "latitude": -33.713414,
@@ -22771,8 +22750,8 @@
         "number": "0455673264"
     },
     {
-        "latitude": -33.867605,
-        "longitude": 151.209508,
+        "latitude": -33.867715,
+        "longitude": 151.208359,
         "address": "12 MARTIN PL ON PITT ST, SYDNEY",
         "postcode": "2000",
         "number": "0455680150"
@@ -23632,8 +23611,8 @@
         "number": "0455886480"
     },
     {
-        "latitude": -33.867626,
-        "longitude": 151.209029,
+        "latitude": -33.867395,
+        "longitude": 151.208387,
         "address": "14 MARTIN PL ON CNR PITT ST, SYDNEY",
         "postcode": "2000",
         "number": "0455891519"
@@ -23693,13 +23672,6 @@
         "address": "PLATFM 2 0 WELLINGTON RD SEFTON RLWY STN, SEFTON",
         "postcode": "2162",
         "number": "0455903131"
-    },
-    {
-        "latitude": -32.794273,
-        "longitude": 151.664599,
-        "address": "0 LAWSON AVE NR FREWIN AVE S/C, WOODBERRY",
-        "postcode": "2322",
-        "number": "0455903338"
     },
     {
         "latitude": -35.347731,
@@ -23779,8 +23751,8 @@
         "number": "0455989270"
     },
     {
-        "latitude": -33.891223,
-        "longitude": 151.195933,
+        "latitude": -33.891699,
+        "longitude": 151.194209,
         "address": "296 ABERCROMBIE ST CNR SHEPARD ST, DARLINGTON",
         "postcode": "2008",
         "number": "0455989273"
@@ -25074,6 +25046,13 @@
         "number": "0460967012"
     },
     {
+        "latitude": -32.794273,
+        "longitude": 151.664599,
+        "address": "0 LAWSON AVE NR FREWIN AVE S/C, WOODBERRY",
+        "postcode": "2322",
+        "number": "0461254241"
+    },
+    {
         "latitude": -33.950413,
         "longitude": 151.126299,
         "address": "0 ALBYN ST NR FOREST RD, BEXLEY",
@@ -25506,6 +25485,13 @@
         "address": "55 CARAWA RD , CROMER",
         "postcode": "2099",
         "number": "0473375157"
+    },
+    {
+        "latitude": -33.51577,
+        "longitude": 147.25373,
+        "address": "3 BENA ST NR MYALL ST, BURCHER",
+        "postcode": "2671",
+        "number": "0473393372"
     },
     {
         "latitude": -32.0707561,
@@ -28026,6 +28012,13 @@
         "address": "CNCRSE  15 BLUE ST NTH SYD RLWY STN, NORTH SYDNEY",
         "postcode": "2060",
         "number": "0487673836"
+    },
+    {
+        "latitude": -35.268346,
+        "longitude": 147.114285,
+        "address": "96 URANA ST O/S POST OFFICE, THE ROCK",
+        "postcode": "2655",
+        "number": "0487683010"
     },
     {
         "latitude": -33.284116,
