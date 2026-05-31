@@ -315,39 +315,11 @@
         "number": "0243402016"
     },
     {
-        "latitude": -33.495483,
-        "longitude": 151.309072,
-        "address": "76 WOY WOY RD , WOY WOY",
-        "postcode": "2256",
-        "number": "0243428392"
-    },
-    {
-        "latitude": -33.49661,
-        "longitude": 151.32885,
-        "address": "241 BLACKWALL RD OS LEISURE CTR, WOY WOY",
-        "postcode": "2256",
-        "number": "0243428631"
-    },
-    {
         "latitude": -33.48739,
         "longitude": 151.32385,
         "address": "10 GEORGE ST DEEPWATER PLAZA, WOY WOY",
         "postcode": "2256",
         "number": "0243431198"
-    },
-    {
-        "latitude": -33.485586,
-        "longitude": 151.323717,
-        "address": "3 RAILWAY ST WOY WOY RWLY STN, WOY WOY",
-        "postcode": "2256",
-        "number": "0243442650"
-    },
-    {
-        "latitude": -33.485586,
-        "longitude": 151.323717,
-        "address": "3 RAILWAY ST WOY WOY RWLY STN, WOY WOY",
-        "postcode": "2256",
-        "number": "0243447128"
     },
     {
         "latitude": -33.307165,
@@ -551,13 +523,6 @@
         "address": "69 GEORGE EVANS RD SHOALHAVEN CAMPUS, MUNDAMIA",
         "postcode": "2540",
         "number": "0244225628"
-    },
-    {
-        "latitude": -34.874827,
-        "longitude": 150.603871,
-        "address": "142 JUNCTION ST TAXI RANK, NOWRA",
-        "postcode": "2541",
-        "number": "0244231893"
     },
     {
         "latitude": -34.888274,
@@ -1778,20 +1743,6 @@
         "number": "0260206172"
     },
     {
-        "latitude": -36.073546,
-        "longitude": 146.91339,
-        "address": "629 JONES ST OS SHOPS, ALBURY",
-        "postcode": "2640",
-        "number": "0260212632"
-    },
-    {
-        "latitude": -36.080786,
-        "longitude": 146.916139,
-        "address": "569 DEAN ST E OF KIEWA ST, ALBURY",
-        "postcode": "2640",
-        "number": "0260214654"
-    },
-    {
         "latitude": -36.124502,
         "longitude": 146.884155,
         "address": "2 WILLIAM ST , WDNGA WODONGA",
@@ -1825,13 +1776,6 @@
         "address": "49 HAWKINS ST O/SIDE IGA STORE, HOWLONG",
         "postcode": "2643",
         "number": "0260265338"
-    },
-    {
-        "latitude": -36.105692,
-        "longitude": 146.67388,
-        "address": "20 HAVELOCK ST CRN HIGH ST, BRNWTHA BARNAWARTHA",
-        "postcode": "3688",
-        "number": "0260267200"
     },
     {
         "latitude": -36.312939,
@@ -1904,13 +1848,6 @@
         "number": "0260324140"
     },
     {
-        "latitude": -36.054693,
-        "longitude": 146.461077,
-        "address": "83 MAIN ST OS POST OFFICE, RTHGLN RUTHERGLEN",
-        "postcode": "3685",
-        "number": "0260329201"
-    },
-    {
         "latitude": -36.056851,
         "longitude": 146.458815,
         "address": "168 HIGH ST O/S HOSPITAL, RTHGLN RUTHERGLEN",
@@ -1923,13 +1860,6 @@
         "address": "53 GUY ST O/S HOSPITAL, COROWA",
         "postcode": "2646",
         "number": "0260331365"
-    },
-    {
-        "latitude": -36.009749,
-        "longitude": 146.394067,
-        "address": "24 FOORD ST O/S SERV STATION, WAHGYH WAHGUNYAH",
-        "postcode": "3687",
-        "number": "0260331654"
     },
     {
         "latitude": -35.998852,
@@ -8736,13 +8666,6 @@
         "number": "0295206813"
     },
     {
-        "latitude": -34.077803,
-        "longitude": 151.130408,
-        "address": "67 PACIFIC CRS OPP BUSH FIRE STN, MAIANBAR",
-        "postcode": "2230",
-        "number": "0295233197"
-    },
-    {
         "latitude": -34.036796,
         "longitude": 151.114629,
         "address": "LVL 2 430 THE KINGSWAY  IN SUTHERLAND HOSP, CARINGBAH",
@@ -8958,13 +8881,6 @@
         "address": "1 RAILWAY PDE KOGARAH RLWY STN, KOGARAH",
         "postcode": "2217",
         "number": "0295530465"
-    },
-    {
-        "latitude": -33.96396,
-        "longitude": 151.13268,
-        "address": "2 BELGRAVE ST O/S KOGARAH EXCH, KOGARAH",
-        "postcode": "2217",
-        "number": "0295538168"
     },
     {
         "latitude": -33.940423,
@@ -9308,13 +9224,6 @@
         "address": "48 CARLTON PDE NR SHORT ST, CARLTON",
         "postcode": "2218",
         "number": "0295881322"
-    },
-    {
-        "latitude": -33.963232,
-        "longitude": 151.133477,
-        "address": "3 MONTGOMERY ST , KOGARAH",
-        "postcode": "2217",
-        "number": "0295886773"
     },
     {
         "latitude": -34.004146,
@@ -12061,6 +11970,13 @@
         "number": "0407235168"
     },
     {
+        "latitude": -36.009749,
+        "longitude": 146.394067,
+        "address": "24 FOORD ST O/S SERV STATION, WAHGYH WAHGUNYAH",
+        "postcode": "3687",
+        "number": "0407239134"
+    },
+    {
         "latitude": -31.1082536,
         "longitude": 150.9542107,
         "address": "513 ARMIDALE RD IN REST AREA, TAMWORTH",
@@ -12080,6 +11996,13 @@
         "address": "51 PEEL ST , NORTH TAMWORTH",
         "postcode": "2340",
         "number": "0407304158"
+    },
+    {
+        "latitude": -33.485586,
+        "longitude": 151.323717,
+        "address": "3 RAILWAY ST WOY WOY RWLY STN, WOY WOY",
+        "postcode": "2256",
+        "number": "0407312208"
     },
     {
         "latitude": -31.01615,
@@ -12493,6 +12416,13 @@
         "address": "151 OLD PROSPECT RD CNR ETTALONG RD, GREYSTANES",
         "postcode": "2145",
         "number": "0409312242"
+    },
+    {
+        "latitude": -33.485586,
+        "longitude": 151.323717,
+        "address": "3 RAILWAY ST WOY WOY RWLY STN, WOY WOY",
+        "postcode": "2256",
+        "number": "0409336238"
     },
     {
         "latitude": -34.353146,
@@ -13872,6 +13802,13 @@
         "address": "3356 PUTTY RD OS SERVICE STATION, COLO HEIGHTS",
         "postcode": "2756",
         "number": "0427115515"
+    },
+    {
+        "latitude": -33.96396,
+        "longitude": 151.13268,
+        "address": "2 BELGRAVE ST O/S KOGARAH EXCH, KOGARAH",
+        "postcode": "2217",
+        "number": "0427118499"
     },
     {
         "latitude": -33.826645,
@@ -18732,6 +18669,13 @@
         "number": "0447243398"
     },
     {
+        "latitude": -36.054693,
+        "longitude": 146.461077,
+        "address": "83 MAIN ST OS POST OFFICE, RTHGLN RUTHERGLEN",
+        "postcode": "3685",
+        "number": "0447247101"
+    },
+    {
         "latitude": -34.839119,
         "longitude": 150.613448,
         "address": "23 SAMUEL ST NR ALFRED ST, BOMADERRY",
@@ -19794,6 +19738,13 @@
         "address": "652 DEAN ST , ALBURY",
         "postcode": "2640",
         "number": "0448129096"
+    },
+    {
+        "latitude": -34.874827,
+        "longitude": 150.603871,
+        "address": "142 JUNCTION ST TAXI RANK, NOWRA",
+        "postcode": "2541",
+        "number": "0448129900"
     },
     {
         "latitude": -33.9772,
@@ -21735,6 +21686,13 @@
         "number": "0455158781"
     },
     {
+        "latitude": -36.080786,
+        "longitude": 146.916139,
+        "address": "569 DEAN ST E OF KIEWA ST, ALBURY",
+        "postcode": "2640",
+        "number": "0455159968"
+    },
+    {
         "latitude": -33.771867,
         "longitude": 151.08264,
         "address": "5 OXFORD ST EPPING EXCHANGE, EPPING",
@@ -22846,6 +22804,13 @@
         "address": "4 MCKELLAR BLV OPP KAWANA AVE, BLUE HAVEN",
         "postcode": "2262",
         "number": "0455717092"
+    },
+    {
+        "latitude": -33.963232,
+        "longitude": 151.133477,
+        "address": "3 MONTGOMERY ST , KOGARAH",
+        "postcode": "2217",
+        "number": "0455717415"
     },
     {
         "latitude": -33.773305,
@@ -25249,6 +25214,13 @@
         "number": "0467800140"
     },
     {
+        "latitude": -34.077803,
+        "longitude": 151.130408,
+        "address": "67 PACIFIC CRS OPP BUSH FIRE STN, MAIANBAR",
+        "postcode": "2230",
+        "number": "0467816429"
+    },
+    {
         "latitude": -33.721471,
         "longitude": 151.096548,
         "address": "38 DENMAN PDE , NORMANHURST",
@@ -25569,6 +25541,13 @@
         "address": "18 QUIRK RD CNR BURCHMORE RD, MANLY VALE",
         "postcode": "2093",
         "number": "0473876847"
+    },
+    {
+        "latitude": -36.073546,
+        "longitude": 146.91339,
+        "address": "629 JONES ST OS SHOPS, ALBURY",
+        "postcode": "2640",
+        "number": "0473884222"
     },
     {
         "latitude": -33.678915,
@@ -26915,6 +26894,13 @@
         "number": "0477723499"
     },
     {
+        "latitude": -33.495483,
+        "longitude": 151.309072,
+        "address": "76 WOY WOY RD , WOY WOY",
+        "postcode": "2256",
+        "number": "0477746337"
+    },
+    {
         "latitude": -33.76501,
         "longitude": 151.20987,
         "address": "24 MELWOOD AVE MELWOOD OVAL, FORESTVILLE",
@@ -27144,6 +27130,13 @@
         "address": "116 THE ENTRANCE RD , THE ENTRANCE",
         "postcode": "2261",
         "number": "0482632498"
+    },
+    {
+        "latitude": -33.49661,
+        "longitude": 151.32885,
+        "address": "241 BLACKWALL RD OS LEISURE CTR, WOY WOY",
+        "postcode": "2256",
+        "number": "0482634163"
     },
     {
         "latitude": -33.87452,
@@ -27382,6 +27375,13 @@
         "address": "367 LAKEDGE AVE CNR ALBATROSS RD, BERKELEY VALE",
         "postcode": "2261",
         "number": "0484045684"
+    },
+    {
+        "latitude": -36.105692,
+        "longitude": 146.67388,
+        "address": "20 HAVELOCK ST CRN HIGH ST, BRNWTHA BARNAWARTHA",
+        "postcode": "3688",
+        "number": "0484050786"
     },
     {
         "latitude": -33.797471,
