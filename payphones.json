@@ -360,44 +360,12 @@
         "number": "0243402016"
     },
     {
-        "latitude": -33.495483,
-        "longitude": 151.309072,
-        "address": "76 WOY WOY RD , WOY WOY",
-        "state": "NSW",
-        "postcode": "2256",
-        "number": "0243428392"
-    },
-    {
-        "latitude": -33.49661,
-        "longitude": 151.32885,
-        "address": "241 BLACKWALL RD OS LEISURE CTR, WOY WOY",
-        "state": "NSW",
-        "postcode": "2256",
-        "number": "0243428631"
-    },
-    {
         "latitude": -33.48739,
         "longitude": 151.32385,
         "address": "10 GEORGE ST DEEPWATER PLAZA, WOY WOY",
         "state": "NSW",
         "postcode": "2256",
         "number": "0243431198"
-    },
-    {
-        "latitude": -33.485586,
-        "longitude": 151.323717,
-        "address": "3 RAILWAY ST WOY WOY RWLY STN, WOY WOY",
-        "state": "NSW",
-        "postcode": "2256",
-        "number": "0243442650"
-    },
-    {
-        "latitude": -33.485586,
-        "longitude": 151.323717,
-        "address": "3 RAILWAY ST WOY WOY RWLY STN, WOY WOY",
-        "state": "NSW",
-        "postcode": "2256",
-        "number": "0243447128"
     },
     {
         "latitude": -33.307165,
@@ -630,14 +598,6 @@
         "state": "NSW",
         "postcode": "2540",
         "number": "0244225628"
-    },
-    {
-        "latitude": -34.874827,
-        "longitude": 150.603871,
-        "address": "142 JUNCTION ST TAXI RANK, NOWRA",
-        "state": "NSW",
-        "postcode": "2541",
-        "number": "0244231893"
     },
     {
         "latitude": -34.888274,
@@ -2032,22 +1992,6 @@
         "number": "0260206172"
     },
     {
-        "latitude": -36.073546,
-        "longitude": 146.91339,
-        "address": "629 JONES ST OS SHOPS, ALBURY",
-        "state": "NSW",
-        "postcode": "2640",
-        "number": "0260212632"
-    },
-    {
-        "latitude": -36.080786,
-        "longitude": 146.916139,
-        "address": "569 DEAN ST E OF KIEWA ST, ALBURY",
-        "state": "NSW",
-        "postcode": "2640",
-        "number": "0260214654"
-    },
-    {
         "latitude": -36.124502,
         "longitude": 146.884155,
         "address": "2 WILLIAM ST , WDNGA WODONGA",
@@ -2086,14 +2030,6 @@
         "state": "NSW",
         "postcode": "2643",
         "number": "0260265338"
-    },
-    {
-        "latitude": -36.105692,
-        "longitude": 146.67388,
-        "address": "20 HAVELOCK ST CRN HIGH ST, BRNWTHA BARNAWARTHA",
-        "state": "NSW",
-        "postcode": "3688",
-        "number": "0260267200"
     },
     {
         "latitude": -36.312939,
@@ -2176,14 +2112,6 @@
         "number": "0260324140"
     },
     {
-        "latitude": -36.054693,
-        "longitude": 146.461077,
-        "address": "83 MAIN ST OS POST OFFICE, RTHGLN RUTHERGLEN",
-        "state": "NSW",
-        "postcode": "3685",
-        "number": "0260329201"
-    },
-    {
         "latitude": -36.056851,
         "longitude": 146.458815,
         "address": "168 HIGH ST O/S HOSPITAL, RTHGLN RUTHERGLEN",
@@ -2198,14 +2126,6 @@
         "state": "NSW",
         "postcode": "2646",
         "number": "0260331365"
-    },
-    {
-        "latitude": -36.009749,
-        "longitude": 146.394067,
-        "address": "24 FOORD ST O/S SERV STATION, WAHGYH WAHGUNYAH",
-        "state": "NSW",
-        "postcode": "3687",
-        "number": "0260331654"
     },
     {
         "latitude": -35.998852,
@@ -10256,14 +10176,6 @@
         "number": "0295206813"
     },
     {
-        "latitude": -34.077803,
-        "longitude": 151.130408,
-        "address": "67 PACIFIC CRS OPP BUSH FIRE STN, MAIANBAR",
-        "state": "NSW",
-        "postcode": "2230",
-        "number": "0295233197"
-    },
-    {
         "latitude": -34.036796,
         "longitude": 151.114629,
         "address": "LVL 2 430 THE KINGSWAY  IN SUTHERLAND HOSP, CARINGBAH",
@@ -10510,14 +10422,6 @@
         "state": "NSW",
         "postcode": "2217",
         "number": "0295530465"
-    },
-    {
-        "latitude": -33.96396,
-        "longitude": 151.13268,
-        "address": "2 BELGRAVE ST O/S KOGARAH EXCH, KOGARAH",
-        "state": "NSW",
-        "postcode": "2217",
-        "number": "0295538168"
     },
     {
         "latitude": -33.940423,
@@ -10910,14 +10814,6 @@
         "state": "NSW",
         "postcode": "2218",
         "number": "0295881322"
-    },
-    {
-        "latitude": -33.963232,
-        "longitude": 151.133477,
-        "address": "3 MONTGOMERY ST , KOGARAH",
-        "state": "NSW",
-        "postcode": "2217",
-        "number": "0295886773"
     },
     {
         "latitude": -34.004146,
@@ -13608,14 +13504,6 @@
         "number": "0350248400"
     },
     {
-        "latitude": -34.169799,
-        "longitude": 142.052313,
-        "address": "19 GAME ST NR SURGEY ST, MERBEIN",
-        "state": "VIC",
-        "postcode": "3505",
-        "number": "0350252400"
-    },
-    {
         "latitude": -34.168017,
         "longitude": 142.060459,
         "address": "94 COMMERCIAL RD POST OFFICE, MERBEIN",
@@ -15742,14 +15630,6 @@
         "state": "VIC",
         "postcode": "3551",
         "number": "0354488498"
-    },
-    {
-        "latitude": -35.733008,
-        "longitude": 143.924133,
-        "address": "169 BOUNDARY ST O/S RAIL STATION, KERANG",
-        "state": "VIC",
-        "postcode": "3579",
-        "number": "0354503382"
     },
     {
         "latitude": -35.63046,
@@ -18586,7 +18466,7 @@
     {
         "latitude": -42.114928,
         "longitude": 146.176674,
-        "address": "520 LAKE ST CLAIR RD BACKPACKERS HUT, LAKE ST CLAIR",
+        "address": "0 LAKE ST CLAIR RD NR OVERLANDER CAFE, DERWENT BRIDGE",
         "state": "TAS",
         "postcode": "7140",
         "number": "0362891032"
@@ -18602,7 +18482,7 @@
     {
         "latitude": -42.116194,
         "longitude": 146.174241,
-        "address": "540 LAKE ST CLAIR RD INFO CNTR IN FOYER, LAKE ST CLAIR",
+        "address": "520 LAKE ST CLAIR RD NR VISITOR CENTRE, DERWENT BRIDGE",
         "state": "TAS",
         "postcode": "7140",
         "number": "0362891127"
@@ -19584,14 +19464,6 @@
         "number": "0364718009"
     },
     {
-        "latitude": -41.779227,
-        "longitude": 145.545057,
-        "address": "19 PRIMROSE ST CNR MURCHINSON ST, ROSEBERY",
-        "state": "TAS",
-        "postcode": "7470",
-        "number": "0364731201"
-    },
-    {
         "latitude": -41.779741,
         "longitude": 145.539322,
         "address": "12 AGNES ST O/S POST OFFICE, ROSEBERY",
@@ -19982,14 +19854,6 @@
         "state": "VIC",
         "postcode": "3053",
         "number": "0393475463"
-    },
-    {
-        "latitude": -37.799406,
-        "longitude": 144.961349,
-        "address": "166  73 WILSON AVE OLD METALLURGY BLD, PARKVILLE",
-        "state": "VIC",
-        "postcode": "3052",
-        "number": "0393475541"
     },
     {
         "latitude": -37.7970661,
@@ -22032,14 +21896,6 @@
         "number": "0395989621"
     },
     {
-        "latitude": -37.816054,
-        "longitude": 144.955464,
-        "address": "173 KING ST NR BOURKE ST, MELBOURNE",
-        "state": "VIC",
-        "postcode": "3000",
-        "number": "0396000007"
-    },
-    {
         "latitude": -37.817069,
         "longitude": 144.960718,
         "address": "406 COLLINS ST , MELBOURNE",
@@ -22110,14 +21966,6 @@
         "state": "VIC",
         "postcode": "3000",
         "number": "0396024094"
-    },
-    {
-        "latitude": -37.811556,
-        "longitude": 144.961789,
-        "address": "299 ELIZABETH ST SW CNR LT LONSDALE, MELBOURNE",
-        "state": "VIC",
-        "postcode": "3000",
-        "number": "0396024796"
     },
     {
         "latitude": -37.814079,
@@ -23566,14 +23414,6 @@
         "state": "VIC",
         "postcode": "3124",
         "number": "0398091332"
-    },
-    {
-        "latitude": -37.8298248,
-        "longitude": 145.0570776,
-        "address": "612 BURKE RD NR ANZ CAMBERWELL, CAMBERWELL",
-        "state": "VIC",
-        "postcode": "3124",
-        "number": "0398134937"
     },
     {
         "latitude": -37.782101,
@@ -25512,6 +25352,14 @@
         "number": "0407235168"
     },
     {
+        "latitude": -36.009749,
+        "longitude": 146.394067,
+        "address": "24 FOORD ST O/S SERV STATION, WAHGYH WAHGUNYAH",
+        "state": "NSW",
+        "postcode": "3687",
+        "number": "0407239134"
+    },
+    {
         "latitude": -38.02744,
         "longitude": 145.10201,
         "address": "PLATFM 2 0 STATION ST ASPENDALE RLWY STN, ASPENDALE",
@@ -25590,6 +25438,14 @@
         "state": "QLD",
         "postcode": "4078",
         "number": "0407309694"
+    },
+    {
+        "latitude": -33.485586,
+        "longitude": 151.323717,
+        "address": "3 RAILWAY ST WOY WOY RWLY STN, WOY WOY",
+        "state": "NSW",
+        "postcode": "2256",
+        "number": "0407312208"
     },
     {
         "latitude": -41.449727,
@@ -26184,6 +26040,14 @@
         "number": "0408021799"
     },
     {
+        "latitude": -17.727278,
+        "longitude": 123.65504,
+        "address": "166  73 WILSON AVE OLD METALLURGY BLD, PARKVILLE",
+        "state": "VIC",
+        "postcode": "3052",
+        "number": "0408032220"
+    },
+    {
         "latitude": -33.138873,
         "longitude": 136.42017,
         "address": "41 HIGH ST , KIMBA KIMBA",
@@ -26318,6 +26182,22 @@
         "state": "NT",
         "postcode": "812",
         "number": "0408205064"
+    },
+    {
+        "latitude": -27.317986,
+        "longitude": 152.986838,
+        "address": "19 KREMZOW RD NR SOUTH PINE RD, BRENDALE",
+        "state": "QLD",
+        "postcode": "4500",
+        "number": "0408215835"
+    },
+    {
+        "latitude": -28.101706,
+        "longitude": 153.402117,
+        "address": "50 WOODLAND DRV CNR OLD COACH RD, REEDY CREEK",
+        "state": "QLD",
+        "postcode": "4227",
+        "number": "0408241209"
     },
     {
         "latitude": -34.865042,
@@ -26728,6 +26608,14 @@
         "number": "0408740981"
     },
     {
+        "latitude": -28.097111,
+        "longitude": 153.399255,
+        "address": "1 COROMANDEL LA QR VARSITY LAKES, VARSITY LAKES",
+        "state": "QLD",
+        "postcode": "4227",
+        "number": "0408748749"
+    },
+    {
         "latitude": -28.81381,
         "longitude": 153.27815,
         "address": "138 DAWSON ST NR BALLINA ST, LISMORE",
@@ -26806,14 +26694,6 @@
         "state": "QLD",
         "postcode": "4509",
         "number": "0408858768"
-    },
-    {
-        "latitude": -17.727278,
-        "longitude": 123.65504,
-        "address": "LOT  64 GREAT NORTHERN HWY O/S ROADHOUSE, WILLARE",
-        "state": "WA",
-        "postcode": "6728",
-        "number": "0408861639"
     },
     {
         "latitude": -35.06803,
@@ -27166,6 +27046,14 @@
         "state": "WA",
         "postcode": "6043",
         "number": "0409335075"
+    },
+    {
+        "latitude": -33.485586,
+        "longitude": 151.323717,
+        "address": "3 RAILWAY ST WOY WOY RWLY STN, WOY WOY",
+        "state": "NSW",
+        "postcode": "2256",
+        "number": "0409336238"
     },
     {
         "latitude": -27.389126,
@@ -27824,6 +27712,14 @@
         "number": "0417052311"
     },
     {
+        "latitude": -27.594755,
+        "longitude": 151.951618,
+        "address": "445 HUME ST THE RIDGE SHOPPING, KEARNEYS SPRING",
+        "state": "QLD",
+        "postcode": "4350",
+        "number": "0417059386"
+    },
+    {
         "latitude": -27.409871,
         "longitude": 153.032517,
         "address": "192 GYMPIE RD CNR BROUGHTON RD, KEDRON",
@@ -28368,6 +28264,14 @@
         "number": "0417500441"
     },
     {
+        "latitude": -35.733008,
+        "longitude": 143.924133,
+        "address": "169 BOUNDARY ST O/S RAIL STATION, KERANG",
+        "state": "VIC",
+        "postcode": "3579",
+        "number": "0417502568"
+    },
+    {
         "latitude": -34.591265,
         "longitude": 150.844796,
         "address": "0 PIPER DRV RWS SHELLHARBOUR J, DUNMORE",
@@ -28494,6 +28398,14 @@
         "state": "SA",
         "postcode": "5374",
         "number": "0417575391"
+    },
+    {
+        "latitude": -41.779227,
+        "longitude": 145.545057,
+        "address": "19 PRIMROSE ST CNR MURCHINSON ST, ROSEBERY",
+        "state": "TAS",
+        "postcode": "7470",
+        "number": "0417578215"
     },
     {
         "latitude": -34.92289,
@@ -32742,6 +32654,14 @@
         "state": "QLD",
         "postcode": "4506",
         "number": "0427117403"
+    },
+    {
+        "latitude": -33.96396,
+        "longitude": 151.13268,
+        "address": "2 BELGRAVE ST O/S KOGARAH EXCH, KOGARAH",
+        "state": "NSW",
+        "postcode": "2217",
+        "number": "0427118499"
     },
     {
         "latitude": -17.526437,
@@ -42768,8 +42688,8 @@
         "number": "0436464729"
     },
     {
-        "latitude": -37.762318,
-        "longitude": 144.996786,
+        "latitude": -37.76404,
+        "longitude": 144.996965,
         "address": "12 SPENCER ST CROXTON RLWY STN, NORTHCOTE",
         "state": "VIC",
         "postcode": "3070",
@@ -42782,14 +42702,6 @@
         "state": "NSW",
         "postcode": "2537",
         "number": "0436474633"
-    },
-    {
-        "latitude": -27.444921,
-        "longitude": 153.020892,
-        "address": "7 FAGAN ST NR BUTTERFIELD ST, HERSTON",
-        "state": "QLD",
-        "postcode": "4006",
-        "number": "0436474651"
     },
     {
         "latitude": -27.598127,
@@ -44696,8 +44608,8 @@
         "number": "0437342455"
     },
     {
-        "latitude": -38.108984,
-        "longitude": 145.282393,
+        "latitude": -38.08153,
+        "longitude": 145.278148,
         "address": "1045 SOUTH GIPPSLAND HWY THOMPSON PARKWAY S, CRANBOURNE",
         "state": "VIC",
         "postcode": "3977",
@@ -46702,6 +46614,14 @@
         "state": "SA",
         "postcode": "5353",
         "number": "0438282585"
+    },
+    {
+        "latitude": -32.111601,
+        "longitude": 115.764218,
+        "address": "335 COCKBURN RD NR POWELL RD, COOGEE COOGEE",
+        "state": "WA",
+        "postcode": "6166",
+        "number": "0438282914"
     },
     {
         "latitude": -33.586091,
@@ -50376,6 +50296,14 @@
         "number": "0447243398"
     },
     {
+        "latitude": -36.054693,
+        "longitude": 146.461077,
+        "address": "83 MAIN ST OS POST OFFICE, RTHGLN RUTHERGLEN",
+        "state": "NSW",
+        "postcode": "3685",
+        "number": "0447247101"
+    },
+    {
         "latitude": -35.33341,
         "longitude": 149.09386,
         "address": "16 HUGHES PL HUGHES S/C, HUGHES",
@@ -51640,6 +51568,14 @@
         "number": "0447747634"
     },
     {
+        "latitude": -37.8298248,
+        "longitude": 145.0570776,
+        "address": "612 BURKE RD NR ANZ CAMBERWELL, CAMBERWELL",
+        "state": "VIC",
+        "postcode": "3124",
+        "number": "0447749179"
+    },
+    {
         "latitude": -37.939245,
         "longitude": 145.00209,
         "address": "285 HAMPTON ST OS SHOPS, HAMPTON",
@@ -51774,6 +51710,14 @@
         "state": "NSW",
         "postcode": "2034",
         "number": "0447780023"
+    },
+    {
+        "latitude": -24.883641,
+        "longitude": 152.37635,
+        "address": "109 ELLIOTT HEADS RD NR BAKER ST, KEPNOCK",
+        "state": "QLD",
+        "postcode": "4670",
+        "number": "0447780648"
     },
     {
         "latitude": -23.379942,
@@ -54198,6 +54142,14 @@
         "state": "NSW",
         "postcode": "2640",
         "number": "0448129096"
+    },
+    {
+        "latitude": -34.874827,
+        "longitude": 150.603871,
+        "address": "142 JUNCTION ST TAXI RANK, NOWRA",
+        "state": "NSW",
+        "postcode": "2541",
+        "number": "0448129900"
     },
     {
         "latitude": -32.078596,
@@ -58760,14 +58712,6 @@
         "number": "0448714030"
     },
     {
-        "latitude": -27.317986,
-        "longitude": 152.986838,
-        "address": "19 KREMZOW RD NR SOUTH PINE RD, BRENDALE",
-        "state": "QLD",
-        "postcode": "4500",
-        "number": "0448715546"
-    },
-    {
         "latitude": -18.648628,
         "longitude": 146.160188,
         "address": "20 FRANCIS ST SE OF BRUCE HWY, INGHAM",
@@ -61488,6 +61432,14 @@
         "number": "0455047376"
     },
     {
+        "latitude": -37.811556,
+        "longitude": 144.961789,
+        "address": "299 ELIZABETH ST SW CNR LT LONSDALE, MELBOURNE",
+        "state": "VIC",
+        "postcode": "3000",
+        "number": "0455047690"
+    },
+    {
         "latitude": -33.783844,
         "longitude": 150.941168,
         "address": "OPPOSI  37 BEST RD NR HARWOOD ST, SEVEN HILLS",
@@ -62208,6 +62160,14 @@
         "number": "0455158781"
     },
     {
+        "latitude": -36.080786,
+        "longitude": 146.916139,
+        "address": "569 DEAN ST E OF KIEWA ST, ALBURY",
+        "state": "NSW",
+        "postcode": "2640",
+        "number": "0455159968"
+    },
+    {
         "latitude": -33.771867,
         "longitude": 151.08264,
         "address": "5 OXFORD ST EPPING EXCHANGE, EPPING",
@@ -62448,8 +62408,8 @@
         "number": "0455201482"
     },
     {
-        "latitude": -34.946386,
-        "longitude": 138.571134,
+        "latitude": -34.946178,
+        "longitude": 138.57276,
         "address": "LOT 374 14 EVERARD AVE CNR SURREY RD, KESWICK",
         "state": "SA",
         "postcode": "5035",
@@ -66336,14 +66296,6 @@
         "number": "0455670643"
     },
     {
-        "latitude": -27.300907,
-        "longitude": 152.97189,
-        "address": "185 SAMSONVALE RD NR WINDREST ST, STRATHPINE",
-        "state": "QLD",
-        "postcode": "4500",
-        "number": "0455671544"
-    },
-    {
         "latitude": -33.867002,
         "longitude": 151.209849,
         "address": "17 CASTLEREAGH ST , SYDNEY",
@@ -66830,6 +66782,14 @@
         "state": "NSW",
         "postcode": "2262",
         "number": "0455717092"
+    },
+    {
+        "latitude": -33.963232,
+        "longitude": 151.133477,
+        "address": "3 MONTGOMERY ST , KOGARAH",
+        "state": "NSW",
+        "postcode": "2217",
+        "number": "0455717415"
     },
     {
         "latitude": -27.59849,
@@ -68270,14 +68230,6 @@
         "state": "QLD",
         "postcode": "4655",
         "number": "0455736866"
-    },
-    {
-        "latitude": -27.347955,
-        "longitude": 153.027184,
-        "address": "7 BALCARA AVE NR BEAMS RD, CARSELDINE",
-        "state": "QLD",
-        "postcode": "4034",
-        "number": "0455736966"
     },
     {
         "latitude": -33.94861,
@@ -72168,6 +72120,14 @@
         "number": "0456625616"
     },
     {
+        "latitude": -17.727278,
+        "longitude": 123.65504,
+        "address": "LOT  64 GREAT NORTHERN HWY O/S ROADHOUSE, WILLARE",
+        "state": "WA",
+        "postcode": "6728",
+        "number": "0456627603"
+    },
+    {
         "latitude": -36.75135,
         "longitude": 145.57058,
         "address": "88 BINNEY ST OS POST OFFICE, EUROA EUROA",
@@ -72630,6 +72590,14 @@
         "state": "SA",
         "postcode": "5171",
         "number": "0456869078"
+    },
+    {
+        "latitude": -27.347955,
+        "longitude": 153.027184,
+        "address": "7 BALCARA AVE NR BEAMS RD, CARSELDINE",
+        "state": "QLD",
+        "postcode": "4034",
+        "number": "0456884529"
     },
     {
         "latitude": -31.826119,
@@ -73688,6 +73656,14 @@
         "number": "0458402497"
     },
     {
+        "latitude": -26.75986,
+        "longitude": 153.124623,
+        "address": "614 NICKLIN WAY WURTULLA SHOPPING, WURTULLA",
+        "state": "QLD",
+        "postcode": "4575",
+        "number": "0458429360"
+    },
+    {
         "latitude": -33.967524,
         "longitude": 151.133347,
         "address": "36 BELGRAVE ST ST GEORGE HOSPITAL, KOGARAH",
@@ -73886,6 +73862,14 @@
         "state": "SA",
         "postcode": "5204",
         "number": "0458786392"
+    },
+    {
+        "latitude": -34.169799,
+        "longitude": 142.052313,
+        "address": "19 GAME ST NR SURGEY ST, MERBEIN",
+        "state": "VIC",
+        "postcode": "3505",
+        "number": "0458793665"
     },
     {
         "latitude": -31.823419,
@@ -76120,6 +76104,14 @@
         "number": "0467808934"
     },
     {
+        "latitude": -34.077803,
+        "longitude": 151.130408,
+        "address": "67 PACIFIC CRS OPP BUSH FIRE STN, MAIANBAR",
+        "state": "NSW",
+        "postcode": "2230",
+        "number": "0467816429"
+    },
+    {
         "latitude": -27.415897,
         "longitude": 153.058776,
         "address": "99 JUNCTION RD NR SANDGATE RD, CLAYFIELD",
@@ -77232,6 +77224,14 @@
         "number": "0473876847"
     },
     {
+        "latitude": -36.073546,
+        "longitude": 146.91339,
+        "address": "629 JONES ST OS SHOPS, ALBURY",
+        "state": "NSW",
+        "postcode": "2640",
+        "number": "0473884222"
+    },
+    {
         "latitude": -26.552602,
         "longitude": 153.097784,
         "address": "1469 DAVID LOW WAY NR GOONGILLA ST, YAROOMBA",
@@ -78016,8 +78016,8 @@
         "number": "0474766737"
     },
     {
-        "latitude": -25.904811,
-        "longitude": 153.090483,
+        "latitude": -25.904829,
+        "longitude": 153.090511,
         "address": "18 RAINBOW BEACH RD NR CYPRESS AVE, RAINBOW BEACH",
         "state": "QLD",
         "postcode": "4581",
@@ -79646,6 +79646,14 @@
         "state": "VIC",
         "postcode": "3018",
         "number": "0475729014"
+    },
+    {
+        "latitude": -37.816054,
+        "longitude": 144.955464,
+        "address": "173 KING ST NR BOURKE ST, MELBOURNE",
+        "state": "VIC",
+        "postcode": "3000",
+        "number": "0475729128"
     },
     {
         "latitude": -37.9541,
@@ -83432,6 +83440,14 @@
         "number": "0477741844"
     },
     {
+        "latitude": -33.495483,
+        "longitude": 151.309072,
+        "address": "76 WOY WOY RD , WOY WOY",
+        "state": "NSW",
+        "postcode": "2256",
+        "number": "0477746337"
+    },
+    {
         "latitude": -33.76501,
         "longitude": 151.20987,
         "address": "24 MELWOOD AVE MELWOOD OVAL, FORESTVILLE",
@@ -84174,6 +84190,14 @@
         "state": "NSW",
         "postcode": "2261",
         "number": "0482632498"
+    },
+    {
+        "latitude": -33.49661,
+        "longitude": 151.32885,
+        "address": "241 BLACKWALL RD OS LEISURE CTR, WOY WOY",
+        "state": "NSW",
+        "postcode": "2256",
+        "number": "0482634163"
     },
     {
         "latitude": -37.81243,
@@ -85486,6 +85510,14 @@
         "state": "SA",
         "postcode": "5033",
         "number": "0484048700"
+    },
+    {
+        "latitude": -36.105692,
+        "longitude": 146.67388,
+        "address": "20 HAVELOCK ST CRN HIGH ST, BRNWTHA BARNAWARTHA",
+        "state": "NSW",
+        "postcode": "3688",
+        "number": "0484050786"
     },
     {
         "latitude": -34.118286,
@@ -87464,6 +87496,14 @@
         "number": "0486042928"
     },
     {
+        "latitude": -27.444921,
+        "longitude": 153.020892,
+        "address": "7 FAGAN ST NR BUTTERFIELD ST, HERSTON",
+        "state": "QLD",
+        "postcode": "4006",
+        "number": "0486045845"
+    },
+    {
         "latitude": -37.584328,
         "longitude": 143.826294,
         "address": "624 SUTTON ST NR LEAWARRA CRES, DELACOMBE",
@@ -88328,8 +88368,8 @@
         "number": "0488137531"
     },
     {
-        "latitude": -37.8074,
-        "longitude": 144.9426,
+        "latitude": -37.770246,
+        "longitude": 144.773224,
         "address": "811 WESTERN HWY OS PHARMACY, DEER PARK",
         "state": "VIC",
         "postcode": "3023",
@@ -88582,6 +88622,14 @@
         "state": "QLD",
         "postcode": "4303",
         "number": "0488548882"
+    },
+    {
+        "latitude": -28.099834,
+        "longitude": 153.418646,
+        "address": "10 CASSIA DRV NR MATTOCKS RD, VARSITY LAKES",
+        "state": "QLD",
+        "postcode": "4227",
+        "number": "0488553107"
     },
     {
         "latitude": -31.954152,
@@ -89528,6 +89576,14 @@
         "number": "0497073166"
     },
     {
+        "latitude": -27.300907,
+        "longitude": 152.97189,
+        "address": "185 SAMSONVALE RD NR WINDREST ST, STRATHPINE",
+        "state": "QLD",
+        "postcode": "4500",
+        "number": "0497074675"
+    },
+    {
         "latitude": -37.947135,
         "longitude": 145.153466,
         "address": "1 VIRGINIA ST CNR SPRINGVALE RD, SPRINGVALE",
@@ -90182,6 +90238,14 @@
         "state": "WA",
         "postcode": "6163",
         "number": "0498339256"
+    },
+    {
+        "latitude": -21.57781,
+        "longitude": 141.91876,
+        "address": "0 LANDSBOROUGH HWY , Kynuna",
+        "state": "QLD",
+        "postcode": "4823",
+        "number": "0498345120"
     },
     {
         "latitude": -33.913924,
@@ -94760,14 +94824,6 @@
         "number": "0741533930"
     },
     {
-        "latitude": -24.883641,
-        "longitude": 152.37635,
-        "address": "109 ELLIOTT HEADS RD NR BAKER ST, KEPNOCK",
-        "state": "QLD",
-        "postcode": "4670",
-        "number": "0741533932"
-    },
-    {
         "latitude": -24.885483,
         "longitude": 152.352929,
         "address": "108 MARYBOROUGH ST NR BOSTON ST, WALKERVALE",
@@ -95270,14 +95326,6 @@
         "state": "QLD",
         "postcode": "4655",
         "number": "0741946582"
-    },
-    {
-        "latitude": -27.594755,
-        "longitude": 151.951618,
-        "address": "445 HUME ST THE RIDGE SHOPPING, KEARNEYS SPRING",
-        "state": "QLD",
-        "postcode": "4350",
-        "number": "0746135109"
     },
     {
         "latitude": -26.571691,
@@ -97094,14 +97142,6 @@
         "state": "QLD",
         "postcode": "4823",
         "number": "0747468410"
-    },
-    {
-        "latitude": -21.57781,
-        "longitude": 141.91876,
-        "address": "0 LANDSBOROUGH HWY , Kynuna",
-        "state": "QLD",
-        "postcode": "4823",
-        "number": "0747468782"
     },
     {
         "latitude": -19.921479,
@@ -100664,14 +100704,6 @@
         "number": "0754930962"
     },
     {
-        "latitude": -26.75986,
-        "longitude": 153.124623,
-        "address": "614 NICKLIN WAY WURTULLA SHOPPING, WURTULLA",
-        "state": "QLD",
-        "postcode": "4575",
-        "number": "0754933091"
-    },
-    {
         "latitude": -26.862583,
         "longitude": 152.961236,
         "address": "87 BEERWAH PDE , BEERWAH",
@@ -103638,14 +103670,6 @@
         "state": "NT",
         "postcode": "820",
         "number": "0889419802"
-    },
-    {
-        "latitude": -12.37307,
-        "longitude": 130.870479,
-        "address": "77 DRIPSTONE RD NT UNI ADJ ADMIN B, BRINKIN",
-        "state": "NT",
-        "postcode": "810",
-        "number": "0889450258"
     },
     {
         "latitude": -12.377691,
@@ -109590,14 +109614,6 @@
         "state": "WA",
         "postcode": "6163",
         "number": "0894183043"
-    },
-    {
-        "latitude": -32.111601,
-        "longitude": 115.764218,
-        "address": "335 COCKBURN RD NR POWELL RD, COOGEE COOGEE",
-        "state": "WA",
-        "postcode": "6166",
-        "number": "0894186258"
     },
     {
         "latitude": -32.23572,
