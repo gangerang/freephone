@@ -936,21 +936,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.29012,
-                    -33.35821
-                ]
-            },
-            "properties": {
-                "address": "841 WISEMANS FERRY RD OS STORE, SOMERSBY",
-                "postcode": "2250",
-                "number": "0243721409"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.235106,
                     -33.316281
                 ]
@@ -3351,21 +3336,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.53473,
-                    -33.12011
-                ]
-            },
-            "properties": {
-                "address": "5 MACQUARIE RD , MORISSET PARK",
-                "postcode": "2264",
-                "number": "0249731441"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.45361,
                     -33.07635
                 ]
@@ -3711,21 +3681,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    147.247627,
-                    -35.833194
-                ]
-            },
-            "properties": {
-                "address": "685 WOOMARGAMA WAY , WOOMARGAMA",
-                "postcode": "2644",
-                "number": "0260205210"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     147.012891,
                     -36.141827
                 ]
@@ -3809,21 +3764,6 @@
                 "address": "49 HAWKINS ST O/SIDE IGA STORE, HOWLONG",
                 "postcode": "2643",
                 "number": "0260265338"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    146.838097,
-                    -36.312939
-                ]
-            },
-            "properties": {
-                "address": "37 HIGH ST , YKNDNDA YACKANDANDAH",
-                "postcode": "3749",
-                "number": "0260271509"
             }
         },
         {
@@ -4139,21 +4079,6 @@
                 "address": "5798 RIVER RD O/S DORA DORA HTL, TALMALMO",
                 "postcode": "2640",
                 "number": "0260373241"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    146.91467,
-                    -36.08068
-                ]
-            },
-            "properties": {
-                "address": "591 DEAN ST W OF KIEWA ST, ALBURY",
-                "postcode": "2640",
-                "number": "0260412480"
             }
         },
         {
@@ -8531,7 +8456,7 @@
                 ]
             },
             "properties": {
-                "address": "58 WORENDO ST NR GENERAL STORE, WIANGAREE",
+                "address": "60 WORENDO ST NR GENERAL STORE, WIANGAREE",
                 "postcode": "2474",
                 "number": "0266362200"
             }
@@ -9891,36 +9816,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.575708,
-                    -28.36128
-                ]
-            },
-            "properties": {
-                "address": "9 TWEED COAST RD OS GENERAL STORE, HASTINGS POINT",
-                "postcode": "2489",
-                "number": "0266761200"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.565966,
-                    -28.388284
-                ]
-            },
-            "properties": {
-                "address": "0 TWEED COAST RD AMBROSE BROWN PARK, POTTSVILLE",
-                "postcode": "2489",
-                "number": "0266761246"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     153.461303,
                     -28.274372
                 ]
@@ -10334,21 +10229,6 @@
                 "address": "67 SHIRLEY ST , BYRON BAY",
                 "postcode": "2481",
                 "number": "0266857403"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.61368,
-                    -28.641157
-                ]
-            },
-            "properties": {
-                "address": "10 BAY ST OPP BEACH MOTEL, BYRON BAY",
-                "postcode": "2481",
-                "number": "0266858873"
             }
         },
         {
@@ -10844,21 +10724,6 @@
                 "address": "3 POST OFFICE ST NR ODONNELL ST, EMMAVILLE",
                 "postcode": "2371",
                 "number": "0267347200"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    152.011116,
-                    -29.052353
-                ]
-            },
-            "properties": {
-                "address": "43 HIGH ST , TENTERFIELD",
-                "postcode": "2372",
-                "number": "0267361587"
             }
         },
         {
@@ -16011,21 +15876,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.209122,
-                    -33.871492
-                ]
-            },
-            "properties": {
-                "address": "133 CASTLEREAGH ST PICADILLY CNTR, SYDNEY",
-                "postcode": "2000",
-                "number": "0292645838"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.209242,
                     -33.874568
                 ]
@@ -18456,21 +18306,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.121664,
-                    -33.724183
-                ]
-            },
-            "properties": {
-                "address": "0 HEYDON AVE WARRAWEE RLWY STN, WARRAWEE",
-                "postcode": "2074",
-                "number": "0294890492"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.153001,
                     -33.756013
                 ]
@@ -19004,36 +18839,6 @@
                 "address": "181 GLEBE POINT RD O/S POST OFFICE, GLEBE GLEBE",
                 "postcode": "2037",
                 "number": "0295524892"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.132431,
-                    -33.962799
-                ]
-            },
-            "properties": {
-                "address": "1 RAILWAY PDE KOGARAH RLWY STN, KOGARAH",
-                "postcode": "2217",
-                "number": "0295530463"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.132431,
-                    -33.962799
-                ]
-            },
-            "properties": {
-                "address": "1 RAILWAY PDE KOGARAH RLWY STN, KOGARAH",
-                "postcode": "2217",
-                "number": "0295530465"
             }
         },
         {
@@ -21681,21 +21486,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.073728,
-                    -33.933869
-                ]
-            },
-            "properties": {
-                "address": "91 CANARYS RD NR KING GEORGES RD, ROSELANDS",
-                "postcode": "2196",
-                "number": "0297404103"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.07037,
                     -33.91376
                 ]
@@ -22634,21 +22424,6 @@
                 "address": "117 NORTH TCE OLD TOWN PLAZA, BANKSTOWN",
                 "postcode": "2200",
                 "number": "0297962531"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.035018,
-                    -33.910364
-                ]
-            },
-            "properties": {
-                "address": "500 CHAPEL RD TAFE - BLOCK J, BANKSTOWN",
-                "postcode": "2200",
-                "number": "0297963240"
             }
         },
         {
@@ -24359,21 +24134,6 @@
                 "address": "13 SOUTH STEYNE  ON BEACH SIDE, MANLY MANLY",
                 "postcode": "2095",
                 "number": "0299777674"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.320032,
-                    -33.655202
-                ]
-            },
-            "properties": {
-                "address": "347 BARRENJOEY RD NEAR ROBERTSON RD, NEWPORT",
-                "postcode": "2106",
-                "number": "0299796750"
             }
         },
         {
@@ -26789,6 +26549,21 @@
                 "address": "OPP  102 BURTON ST NR FORBES ST, DARLINGHURST",
                 "postcode": "2010",
                 "number": "0409590652"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.91467,
+                    -36.08068
+                ]
+            },
+            "properties": {
+                "address": "591 DEAN ST W OF KIEWA ST, ALBURY",
+                "postcode": "2640",
+                "number": "0409657425"
             }
         },
         {
@@ -29789,6 +29564,21 @@
                 "address": "9 ELPHINSTONE RD CNR ILUKE PL, SOUTH COOGEE",
                 "postcode": "2034",
                 "number": "0427379192"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.011116,
+                    -29.052353
+                ]
+            },
+            "properties": {
+                "address": "43 HIGH ST , TENTERFIELD",
+                "postcode": "2372",
+                "number": "0427381031"
             }
         },
         {
@@ -33876,21 +33666,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.229032,
-                    -29.983096
-                ]
-            },
-            "properties": {
-                "address": "LOT 7017 1 LAWSON ST OPP POST OFFICE, RED ROCK",
-                "postcode": "2456",
-                "number": "0436289666"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.845671,
                     -34.481631
                 ]
@@ -34154,6 +33929,21 @@
                 "address": "30 JOHN ST , WARNERS BAY",
                 "postcode": "2282",
                 "number": "0436319713"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.575708,
+                    -28.36128
+                ]
+            },
+            "properties": {
+                "address": "9 TWEED COAST RD OS POST OFFICE, HASTINGS POINT",
+                "postcode": "2489",
+                "number": "0436319814"
             }
         },
         {
@@ -35166,6 +34956,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.61368,
+                    -28.641157
+                ]
+            },
+            "properties": {
+                "address": "10 BAY ST OPP BEACH MOTEL, BYRON BAY",
+                "postcode": "2481",
+                "number": "0436426687"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     149.79131,
                     -29.918196
                 ]
@@ -35459,6 +35264,21 @@
                 "address": "BLOCK L 67 NORTH PDE WSTN SYDNEY INST, MOUNT DRUITT",
                 "postcode": "2770",
                 "number": "0436449757"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.320032,
+                    -33.655202
+                ]
+            },
+            "properties": {
+                "address": "347 BARRENJOEY RD NEAR ROBERTSON RD, NEWPORT",
+                "postcode": "2106",
+                "number": "0436449998"
             }
         },
         {
@@ -36329,6 +36149,21 @@
                 "address": "8 FOWLER ST , HAMILTON SOUTH",
                 "postcode": "2303",
                 "number": "0436968264"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.565966,
+                    -28.388284
+                ]
+            },
+            "properties": {
+                "address": "0 TWEED COAST RD AMBROSE BROWN PARK, POTTSVILLE",
+                "postcode": "2489",
+                "number": "0437000899"
             }
         },
         {
@@ -40671,6 +40506,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.073728,
+                    -33.933869
+                ]
+            },
+            "properties": {
+                "address": "91 CANARYS RD NR KING GEORGES RD, ROSELANDS",
+                "postcode": "2196",
+                "number": "0447739212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.2088387,
                     -33.857866
                 ]
@@ -42056,7 +41906,7 @@
                 ]
             },
             "properties": {
-                "address": "24 KOKERA ST STOCKLAND WALLSEND, WALLSEND",
+                "address": "24 KOKERA ST WALLSEND VILLAGE, WALLSEND",
                 "postcode": "2287",
                 "number": "0448079516"
             }
@@ -47601,6 +47451,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.229032,
+                    -29.983096
+                ]
+            },
+            "properties": {
+                "address": "LOT 7017 1 LAWSON ST OPP POST OFFICE, RED ROCK",
+                "postcode": "2456",
+                "number": "0455428916"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.2877,
                     -33.79573
                 ]
@@ -48914,6 +48779,21 @@
                 "address": "128 BROCKLEY ST , WDNGA WODONGA",
                 "postcode": "3690",
                 "number": "0455717931"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.29012,
+                    -33.35821
+                ]
+            },
+            "properties": {
+                "address": "841 WISEMANS FERRY RD OS STORE, SOMERSBY",
+                "postcode": "2250",
+                "number": "0455718523"
             }
         },
         {
@@ -55281,6 +55161,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.132431,
+                    -33.962799
+                ]
+            },
+            "properties": {
+                "address": "1 RAILWAY PDE KOGARAH RLWY STN, KOGARAH",
+                "postcode": "2217",
+                "number": "0475125055"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.58749,
                     -32.744914
                 ]
@@ -57966,6 +57861,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.121664,
+                    -33.724183
+                ]
+            },
+            "properties": {
+                "address": "0 HEYDON AVE WARRAWEE RLWY STN, WARRAWEE",
+                "postcode": "2074",
+                "number": "0477971524"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.204028,
                     -33.878308
                 ]
@@ -58326,6 +58236,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.132431,
+                    -33.962799
+                ]
+            },
+            "properties": {
+                "address": "1 RAILWAY PDE KOGARAH RLWY STN, KOGARAH",
+                "postcode": "2217",
+                "number": "0482924043"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     152.908524,
                     -31.4311471
                 ]
@@ -58664,6 +58589,21 @@
                 "address": "367 LAKEDGE AVE CNR ALBATROSS RD, BERKELEY VALE",
                 "postcode": "2261",
                 "number": "0484045684"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.838097,
+                    -36.312939
+                ]
+            },
+            "properties": {
+                "address": "37 HIGH ST , YKNDNDA YACKANDANDAH",
+                "postcode": "3749",
+                "number": "0484050523"
             }
         },
         {
@@ -60546,6 +60486,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.53473,
+                    -33.12011
+                ]
+            },
+            "properties": {
+                "address": "5 MACQUARIE RD , MORISSET PARK",
+                "postcode": "2264",
+                "number": "0491225347"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.74655,
                     -34.05008
                 ]
@@ -61004,6 +60959,21 @@
                 "address": "193 MACQUARIE ST PLAZA MALL, LIVERPOOL",
                 "postcode": "2170",
                 "number": "0492443368"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.247627,
+                    -35.833194
+                ]
+            },
+            "properties": {
+                "address": "685 WOOMARGAMA WAY , WOOMARGAMA",
+                "postcode": "2644",
+                "number": "0492494830"
             }
         },
         {
