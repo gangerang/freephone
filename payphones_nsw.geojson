@@ -3216,21 +3216,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.4823394,
-                    -32.9029585
-                ]
-            },
-            "properties": {
-                "address": "8 VINCENT ST , MULBRING",
-                "postcode": "2323",
-                "number": "0249380301"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.614664,
                     -32.602391
                 ]
@@ -25401,6 +25386,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.4823394,
+                    -32.9029585
+                ]
+            },
+            "properties": {
+                "address": "8 VINCENT ST , MULBRING",
+                "postcode": "2323",
+                "number": "0407233054"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.2106057,
                     -33.8614816
                 ]
@@ -40964,21 +40964,6 @@
                 "address": "108 FITZROY ST NR THEE ST, WALCHA",
                 "postcode": "2354",
                 "number": "0447834719"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.108264,
-                    -33.82327
-                ]
-            },
-            "properties": {
-                "address": "217 MORRISON RD CNR CHARLES ST, PUTNEY",
-                "postcode": "2112",
-                "number": "0447839406"
             }
         },
         {
@@ -57719,6 +57704,21 @@
                 "address": "47 BIDGES RD CAPITAL HOLIDAY PK, SUTTON",
                 "postcode": "2620",
                 "number": "0477861654"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.108264,
+                    -33.82327
+                ]
+            },
+            "properties": {
+                "address": "217 MORRISON RD CNR CHARLES ST, PUTNEY",
+                "postcode": "2112",
+                "number": "0477862720"
             }
         },
         {

@@ -1498,13 +1498,6 @@
         "number": "0249343659"
     },
     {
-        "latitude": -32.9029585,
-        "longitude": 151.4823394,
-        "address": "8 VINCENT ST , MULBRING",
-        "postcode": "2323",
-        "number": "0249380301"
-    },
-    {
         "latitude": -32.602391,
         "longitude": 151.614664,
         "address": "9 GEORGE ST PATERSON RLWY STN, PATERSON",
@@ -11851,6 +11844,13 @@
         "number": "0407228567"
     },
     {
+        "latitude": -32.9029585,
+        "longitude": 151.4823394,
+        "address": "8 VINCENT ST , MULBRING",
+        "postcode": "2323",
+        "number": "0407233054"
+    },
+    {
         "latitude": -33.8614816,
         "longitude": 151.2106057,
         "address": "0 ALFRED ST OPP LOFTUS ST, SYDNEY",
@@ -19115,13 +19115,6 @@
         "address": "108 FITZROY ST NR THEE ST, WALCHA",
         "postcode": "2354",
         "number": "0447834719"
-    },
-    {
-        "latitude": -33.82327,
-        "longitude": 151.108264,
-        "address": "217 MORRISON RD CNR CHARLES ST, PUTNEY",
-        "postcode": "2112",
-        "number": "0447839406"
     },
     {
         "latitude": -32.4128754,
@@ -26934,6 +26927,13 @@
         "address": "47 BIDGES RD CAPITAL HOLIDAY PK, SUTTON",
         "postcode": "2620",
         "number": "0477861654"
+    },
+    {
+        "latitude": -33.82327,
+        "longitude": 151.108264,
+        "address": "217 MORRISON RD CNR CHARLES ST, PUTNEY",
+        "postcode": "2112",
+        "number": "0477862720"
     },
     {
         "latitude": -34.056844,
