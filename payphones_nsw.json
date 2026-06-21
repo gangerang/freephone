@@ -336,13 +336,6 @@
         "number": "0243522870"
     },
     {
-        "latitude": -33.271128,
-        "longitude": 151.454067,
-        "address": "0 JOHN RD OPP POLLOCK AVE, WADALBA",
-        "postcode": "2259",
-        "number": "0243531754"
-    },
-    {
         "latitude": -33.188804,
         "longitude": 151.355047,
         "address": "1021 DOORALONG RD NR PROGRESS HALL, DOORALONG",
@@ -1134,13 +1127,6 @@
         "number": "0247748009"
     },
     {
-        "latitude": -33.70829,
-        "longitude": 150.751618,
-        "address": "255 SEVENTH AVE N/R FIRE BRIGADE, LLANDILO",
-        "postcode": "2747",
-        "number": "0247774109"
-    },
-    {
         "latitude": -33.717468,
         "longitude": 150.311012,
         "address": "216 KATOOMBA ST NR WARATAH ST, KATOOMBA",
@@ -1615,13 +1601,6 @@
         "address": "136 WOLLOMBI RD , CESSNOCK",
         "postcode": "2325",
         "number": "0249903209"
-    },
-    {
-        "latitude": -32.839418,
-        "longitude": 151.342562,
-        "address": "99 WOLLOMBI RD , CESSNOCK",
-        "postcode": "2325",
-        "number": "0249903554"
     },
     {
         "latitude": -32.8402167,
@@ -7140,13 +7119,6 @@
         "number": "0287838452"
     },
     {
-        "latitude": -33.88566,
-        "longitude": 150.887357,
-        "address": "697 BONNYRIGG AVE BONNYRIGG TWAY STN, BONNYRIGG",
-        "postcode": "2177",
-        "number": "0287861645"
-    },
-    {
         "latitude": -33.843627,
         "longitude": 151.204499,
         "address": "162 BLUES POINT RD CNR MITCHELLE ST, MCMAHONS POINT",
@@ -7278,13 +7250,6 @@
         "address": "0 ALFRED ST OPPOSITE PITT ST, SYDNEY",
         "postcode": "2000",
         "number": "0292517763"
-    },
-    {
-        "latitude": -33.8584288,
-        "longitude": 151.2037664,
-        "address": "0 ARGYLE ST CNR KENT ST, MILLERS POINT",
-        "postcode": "2000",
-        "number": "0292518166"
     },
     {
         "latitude": -33.863364,
@@ -8225,13 +8190,6 @@
         "number": "0293694049"
     },
     {
-        "latitude": -33.906118,
-        "longitude": 151.263654,
-        "address": "128 MACPHERSON ST NEAR YANKO AVE, BRONTE",
-        "postcode": "2024",
-        "number": "0293694974"
-    },
-    {
         "latitude": -33.869753,
         "longitude": 151.269467,
         "address": "712 NEW SOUTH HEAD RD NR DOVER RD, ROSE BAY",
@@ -8321,20 +8279,6 @@
         "address": "17 WAVERLEY ST NR HOLLYWOOD AVE, BONDI JUNCTION",
         "postcode": "2022",
         "number": "0293891176"
-    },
-    {
-        "latitude": -33.88656,
-        "longitude": 151.258499,
-        "address": "7 BELLEVUE RD O/S POST OFFICE, BELLEVUE HILL",
-        "postcode": "2023",
-        "number": "0293891468"
-    },
-    {
-        "latitude": -33.89202,
-        "longitude": 151.24745,
-        "address": "1 NEWLAND ST NR OXFORD ST OPP, BONDI JUNCTION",
-        "postcode": "2022",
-        "number": "0293895377"
     },
     {
         "latitude": -33.893332,
@@ -8519,13 +8463,6 @@
         "number": "0294822407"
     },
     {
-        "latitude": -33.710352,
-        "longitude": 151.105221,
-        "address": "47 ALEXANDRIA PDE OPP WAITARA AVE, WAITARA",
-        "postcode": "2077",
-        "number": "0294871550"
-    },
-    {
         "latitude": -33.71781,
         "longitude": 151.117305,
         "address": "1 RAILWAY AVE WAHROONGA R/S, WAHROONGA",
@@ -8566,13 +8503,6 @@
         "address": "LVL 7 12 MISSENDEN RD ROYAL PRINCE ALFRE, CAMPERDOWN",
         "postcode": "2050",
         "number": "0295195916"
-    },
-    {
-        "latitude": -34.066706,
-        "longitude": 151.014028,
-        "address": "30 STATION ST NR PRESTON AVE, ENGADINE",
-        "postcode": "2233",
-        "number": "0295200069"
     },
     {
         "latitude": -34.08733,
@@ -9119,13 +9049,6 @@
         "address": "285 FOREST RD O/S H& R BLOCK, HURSTVILLE",
         "postcode": "2220",
         "number": "0295864237"
-    },
-    {
-        "latitude": -33.967983,
-        "longitude": 151.12344,
-        "address": "48 CARLTON PDE NR SHORT ST, CARLTON",
-        "postcode": "2218",
-        "number": "0295881322"
     },
     {
         "latitude": -34.004146,
@@ -10540,13 +10463,6 @@
         "address": "178 BLAXLAND RD , RYDE RYDE",
         "postcode": "2112",
         "number": "0298072321"
-    },
-    {
-        "latitude": -33.815492,
-        "longitude": 151.089582,
-        "address": "27 BANK ST OPP RAIL STATION, MEADOWBANK",
-        "postcode": "2114",
-        "number": "0298073309"
     },
     {
         "latitude": -33.812281,
@@ -13559,8 +13475,8 @@
         "number": "0419931885"
     },
     {
-        "latitude": -35.37973,
-        "longitude": 149.20174,
+        "latitude": -35.380669,
+        "longitude": 149.201421,
         "address": "16 LIMESTONE DRV J/BERRA S/CENTRE, JRABMBRA JERRABOMBERRA",
         "postcode": "2619",
         "number": "0419934981"
@@ -13732,6 +13648,13 @@
         "address": "9 YARRAMUNDI DRV NR HOYLE DRV, DEAN PARK",
         "postcode": "2761",
         "number": "0427184335"
+    },
+    {
+        "latitude": -33.271128,
+        "longitude": 151.454067,
+        "address": "0 JOHN RD OPP POLLOCK AVE, WADALBA",
+        "postcode": "2259",
+        "number": "0427236057"
     },
     {
         "latitude": -34.90748,
@@ -15435,6 +15358,13 @@
         "number": "0436017183"
     },
     {
+        "latitude": -34.066706,
+        "longitude": 151.014028,
+        "address": "30 STATION ST NR PRESTON AVE, ENGADINE",
+        "postcode": "2233",
+        "number": "0436019253"
+    },
+    {
         "latitude": -34.531468,
         "longitude": 150.869055,
         "address": "223 WINDANG RD NR ACACIA ST OS PO, WINDANG",
@@ -17092,6 +17022,13 @@
         "address": "3 ACACIA AVE NR TOOLOOM ST, LEGUME",
         "postcode": "2476",
         "number": "0437302294"
+    },
+    {
+        "latitude": -32.839418,
+        "longitude": 151.342562,
+        "address": "99 WOLLOMBI RD , CESSNOCK",
+        "postcode": "2325",
+        "number": "0437305660"
     },
     {
         "latitude": -34.035664,
@@ -19005,6 +18942,13 @@
         "number": "0447796250"
     },
     {
+        "latitude": -33.88656,
+        "longitude": 151.258499,
+        "address": "7 BELLEVUE RD O/S POST OFFICE, BELLEVUE HILL",
+        "postcode": "2023",
+        "number": "0447800570"
+    },
+    {
         "latitude": -33.253465,
         "longitude": 151.493198,
         "address": "258 WALLARAH RD NR OASIS VAN PARK, KANWAL",
@@ -19243,13 +19187,6 @@
         "number": "0447916173"
     },
     {
-        "latitude": -33.952112,
-        "longitude": 151.032261,
-        "address": "55 HOWARD ST CNR MEMORIAL DVE, PADSTOW",
-        "postcode": "2211",
-        "number": "0447918967"
-    },
-    {
         "latitude": -30.28278,
         "longitude": 153.13063,
         "address": "253 PACIFIC HWY PARK BEACH PLAZA, COFFS HARBOUR",
@@ -19269,6 +19206,13 @@
         "address": "151 WELLINGTON RD NR SHAW LANE, SEFTON",
         "postcode": "2162",
         "number": "0447927163"
+    },
+    {
+        "latitude": -33.8584288,
+        "longitude": 151.2037664,
+        "address": "0 ARGYLE ST CNR KENT ST, MILLERS POINT",
+        "postcode": "2000",
+        "number": "0447933811"
     },
     {
         "latitude": -28.504109,
@@ -20006,6 +19950,13 @@
         "number": "0448326771"
     },
     {
+        "latitude": -33.967983,
+        "longitude": 151.12344,
+        "address": "48 CARLTON PDE NR SHORT ST, CARLTON",
+        "postcode": "2218",
+        "number": "0448331723"
+    },
+    {
         "latitude": -33.420009,
         "longitude": 151.335861,
         "address": "27 RACECOURSE RD CNR BATLEY ST, GOSFORD",
@@ -20053,6 +20004,13 @@
         "address": "RD  0 STATION ST CRN 1002 VICTORIA, WEST RYDE",
         "postcode": "2114",
         "number": "0448368967"
+    },
+    {
+        "latitude": -33.952112,
+        "longitude": 151.032261,
+        "address": "55 HOWARD ST CNR MEMORIAL DVE, PADSTOW",
+        "postcode": "2211",
+        "number": "0448374038"
     },
     {
         "latitude": -33.845797,
@@ -20643,6 +20601,13 @@
         "number": "0448684521"
     },
     {
+        "latitude": -33.710352,
+        "longitude": 151.105221,
+        "address": "47 ALEXANDRIA PDE OPP WAITARA AVE, WAITARA",
+        "postcode": "2077",
+        "number": "0448690788"
+    },
+    {
         "latitude": -33.787394,
         "longitude": 150.951537,
         "address": "1 PORTICO PDE TOONGABBIE RWS, TOONGABBIE",
@@ -20746,6 +20711,13 @@
         "address": "1 STURDEE PDE NR PITTWATER RD, DEE WHY",
         "postcode": "2099",
         "number": "0448729037"
+    },
+    {
+        "latitude": -33.89202,
+        "longitude": 151.24745,
+        "address": "1 NEWLAND ST NR OXFORD ST OPP, BONDI JUNCTION",
+        "postcode": "2022",
+        "number": "0448730246"
     },
     {
         "latitude": -33.761689,
@@ -21287,8 +21259,8 @@
         "number": "0448946637"
     },
     {
-        "latitude": -33.890066,
-        "longitude": 151.207888,
+        "latitude": -33.889012,
+        "longitude": 151.208097,
         "address": "500 ELIZABETH ST CNR BELVOIR ST, SURRY HILLS",
         "postcode": "2010",
         "number": "0448951314"
@@ -21868,8 +21840,8 @@
         "number": "0455284489"
     },
     {
-        "latitude": -33.884445,
-        "longitude": 151.197287,
+        "latitude": -33.884403,
+        "longitude": 151.198828,
         "address": "100 BROADWAY  NR ABERCROMBIE ST, CHIPPENDALE",
         "postcode": "2008",
         "number": "0455285307"
@@ -21922,6 +21894,13 @@
         "address": "141 BRISBANE ST OS COURT HOUSE, DUBBO DUBBO",
         "postcode": "2830",
         "number": "0455302795"
+    },
+    {
+        "latitude": -33.815492,
+        "longitude": 151.089582,
+        "address": "27 BANK ST OPP RAIL STATION, MEADOWBANK",
+        "postcode": "2114",
+        "number": "0455303256"
     },
     {
         "latitude": -33.969435,
@@ -22531,6 +22510,13 @@
         "address": "54 METCALFE ST , WALLSEND",
         "postcode": "2287",
         "number": "0455628106"
+    },
+    {
+        "latitude": -33.906118,
+        "longitude": 151.263654,
+        "address": "128 MACPHERSON ST NEAR YANKO AVE, BRONTE",
+        "postcode": "2024",
+        "number": "0455629557"
     },
     {
         "latitude": -33.59621,
@@ -27958,6 +27944,13 @@
         "number": "0487454521"
     },
     {
+        "latitude": -33.70829,
+        "longitude": 150.751618,
+        "address": "255 SEVENTH AVE N/R FIRE BRIGADE, LLANDILO",
+        "postcode": "2747",
+        "number": "0487516841"
+    },
+    {
         "latitude": -35.91271,
         "longitude": 150.15579,
         "address": "4 CHARLES MOFFAT DRV NR CORONATION DVE, MORUYA HEADS",
@@ -28413,6 +28406,13 @@
         "number": "0492175403"
     },
     {
+        "latitude": -28.188831,
+        "longitude": 153.512288,
+        "address": "212 KENNEDY DRV O/S PKG SEAFOOD, TWEED HEADS WEST",
+        "postcode": "2485",
+        "number": "0492233035"
+    },
+    {
         "latitude": -34.50533,
         "longitude": 150.33702,
         "address": "74 TAYLOR AVE NR ADELAIDE ST, NEW BERRIMA",
@@ -28679,6 +28679,13 @@
         "number": "0498596189"
     },
     {
+        "latitude": -33.88566,
+        "longitude": 150.887357,
+        "address": "697 BONNYRIGG AVE BONNYRIGG TWAY STN, BONNYRIGG",
+        "postcode": "2177",
+        "number": "0498692278"
+    },
+    {
         "latitude": -35.555962,
         "longitude": 150.378283,
         "address": "635 MURRAMURRANG RD OS CARAVAN PK, KIOLOA KIOLOA",
@@ -28840,8 +28847,8 @@
         "number": "0499794914"
     },
     {
-        "latitude": -33.80453,
-        "longitude": 151.03364,
+        "latitude": -33.80422,
+        "longitude": 151.033545,
         "address": "22 STATION ST NR CALDER ST, DUNDAS",
         "postcode": "2117",
         "number": "0499865960"
@@ -28901,13 +28908,6 @@
         "address": "19 EDWARD ST NR CLEVELAND ST, N STAR NORTH STAR",
         "postcode": "2408",
         "number": "0746763106"
-    },
-    {
-        "latitude": -28.188831,
-        "longitude": 153.512288,
-        "address": "212 KENNEDY DRV O/S PKG SEAFOOD, TWEED HEADS WEST",
-        "postcode": "2485",
-        "number": "0755368358"
     },
     {
         "latitude": -28.215693,

@@ -726,21 +726,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.454067,
-                    -33.271128
-                ]
-            },
-            "properties": {
-                "address": "0 JOHN RD OPP POLLOCK AVE, WADALBA",
-                "postcode": "2259",
-                "number": "0243531754"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.355047,
                     -33.188804
                 ]
@@ -2436,21 +2421,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.751618,
-                    -33.70829
-                ]
-            },
-            "properties": {
-                "address": "255 SEVENTH AVE N/R FIRE BRIGADE, LLANDILO",
-                "postcode": "2747",
-                "number": "0247774109"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.311012,
                     -33.717468
                 ]
@@ -3464,21 +3434,6 @@
                 "address": "136 WOLLOMBI RD , CESSNOCK",
                 "postcode": "2325",
                 "number": "0249903209"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.342562,
-                    -32.839418
-                ]
-            },
-            "properties": {
-                "address": "99 WOLLOMBI RD , CESSNOCK",
-                "postcode": "2325",
-                "number": "0249903554"
             }
         },
         {
@@ -15306,21 +15261,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.887357,
-                    -33.88566
-                ]
-            },
-            "properties": {
-                "address": "697 BONNYRIGG AVE BONNYRIGG TWAY STN, BONNYRIGG",
-                "postcode": "2177",
-                "number": "0287861645"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.204499,
                     -33.843627
                 ]
@@ -15599,21 +15539,6 @@
                 "address": "0 ALFRED ST OPPOSITE PITT ST, SYDNEY",
                 "postcode": "2000",
                 "number": "0292517763"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.2037664,
-                    -33.8584288
-                ]
-            },
-            "properties": {
-                "address": "0 ARGYLE ST CNR KENT ST, MILLERS POINT",
-                "postcode": "2000",
-                "number": "0292518166"
             }
         },
         {
@@ -17631,21 +17556,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.263654,
-                    -33.906118
-                ]
-            },
-            "properties": {
-                "address": "128 MACPHERSON ST NEAR YANKO AVE, BRONTE",
-                "postcode": "2024",
-                "number": "0293694974"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.269467,
                     -33.869753
                 ]
@@ -17834,36 +17744,6 @@
                 "address": "17 WAVERLEY ST NR HOLLYWOOD AVE, BONDI JUNCTION",
                 "postcode": "2022",
                 "number": "0293891176"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.258499,
-                    -33.88656
-                ]
-            },
-            "properties": {
-                "address": "7 BELLEVUE RD O/S POST OFFICE, BELLEVUE HILL",
-                "postcode": "2023",
-                "number": "0293891468"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.24745,
-                    -33.89202
-                ]
-            },
-            "properties": {
-                "address": "1 NEWLAND ST NR OXFORD ST OPP, BONDI JUNCTION",
-                "postcode": "2022",
-                "number": "0293895377"
             }
         },
         {
@@ -18261,21 +18141,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.105221,
-                    -33.710352
-                ]
-            },
-            "properties": {
-                "address": "47 ALEXANDRIA PDE OPP WAITARA AVE, WAITARA",
-                "postcode": "2077",
-                "number": "0294871550"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.117305,
                     -33.71781
                 ]
@@ -18359,21 +18224,6 @@
                 "address": "LVL 7 12 MISSENDEN RD ROYAL PRINCE ALFRE, CAMPERDOWN",
                 "postcode": "2050",
                 "number": "0295195916"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.014028,
-                    -34.066706
-                ]
-            },
-            "properties": {
-                "address": "30 STATION ST NR PRESTON AVE, ENGADINE",
-                "postcode": "2233",
-                "number": "0295200069"
             }
         },
         {
@@ -19544,21 +19394,6 @@
                 "address": "285 FOREST RD O/S H& R BLOCK, HURSTVILLE",
                 "postcode": "2220",
                 "number": "0295864237"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.12344,
-                    -33.967983
-                ]
-            },
-            "properties": {
-                "address": "48 CARLTON PDE NR SHORT ST, CARLTON",
-                "postcode": "2218",
-                "number": "0295881322"
             }
         },
         {
@@ -22589,21 +22424,6 @@
                 "address": "178 BLAXLAND RD , RYDE RYDE",
                 "postcode": "2112",
                 "number": "0298072321"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.089582,
-                    -33.815492
-                ]
-            },
-            "properties": {
-                "address": "27 BANK ST OPP RAIL STATION, MEADOWBANK",
-                "postcode": "2114",
-                "number": "0298073309"
             }
         },
         {
@@ -29061,8 +28881,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    149.20174,
-                    -35.37973
+                    149.201421,
+                    -35.380669
                 ]
             },
             "properties": {
@@ -29429,6 +29249,21 @@
                 "address": "9 YARRAMUNDI DRV NR HOYLE DRV, DEAN PARK",
                 "postcode": "2761",
                 "number": "0427184335"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.454067,
+                    -33.271128
+                ]
+            },
+            "properties": {
+                "address": "0 JOHN RD OPP POLLOCK AVE, WADALBA",
+                "postcode": "2259",
+                "number": "0427236057"
             }
         },
         {
@@ -33081,6 +32916,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.014028,
+                    -34.066706
+                ]
+            },
+            "properties": {
+                "address": "30 STATION ST NR PRESTON AVE, ENGADINE",
+                "postcode": "2233",
+                "number": "0436019253"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.869055,
                     -34.531468
                 ]
@@ -36629,6 +36479,21 @@
                 "address": "3 ACACIA AVE NR TOOLOOM ST, LEGUME",
                 "postcode": "2476",
                 "number": "0437302294"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.342562,
+                    -32.839418
+                ]
+            },
+            "properties": {
+                "address": "99 WOLLOMBI RD , CESSNOCK",
+                "postcode": "2325",
+                "number": "0437305660"
             }
         },
         {
@@ -40731,6 +40596,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.258499,
+                    -33.88656
+                ]
+            },
+            "properties": {
+                "address": "7 BELLEVUE RD O/S POST OFFICE, BELLEVUE HILL",
+                "postcode": "2023",
+                "number": "0447800570"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.493198,
                     -33.253465
                 ]
@@ -41241,21 +41121,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.032261,
-                    -33.952112
-                ]
-            },
-            "properties": {
-                "address": "55 HOWARD ST CNR MEMORIAL DVE, PADSTOW",
-                "postcode": "2211",
-                "number": "0447918967"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     153.13063,
                     -30.28278
                 ]
@@ -41294,6 +41159,21 @@
                 "address": "151 WELLINGTON RD NR SHAW LANE, SEFTON",
                 "postcode": "2162",
                 "number": "0447927163"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2037664,
+                    -33.8584288
+                ]
+            },
+            "properties": {
+                "address": "0 ARGYLE ST CNR KENT ST, MILLERS POINT",
+                "postcode": "2000",
+                "number": "0447933811"
             }
         },
         {
@@ -42876,6 +42756,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.12344,
+                    -33.967983
+                ]
+            },
+            "properties": {
+                "address": "48 CARLTON PDE NR SHORT ST, CARLTON",
+                "postcode": "2218",
+                "number": "0448331723"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.335861,
                     -33.420009
                 ]
@@ -42974,6 +42869,21 @@
                 "address": "RD  0 STATION ST CRN 1002 VICTORIA, WEST RYDE",
                 "postcode": "2114",
                 "number": "0448368967"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.032261,
+                    -33.952112
+                ]
+            },
+            "properties": {
+                "address": "55 HOWARD ST CNR MEMORIAL DVE, PADSTOW",
+                "postcode": "2211",
+                "number": "0448374038"
             }
         },
         {
@@ -44241,6 +44151,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.105221,
+                    -33.710352
+                ]
+            },
+            "properties": {
+                "address": "47 ALEXANDRIA PDE OPP WAITARA AVE, WAITARA",
+                "postcode": "2077",
+                "number": "0448690788"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.951537,
                     -33.787394
                 ]
@@ -44459,6 +44384,21 @@
                 "address": "1 STURDEE PDE NR PITTWATER RD, DEE WHY",
                 "postcode": "2099",
                 "number": "0448729037"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.24745,
+                    -33.89202
+                ]
+            },
+            "properties": {
+                "address": "1 NEWLAND ST NR OXFORD ST OPP, BONDI JUNCTION",
+                "postcode": "2022",
+                "number": "0448730246"
             }
         },
         {
@@ -45621,8 +45561,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.207888,
-                    -33.890066
+                    151.208097,
+                    -33.889012
                 ]
             },
             "properties": {
@@ -46866,8 +46806,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.197287,
-                    -33.884445
+                    151.198828,
+                    -33.884403
                 ]
             },
             "properties": {
@@ -46979,6 +46919,21 @@
                 "address": "141 BRISBANE ST OS COURT HOUSE, DUBBO DUBBO",
                 "postcode": "2830",
                 "number": "0455302795"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.089582,
+                    -33.815492
+                ]
+            },
+            "properties": {
+                "address": "27 BANK ST OPP RAIL STATION, MEADOWBANK",
+                "postcode": "2114",
+                "number": "0455303256"
             }
         },
         {
@@ -48284,6 +48239,21 @@
                 "address": "54 METCALFE ST , WALLSEND",
                 "postcode": "2287",
                 "number": "0455628106"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.263654,
+                    -33.906118
+                ]
+            },
+            "properties": {
+                "address": "128 MACPHERSON ST NEAR YANKO AVE, BRONTE",
+                "postcode": "2024",
+                "number": "0455629557"
             }
         },
         {
@@ -59916,6 +59886,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.751618,
+                    -33.70829
+                ]
+            },
+            "properties": {
+                "address": "255 SEVENTH AVE N/R FIRE BRIGADE, LLANDILO",
+                "postcode": "2747",
+                "number": "0487516841"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.15579,
                     -35.91271
                 ]
@@ -60891,6 +60876,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.512288,
+                    -28.188831
+                ]
+            },
+            "properties": {
+                "address": "212 KENNEDY DRV O/S PKG SEAFOOD, TWEED HEADS WEST",
+                "postcode": "2485",
+                "number": "0492233035"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.33702,
                     -34.50533
                 ]
@@ -61461,6 +61461,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.887357,
+                    -33.88566
+                ]
+            },
+            "properties": {
+                "address": "697 BONNYRIGG AVE BONNYRIGG TWAY STN, BONNYRIGG",
+                "postcode": "2177",
+                "number": "0498692278"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.378283,
                     -35.555962
                 ]
@@ -61806,8 +61821,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.03364,
-                    -33.80453
+                    151.033545,
+                    -33.80422
                 ]
             },
             "properties": {
@@ -61934,21 +61949,6 @@
                 "address": "19 EDWARD ST NR CLEVELAND ST, N STAR NORTH STAR",
                 "postcode": "2408",
                 "number": "0746763106"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.512288,
-                    -28.188831
-                ]
-            },
-            "properties": {
-                "address": "212 KENNEDY DRV O/S PKG SEAFOOD, TWEED HEADS WEST",
-                "postcode": "2485",
-                "number": "0755368358"
             }
         },
         {
