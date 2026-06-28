@@ -882,13 +882,6 @@
         "number": "0246254051"
     },
     {
-        "latitude": -34.063113,
-        "longitude": 150.814236,
-        "address": "3 FARROW RD CAMPBELLTOWN RWS, CAMPBELLTOWN",
-        "postcode": "2560",
-        "number": "0246275943"
-    },
-    {
         "latitude": -34.06901,
         "longitude": 150.81074,
         "address": "271 QUEEN ST CAMPBELLTOWN MALL, CAMPBELLTOWN",
@@ -5243,13 +5236,6 @@
         "number": "0267669341"
     },
     {
-        "latitude": -31.2172351,
-        "longitude": 150.8187556,
-        "address": "13 RAILWAY AVE O/S GENERAL STORE, DURI DURI",
-        "postcode": "2344",
-        "number": "0267680201"
-    },
-    {
         "latitude": -31.3588329,
         "longitude": 150.6456982,
         "address": "1 KURRARA ST CNR SINGLE ST, WERRIS CREEK",
@@ -7224,13 +7210,6 @@
         "number": "0292127359"
     },
     {
-        "latitude": -33.864707,
-        "longitude": 151.209036,
-        "address": "10 SPRING ST , SYDNEY",
-        "postcode": "2000",
-        "number": "0292476842"
-    },
-    {
         "latitude": -33.861211,
         "longitude": 151.2038,
         "address": "114 KENT ST NEAR HIGH ST, MILLERS POINT",
@@ -7250,13 +7229,6 @@
         "address": "0 ALFRED ST OPPOSITE PITT ST, SYDNEY",
         "postcode": "2000",
         "number": "0292517763"
-    },
-    {
-        "latitude": -33.863364,
-        "longitude": 151.20674,
-        "address": "11 GROSVENOR ST NR LANG ST, SYDNEY",
-        "postcode": "2000",
-        "number": "0292522053"
     },
     {
         "latitude": -33.864643,
@@ -8176,13 +8148,6 @@
         "number": "0293681502"
     },
     {
-        "latitude": -33.896136,
-        "longitude": 151.251408,
-        "address": "184 BIRRELL ST NR BRONTE RD, BONDI JUNCTION",
-        "postcode": "2022",
-        "number": "0293693445"
-    },
-    {
         "latitude": -33.891061,
         "longitude": 151.248541,
         "address": "97 GRAFTON ST BONDI JUNCTION RWS, BONDI JUNCTION",
@@ -8258,13 +8223,6 @@
         "address": "205 OXFORD ST CNR BRONTE RD, BONDI JUNCTION",
         "postcode": "2022",
         "number": "0293873932"
-    },
-    {
-        "latitude": -33.897989,
-        "longitude": 151.252027,
-        "address": "153 BRONTE RD OS POLICE STATION, WAVERLY",
-        "postcode": "2024",
-        "number": "0293878119"
     },
     {
         "latitude": -33.891234,
@@ -8729,13 +8687,6 @@
         "number": "0295543083"
     },
     {
-        "latitude": -33.938149,
-        "longitude": 151.113166,
-        "address": "24 SHAW ST NR BEXLEY LIBRARY, BEXLEY NORTH",
-        "postcode": "2207",
-        "number": "0295543582"
-    },
-    {
         "latitude": -33.85775,
         "longitude": 151.18255,
         "address": "243 DARLING ST NR BOOTH ST, BALMAIN",
@@ -8902,13 +8853,6 @@
         "address": "276 MARRICKVILLE RD CNR SILVER ST, MARRICKVILLE",
         "postcode": "2204",
         "number": "0295642218"
-    },
-    {
-        "latitude": -33.910272,
-        "longitude": 151.156551,
-        "address": "234 ILLAWARRA RD CNR MARRICKVILL RD, MARRICKVILLE",
-        "postcode": "2204",
-        "number": "0295642675"
     },
     {
         "latitude": -33.8778,
@@ -9126,13 +9070,6 @@
         "address": "187 RICKARD RD LEPPINGTON RWS, LEPPINGTON",
         "postcode": "2179",
         "number": "0296066426"
-    },
-    {
-        "latitude": -33.897393,
-        "longitude": 150.905483,
-        "address": "5 ANDERSON ST CNR 6 HAIG ST, MT PRITCHARD",
-        "postcode": "2170",
-        "number": "0296104404"
     },
     {
         "latitude": -33.841288,
@@ -10050,13 +9987,6 @@
         "address": "1 EVERTON RD O/S RAILWAY STN, STRATHFIELD",
         "postcode": "2135",
         "number": "0297452394"
-    },
-    {
-        "latitude": -33.87598,
-        "longitude": 151.09737,
-        "address": "1 RUSSELL ST NR WENTWORTH ST, STRATHFIELD",
-        "postcode": "2135",
-        "number": "0297452715"
     },
     {
         "latitude": -33.872255,
@@ -11004,13 +10934,6 @@
         "number": "0299250232"
     },
     {
-        "latitude": -33.778987,
-        "longitude": 151.285143,
-        "address": "1 LAWRENCE ST NR ALBERT ST, FRESHWATER",
-        "postcode": "2096",
-        "number": "0299384921"
-    },
-    {
         "latitude": -33.794135,
         "longitude": 151.263403,
         "address": "394 SYDNEY RD , BALGOWLAH",
@@ -11632,6 +11555,13 @@
         "address": "45 VICTORIA ST CNR DIBBS ST, COFFS HARBOUR",
         "postcode": "2450",
         "number": "0400732770"
+    },
+    {
+        "latitude": -35.36083,
+        "longitude": 149.22419,
+        "address": "86 FERGUS RD OS DONALD RD SHOP, QUEANBEYAN",
+        "postcode": "2620",
+        "number": "0400755995"
     },
     {
         "latitude": -29.322429,
@@ -12493,6 +12423,13 @@
         "address": "0 PIPER DRV RWS SHELLHARBOUR J, DUNMORE",
         "postcode": "2529",
         "number": "0417515637"
+    },
+    {
+        "latitude": -33.87598,
+        "longitude": 151.09737,
+        "address": "1 RUSSELL ST NR WENTWORTH ST, STRATHFIELD",
+        "postcode": "2135",
+        "number": "0417519635"
     },
     {
         "latitude": -28.821458,
@@ -14068,6 +14005,13 @@
         "address": "30 SCARVELL AVE , MCGRATHS HILL",
         "postcode": "2756",
         "number": "0427945759"
+    },
+    {
+        "latitude": -33.863364,
+        "longitude": 151.20674,
+        "address": "11 GROSVENOR ST NR LANG ST, SYDNEY",
+        "postcode": "2000",
+        "number": "0427968819"
     },
     {
         "latitude": -29.476824,
@@ -17598,6 +17542,13 @@
         "number": "0438364431"
     },
     {
+        "latitude": -34.063113,
+        "longitude": 150.814236,
+        "address": "3 FARROW RD CAMPBELLTOWN RWS, CAMPBELLTOWN",
+        "postcode": "2560",
+        "number": "0438393691"
+    },
+    {
         "latitude": -31.893238,
         "longitude": 152.467215,
         "address": "93 BUSHLAND DRV NR KANANGRA DR, TAREE TAREE",
@@ -17883,6 +17834,13 @@
         "address": "LOT 1 0 SPRING ST MCDONALDS RESTAURA, SOUTH GRAFTON",
         "postcode": "2460",
         "number": "0439179215"
+    },
+    {
+        "latitude": -33.778987,
+        "longitude": 151.285143,
+        "address": "1 LAWRENCE ST NR ALBERT ST, FRESHWATER",
+        "postcode": "2096",
+        "number": "0439186554"
     },
     {
         "latitude": -33.868942,
@@ -20685,6 +20643,13 @@
         "number": "0448721907"
     },
     {
+        "latitude": -33.864707,
+        "longitude": 151.209036,
+        "address": "10 SPRING ST PAYPHONE, SYDNEY",
+        "postcode": "2000",
+        "number": "0448724299"
+    },
+    {
         "latitude": -33.873741,
         "longitude": 151.208125,
         "address": "270 PITT ST DEFENCE PLAZA, SYDNEY",
@@ -21898,7 +21863,7 @@
     {
         "latitude": -33.815492,
         "longitude": 151.089582,
-        "address": "27 BANK ST OPP RAIL STATION, MEADOWBANK",
+        "address": "27 BANK ST NR CONSTITUTION RD, MEADOWBANK",
         "postcode": "2114",
         "number": "0455303256"
     },
@@ -22514,7 +22479,7 @@
     {
         "latitude": -33.906118,
         "longitude": 151.263654,
-        "address": "128 MACPHERSON ST NEAR YANKO AVE, BRONTE",
+        "address": "128 MACPHERSON ST NR YANKO AVE, BRONTE",
         "postcode": "2024",
         "number": "0455629557"
     },
@@ -23693,6 +23658,13 @@
         "address": "38 EVANS RD OS SHOPS, TUROSS HEAD",
         "postcode": "2537",
         "number": "0455991346"
+    },
+    {
+        "latitude": -33.938149,
+        "longitude": 151.113166,
+        "address": "24 SHAW ST NR BEXLEY LIBRARY, BEXLEY NORTH",
+        "postcode": "2207",
+        "number": "0455991350"
     },
     {
         "latitude": -34.636714,
@@ -25977,6 +25949,13 @@
         "number": "0475744358"
     },
     {
+        "latitude": -33.897989,
+        "longitude": 151.252027,
+        "address": "153 BRONTE RD OS POLICE STATION, WAVERLY",
+        "postcode": "2024",
+        "number": "0475746592"
+    },
+    {
         "latitude": -32.4035444,
         "longitude": 151.9676769,
         "address": "52 COWPER ST CNR MEMORIAL AVE, STROUD",
@@ -26600,6 +26579,13 @@
         "number": "0477281954"
     },
     {
+        "latitude": -33.896136,
+        "longitude": 151.251408,
+        "address": "184 BIRRELL ST NR BRONTE RD, BONDI JUNCTION",
+        "postcode": "2022",
+        "number": "0477315067"
+    },
+    {
         "latitude": -29.72066,
         "longitude": 152.92451,
         "address": "60 BIMBLE AVE NR ANGOPHORA WAY, SOUTH GRAFTON",
@@ -26640,6 +26626,13 @@
         "address": "11 PARKLAWN PL CNR OLANDER ROAD, NORTH ST MARYS",
         "postcode": "2760",
         "number": "0477382376"
+    },
+    {
+        "latitude": -33.910272,
+        "longitude": 151.156551,
+        "address": "234 ILLAWARRA RD CNR MARRICKVILL RD, MARRICKVILLE",
+        "postcode": "2204",
+        "number": "0477385651"
     },
     {
         "latitude": -35.126226,
@@ -27403,13 +27396,6 @@
         "address": "210 CHALMERS ST CNR CLEVELAND ST, SURRY HILLS",
         "postcode": "2010",
         "number": "0484117325"
-    },
-    {
-        "latitude": -35.36083,
-        "longitude": 149.22419,
-        "address": "86 FERGUS RD OS DONALD RD SHOP, QUEANBEYAN",
-        "postcode": "2620",
-        "number": "0484120781"
     },
     {
         "latitude": -32.933826,
@@ -28581,6 +28567,13 @@
         "number": "0498009694"
     },
     {
+        "latitude": -31.2172351,
+        "longitude": 150.8187556,
+        "address": "13 RAILWAY AVE O/S GENERAL STORE, DURI DURI",
+        "postcode": "2344",
+        "number": "0498082419"
+    },
+    {
         "latitude": -34.57071,
         "longitude": 150.77597,
         "address": "133 TONGARRA RD OS POST OFFICE, ALBION PARK",
@@ -28705,6 +28698,13 @@
         "address": "130 UNIVERSITY DRV OPP 49 UNI DRV, CALLAGHAN",
         "postcode": "2308",
         "number": "0499095593"
+    },
+    {
+        "latitude": -33.897393,
+        "longitude": 150.905483,
+        "address": "5 ANDERSON ST CNR 6 HAIG ST, MT PRITCHARD",
+        "postcode": "2170",
+        "number": "0499118581"
     },
     {
         "latitude": -33.777754,
