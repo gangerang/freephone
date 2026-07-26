@@ -396,21 +396,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.833701,
-                    -34.458373
-                ]
-            },
-            "properties": {
-                "address": "31 WAPLES RD CNR MIANGA CRES, UNANDERRA",
-                "postcode": "2526",
-                "number": "0242721276"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.840136,
                     -34.459216
                 ]
@@ -6066,21 +6051,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    148.62357,
-                    -36.41523
-                ]
-            },
-            "properties": {
-                "address": "0 KOSCIUSKO RD ADJ AMENITIES BLK, JINDABYNE",
-                "postcode": "2627",
-                "number": "0264562004"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     148.62522,
                     -36.47069
                 ]
@@ -10746,21 +10716,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.6757018,
-                    -31.5174243
-                ]
-            },
-            "properties": {
-                "address": "0 LODER ST ROSE LEE PARK, QUIRINDI",
-                "postcode": "2343",
-                "number": "0267461201"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.6817241,
                     -31.495476
                 ]
@@ -11226,21 +11181,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.668482,
-                    -30.514068
-                ]
-            },
-            "properties": {
-                "address": "118 BEARDY ST OS JEAN PIERRE'S, ARMIDALE",
-                "postcode": "2350",
-                "number": "0267714982"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.677422,
                     -30.52518
                 ]
@@ -11309,21 +11249,6 @@
                 "address": "298 BEARDY ST NR OHIO ST, ARMIDALE",
                 "postcode": "2350",
                 "number": "0267728121"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.65513,
-                    -30.51241
-                ]
-            },
-            "properties": {
-                "address": "226 RUSDEN ST IN HOSPITAL FOYER, ARMIDALE",
-                "postcode": "2350",
-                "number": "0267729120"
             }
         },
         {
@@ -17931,21 +17856,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.192995,
-                    -33.872487
-                ]
-            },
-            "properties": {
-                "address": "58 PYRMONT BRIDGE RD SYDNEY FISH MARKET, PYRMONT",
-                "postcode": "2009",
-                "number": "0295524487"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.184554,
                     -33.884076
                 ]
@@ -19814,21 +19724,6 @@
                 "address": "1 STATION ST O/S RAIL NR BUS, PARRAMATTA",
                 "postcode": "2150",
                 "number": "0296879809"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.206677,
-                    -33.925332
-                ]
-            },
-            "properties": {
-                "address": "16 MALONEY ST OS FLATS NR WANT S, EASTLAKES",
-                "postcode": "2018",
-                "number": "0296932526"
             }
         },
         {
@@ -21944,21 +21839,6 @@
                 "address": "CNCRSE  1 STATION ST ST MARYS RLWY STN, ST MARYS ST MARYS",
                 "postcode": "2760",
                 "number": "0298331232"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.796274,
-                    -33.744855
-                ]
-            },
-            "properties": {
-                "address": "157 AURORA DRV OPP BALLENY DRIVE, TREGEAR",
-                "postcode": "2770",
-                "number": "0298352321"
             }
         },
         {
@@ -25251,6 +25131,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.65513,
+                    -30.51241
+                ]
+            },
+            "properties": {
+                "address": "226 RUSDEN ST IN HOSPITAL FOYER, ARMIDALE",
+                "postcode": "2350",
+                "number": "0409271792"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.951621,
                     -33.818221
                 ]
@@ -27531,6 +27426,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.6757018,
+                    -31.5174243
+                ]
+            },
+            "properties": {
+                "address": "0 LODER ST ROSE LEE PARK, QUIRINDI",
+                "postcode": "2343",
+                "number": "0419418433"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     152.5193029,
                     -32.2514931
                 ]
@@ -28544,6 +28454,21 @@
                 "address": "819 TOMAGO RD , TOMAGO",
                 "postcode": "2322",
                 "number": "0427382243"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.206677,
+                    -33.925332
+                ]
+            },
+            "properties": {
+                "address": "16 MALONEY ST OS FLATS NR WANT S, EASTLAKES",
+                "postcode": "2018",
+                "number": "0427385485"
             }
         },
         {
@@ -31416,6 +31341,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.668482,
+                    -30.514068
+                ]
+            },
+            "properties": {
+                "address": "118 BEARDY ST OS JEAN PIERRE'S, ARMIDALE",
+                "postcode": "2350",
+                "number": "0429550323"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.227417,
                     -33.922802
                 ]
@@ -31514,6 +31454,21 @@
                 "address": "30 ADELAIDE ST , EAST GOSFORD",
                 "postcode": "2250",
                 "number": "0429617391"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.101202,
+                    -33.965929
+                ]
+            },
+            "properties": {
+                "address": "285 FOREST RD O/S H& R BLOCK, HURSTVILLE",
+                "postcode": "2220",
+                "number": "0429620866"
             }
         },
         {
@@ -43536,21 +43491,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.101202,
-                    -33.965929
-                ]
-            },
-            "properties": {
-                "address": "285 FOREST RD O/S H& R BLOCK, HURSTVILLE",
-                "postcode": "2220",
-                "number": "0448695980"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.92907,
                     -33.92174
                 ]
@@ -55326,6 +55266,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    148.62357,
+                    -36.41523
+                ]
+            },
+            "properties": {
+                "address": "0 KOSCIUSKO RD ADJ AMENITIES BLK, JINDABYNE",
+                "postcode": "2627",
+                "number": "0475703804"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.013768,
                     -33.81161
                 ]
@@ -59091,6 +59046,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.833701,
+                    -34.458373
+                ]
+            },
+            "properties": {
+                "address": "31 WAPLES RD CNR MIANGA CRES, UNANDERRA",
+                "postcode": "2526",
+                "number": "0484616275"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.150665,
                     -33.952292
                 ]
@@ -61574,6 +61544,21 @@
                 "address": "62 STATION ST CNR CAMP ST, KATOOMBA",
                 "postcode": "2780",
                 "number": "0499526332"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.796274,
+                    -33.744855
+                ]
+            },
+            "properties": {
+                "address": "157 AURORA DRV OPP BALLENY DRIVE, TREGEAR",
+                "postcode": "2770",
+                "number": "0499528793"
             }
         },
         {
