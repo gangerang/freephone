@@ -11241,21 +11241,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.653363,
-                    -30.509896
-                ]
-            },
-            "properties": {
-                "address": "298 BEARDY ST NR OHIO ST, ARMIDALE",
-                "postcode": "2350",
-                "number": "0267728121"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.528326,
                     -30.519783
                 ]
@@ -12884,21 +12869,6 @@
                 "address": "80 TAMWORTH ST NR STERLING ST, DUBBO DUBBO",
                 "postcode": "2830",
                 "number": "0268824032"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    148.624862,
-                    -32.251907
-                ]
-            },
-            "properties": {
-                "address": "196 WINGEWARRA ST NR BANKSIA CRES, DUBBO DUBBO",
-                "postcode": "2830",
-                "number": "0268825432"
             }
         },
         {
@@ -17481,21 +17451,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.00797,
-                    -34.08733
-                ]
-            },
-            "properties": {
-                "address": "1347 PRINCES HWY OPP RWLY STN, HEATHCOTE",
-                "postcode": "2233",
-                "number": "0295206813"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.114629,
                     -34.036796
                 ]
@@ -19446,51 +19401,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.177652,
-                    -33.934051
-                ]
-            },
-            "properties": {
-                "address": "T2 DEP  1 KEITH SMITH AVE GTE 2 REX REGIONAL, MASCOT MASCOT",
-                "postcode": "2020",
-                "number": "0296674079"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.177357,
-                    -33.934643
-                ]
-            },
-            "properties": {
-                "address": "1 KEITH SMITH AVE T2 DEP GTE LNGE 52, MASCOT MASCOT",
-                "postcode": "2020",
-                "number": "0296674951"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.209337,
-                    -34.010993
-                ]
-            },
-            "properties": {
-                "address": "20 TORRES ST NR CAPT COOK DVE, KURNELL",
-                "postcode": "2231",
-                "number": "0296689195"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.194125,
                     -33.931314
                 ]
@@ -20781,21 +20691,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.901583,
-                    -33.861511
-                ]
-            },
-            "properties": {
-                "address": "DETOX  376 PRAIRIE VALE RD FAIRFIELD HOSPITAL, PRAIRIEWOOD",
-                "postcode": "2176",
-                "number": "0297564703"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.076978,
                     -33.91939
                 ]
@@ -21876,21 +21771,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.87001,
-                    -33.695965
-                ]
-            },
-            "properties": {
-                "address": "95 RAILWAY TCE O/S SHOPS, SCHOFIELDS",
-                "postcode": "2762",
-                "number": "0298383082"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.08231,
                     -33.80707
                 ]
@@ -22146,21 +22026,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.016983,
-                    -33.835941
-                ]
-            },
-            "properties": {
-                "address": "0 BERRY ST CLYDE RWS CNCRSE, CLYDE CLYDE",
-                "postcode": "2142",
-                "number": "0298972352"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.989136,
                     -33.837156
                 ]
@@ -22169,21 +22034,6 @@
                 "address": "12 MEMORIAL AVE O/S POST OFFICE, MERRYLANDS",
                 "postcode": "2160",
                 "number": "0298972613"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.991117,
-                    -33.836658
-                ]
-            },
-            "properties": {
-                "address": "153 MERRYLANDS RD CNR PITT ST, MERRYLANDS",
-                "postcode": "2160",
-                "number": "0298973158"
             }
         },
         {
@@ -22724,21 +22574,6 @@
                 "address": "26 LOCKWOOD AVE NR GLEN ST, BELROSE",
                 "postcode": "2085",
                 "number": "0299755436"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.243863,
-                    -33.751166
-                ]
-            },
-            "properties": {
-                "address": "20 FRENCHS FOREST RD CNR PATANGA RD, FRENCHS FOREST",
-                "postcode": "2086",
-                "number": "0299756149"
             }
         },
         {
@@ -24606,6 +24441,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.538208,
+                    -28.179024
+                ]
+            },
+            "properties": {
+                "address": "41 RECREATION ST CNR STEEP ST, TWEED HEADS",
+                "postcode": "2485",
+                "number": "0407913485"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.431949,
                     -29.118908
                 ]
@@ -25679,6 +25529,21 @@
                 "address": "101 MARSHALL ST NEAR BATHURST ST, COBAR COBAR",
                 "postcode": "2835",
                 "number": "0417412786"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.624862,
+                    -32.251907
+                ]
+            },
+            "properties": {
+                "address": "196 WINGEWARRA ST NR BANKSIA CRES, DUBBO DUBBO",
+                "postcode": "2830",
+                "number": "0417425609"
             }
         },
         {
@@ -29144,6 +29009,21 @@
                 "address": "62 PRINCE ST O/S SURF CLUB, CRONULLA",
                 "postcode": "2230",
                 "number": "0427874707"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.991117,
+                    -33.836658
+                ]
+            },
+            "properties": {
+                "address": "153 MERRYLANDS RD CNR PITT ST, MERRYLANDS",
+                "postcode": "2160",
+                "number": "0427882728"
             }
         },
         {
@@ -34731,21 +34611,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.011373,
-                    -33.833896
-                ]
-            },
-            "properties": {
-                "address": "1 MARY ST CNR SOUTH ST, GRANVILLE",
-                "postcode": "2142",
-                "number": "0436604459"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     153.61431,
                     -28.70504
                 ]
@@ -37131,6 +36996,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.209337,
+                    -34.010993
+                ]
+            },
+            "properties": {
+                "address": "20 TORRES ST NR CAPT COOK DVE, KURNELL",
+                "postcode": "2231",
+                "number": "0438679276"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.208082,
                     -33.872602
                 ]
@@ -38309,6 +38189,21 @@
                 "address": "15 PACIFIC ST , NEWCASTLE",
                 "postcode": "2300",
                 "number": "0439880134"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.177357,
+                    -33.934643
+                ]
+            },
+            "properties": {
+                "address": "1 KEITH SMITH AVE T2 DEP GTE LNGE 52, MASCOT MASCOT",
+                "postcode": "2020",
+                "number": "0439887083"
             }
         },
         {
@@ -39569,6 +39464,21 @@
                 "address": "255 DOONSIDE CRS NR HILL END RD, DOONSIDE",
                 "postcode": "2767",
                 "number": "0447699684"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.901583,
+                    -33.861511
+                ]
+            },
+            "properties": {
+                "address": "DETOX  376 PRAIRIE VALE RD FAIRFIELD HOSPITAL, PRAIRIEWOOD",
+                "postcode": "2176",
+                "number": "0447726247"
             }
         },
         {
@@ -46116,6 +46026,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.011373,
+                    -33.833896
+                ]
+            },
+            "properties": {
+                "address": "1 MARY ST CNR SOUTH ST, GRANVILLE",
+                "postcode": "2142",
+                "number": "0455257855"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.688685,
                     -32.89414
                 ]
@@ -51711,6 +51636,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.016983,
+                    -33.835941
+                ]
+            },
+            "properties": {
+                "address": "0 BERRY ST CLYDE RWS CNCRSE, CLYDE CLYDE",
+                "postcode": "2142",
+                "number": "0457346576"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.352024,
                     -33.405633
                 ]
@@ -52551,6 +52491,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.00797,
+                    -34.08733
+                ]
+            },
+            "properties": {
+                "address": "1347 PRINCES HWY OPP RWLY STN, HEATHCOTE",
+                "postcode": "2233",
+                "number": "0459527732"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     148.688111,
                     -33.83411
                 ]
@@ -53181,6 +53136,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.177652,
+                    -33.934051
+                ]
+            },
+            "properties": {
+                "address": "T2 DEP  1 KEITH SMITH AVE GTE 2 REX REGIONAL, MASCOT MASCOT",
+                "postcode": "2020",
+                "number": "0461388329"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     146.884027,
                     -36.142804
                 ]
@@ -53316,6 +53286,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.653363,
+                    -30.509896
+                ]
+            },
+            "properties": {
+                "address": "298 BEARDY ST NR OHIO ST, ARMIDALE",
+                "postcode": "2350",
+                "number": "0461545481"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.201482,
                     -29.448991
                 ]
@@ -53444,6 +53429,21 @@
                 "address": "255 DOONSIDE CRS NR HILL END RD, DOONSIDE",
                 "postcode": "2767",
                 "number": "0467379570"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.243863,
+                    -33.751166
+                ]
+            },
+            "properties": {
+                "address": "20 FRENCHS FOREST RD CNR PATANGA RD, FRENCHS FOREST",
+                "postcode": "2086",
+                "number": "0467423553"
             }
         },
         {
@@ -54644,6 +54644,21 @@
                 "address": "108 RAILWAY ST , GRANVILLE",
                 "postcode": "2142",
                 "number": "0474856707"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.87001,
+                    -33.695965
+                ]
+            },
+            "properties": {
+                "address": "95 RAILWAY TCE O/S SHOPS, SCHOFIELDS",
+                "postcode": "2762",
+                "number": "0474919640"
             }
         },
         {
@@ -61859,21 +61874,6 @@
                 "address": "69 SIMPSON DRV OUTSIDE SHOPS, BILAMBIL HEIGHTS",
                 "postcode": "2486",
                 "number": "0755907159"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.538208,
-                    -28.179024
-                ]
-            },
-            "properties": {
-                "address": "41 RECREATION ST CNR STEEP ST, TWEED HEADS",
-                "postcode": "2485",
-                "number": "0755991020"
             }
         },
         {

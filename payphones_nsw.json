@@ -5243,13 +5243,6 @@
         "number": "0267728026"
     },
     {
-        "latitude": -30.509896,
-        "longitude": 151.653363,
-        "address": "298 BEARDY ST NR OHIO ST, ARMIDALE",
-        "postcode": "2350",
-        "number": "0267728121"
-    },
-    {
         "latitude": -30.519783,
         "longitude": 151.528326,
         "address": "171 INVERGOWRIE RD N OF TABULUM RD, INVERGOWRIE",
@@ -6011,13 +6004,6 @@
         "address": "80 TAMWORTH ST NR STERLING ST, DUBBO DUBBO",
         "postcode": "2830",
         "number": "0268824032"
-    },
-    {
-        "latitude": -32.251907,
-        "longitude": 148.624862,
-        "address": "196 WINGEWARRA ST NR BANKSIA CRES, DUBBO DUBBO",
-        "postcode": "2830",
-        "number": "0268825432"
     },
     {
         "latitude": -32.250122,
@@ -8155,13 +8141,6 @@
         "number": "0295195916"
     },
     {
-        "latitude": -34.08733,
-        "longitude": 151.00797,
-        "address": "1347 PRINCES HWY OPP RWLY STN, HEATHCOTE",
-        "postcode": "2233",
-        "number": "0295206813"
-    },
-    {
         "latitude": -34.036796,
         "longitude": 151.114629,
         "address": "LVL 2 430 THE KINGSWAY  IN SUTHERLAND HOSP, CARINGBAH",
@@ -9072,27 +9051,6 @@
         "number": "0296659631"
     },
     {
-        "latitude": -33.934051,
-        "longitude": 151.177652,
-        "address": "T2 DEP  1 KEITH SMITH AVE GTE 2 REX REGIONAL, MASCOT MASCOT",
-        "postcode": "2020",
-        "number": "0296674079"
-    },
-    {
-        "latitude": -33.934643,
-        "longitude": 151.177357,
-        "address": "1 KEITH SMITH AVE T2 DEP GTE LNGE 52, MASCOT MASCOT",
-        "postcode": "2020",
-        "number": "0296674951"
-    },
-    {
-        "latitude": -34.010993,
-        "longitude": 151.209337,
-        "address": "20 TORRES ST NR CAPT COOK DVE, KURNELL",
-        "postcode": "2231",
-        "number": "0296689195"
-    },
-    {
         "latitude": -33.931314,
         "longitude": 151.194125,
         "address": "972 BOTANY RD MASCOT PO, MASCOT MASCOT",
@@ -9695,13 +9653,6 @@
         "number": "0297541726"
     },
     {
-        "latitude": -33.861511,
-        "longitude": 150.901583,
-        "address": "DETOX  376 PRAIRIE VALE RD FAIRFIELD HOSPITAL, PRAIRIEWOOD",
-        "postcode": "2176",
-        "number": "0297564703"
-    },
-    {
         "latitude": -33.91939,
         "longitude": 151.076978,
         "address": "32 RAILWAY PDE CNR HALDON ST, LAKEMBA",
@@ -10206,13 +10157,6 @@
         "number": "0298373275"
     },
     {
-        "latitude": -33.695965,
-        "longitude": 150.87001,
-        "address": "95 RAILWAY TCE O/S SHOPS, SCHOFIELDS",
-        "postcode": "2762",
-        "number": "0298383082"
-    },
-    {
         "latitude": -33.80707,
         "longitude": 151.08231,
         "address": "2 ADELAIDE ST CNR VICTORIA RD, WEST RYDE",
@@ -10332,25 +10276,11 @@
         "number": "0298972267"
     },
     {
-        "latitude": -33.835941,
-        "longitude": 151.016983,
-        "address": "0 BERRY ST CLYDE RWS CNCRSE, CLYDE CLYDE",
-        "postcode": "2142",
-        "number": "0298972352"
-    },
-    {
         "latitude": -33.837156,
         "longitude": 150.989136,
         "address": "12 MEMORIAL AVE O/S POST OFFICE, MERRYLANDS",
         "postcode": "2160",
         "number": "0298972613"
-    },
-    {
-        "latitude": -33.836658,
-        "longitude": 150.991117,
-        "address": "153 MERRYLANDS RD CNR PITT ST, MERRYLANDS",
-        "postcode": "2160",
-        "number": "0298973158"
     },
     {
         "latitude": -33.82282,
@@ -10603,13 +10533,6 @@
         "address": "26 LOCKWOOD AVE NR GLEN ST, BELROSE",
         "postcode": "2085",
         "number": "0299755436"
-    },
-    {
-        "latitude": -33.751166,
-        "longitude": 151.243863,
-        "address": "20 FRENCHS FOREST RD CNR PATANGA RD, FRENCHS FOREST",
-        "postcode": "2086",
-        "number": "0299756149"
     },
     {
         "latitude": -33.753611,
@@ -11480,6 +11403,13 @@
         "number": "0407884963"
     },
     {
+        "latitude": -28.179024,
+        "longitude": 153.538208,
+        "address": "41 RECREATION ST CNR STEEP ST, TWEED HEADS",
+        "postcode": "2485",
+        "number": "0407913485"
+    },
+    {
         "latitude": -29.118908,
         "longitude": 153.431949,
         "address": "0 WOODBURN ST CNR ELM ST, EVANS HEAD",
@@ -11982,6 +11912,13 @@
         "address": "101 MARSHALL ST NEAR BATHURST ST, COBAR COBAR",
         "postcode": "2835",
         "number": "0417412786"
+    },
+    {
+        "latitude": -32.251907,
+        "longitude": 148.624862,
+        "address": "196 WINGEWARRA ST NR BANKSIA CRES, DUBBO DUBBO",
+        "postcode": "2830",
+        "number": "0417425609"
     },
     {
         "latitude": -31.18971,
@@ -13599,6 +13536,13 @@
         "address": "62 PRINCE ST O/S SURF CLUB, CRONULLA",
         "postcode": "2230",
         "number": "0427874707"
+    },
+    {
+        "latitude": -33.836658,
+        "longitude": 150.991117,
+        "address": "153 MERRYLANDS RD CNR PITT ST, MERRYLANDS",
+        "postcode": "2160",
+        "number": "0427882728"
     },
     {
         "latitude": -33.879458,
@@ -16205,13 +16149,6 @@
         "number": "0436604458"
     },
     {
-        "latitude": -33.833896,
-        "longitude": 151.011373,
-        "address": "1 MARY ST CNR SOUTH ST, GRANVILLE",
-        "postcode": "2142",
-        "number": "0436604459"
-    },
-    {
         "latitude": -28.70504,
         "longitude": 153.61431,
         "address": "184 SEVEN MILE BEACH RD BROKEN HEAD BEACH, BROKEN HEAD",
@@ -17325,6 +17262,13 @@
         "number": "0438668520"
     },
     {
+        "latitude": -34.010993,
+        "longitude": 151.209337,
+        "address": "20 TORRES ST NR CAPT COOK DVE, KURNELL",
+        "postcode": "2231",
+        "number": "0438679276"
+    },
+    {
         "latitude": -33.872602,
         "longitude": 151.208082,
         "address": "275 PITT ST , SYDNEY",
@@ -17876,6 +17820,13 @@
         "address": "15 PACIFIC ST , NEWCASTLE",
         "postcode": "2300",
         "number": "0439880134"
+    },
+    {
+        "latitude": -33.934643,
+        "longitude": 151.177357,
+        "address": "1 KEITH SMITH AVE T2 DEP GTE LNGE 52, MASCOT MASCOT",
+        "postcode": "2020",
+        "number": "0439887083"
     },
     {
         "latitude": -33.76866,
@@ -18464,6 +18415,13 @@
         "address": "255 DOONSIDE CRS NR HILL END RD, DOONSIDE",
         "postcode": "2767",
         "number": "0447699684"
+    },
+    {
+        "latitude": -33.861511,
+        "longitude": 150.901583,
+        "address": "DETOX  376 PRAIRIE VALE RD FAIRFIELD HOSPITAL, PRAIRIEWOOD",
+        "postcode": "2176",
+        "number": "0447726247"
     },
     {
         "latitude": -37.065901,
@@ -21518,6 +21476,13 @@
         "number": "0455257186"
     },
     {
+        "latitude": -33.833896,
+        "longitude": 151.011373,
+        "address": "1 MARY ST CNR SOUTH ST, GRANVILLE",
+        "postcode": "2142",
+        "number": "0455257855"
+    },
+    {
         "latitude": -32.89414,
         "longitude": 151.688685,
         "address": "45 FUSSELL ST , BIRMINGHAM GARDENS",
@@ -24129,6 +24094,13 @@
         "number": "0457343075"
     },
     {
+        "latitude": -33.835941,
+        "longitude": 151.016983,
+        "address": "0 BERRY ST CLYDE RWS CNCRSE, CLYDE CLYDE",
+        "postcode": "2142",
+        "number": "0457346576"
+    },
+    {
         "latitude": -33.405633,
         "longitude": 151.352024,
         "address": "24 KINARRA AVE O/S WYOMING S/VLGE, WYOMING",
@@ -24521,6 +24493,13 @@
         "number": "0459519921"
     },
     {
+        "latitude": -34.08733,
+        "longitude": 151.00797,
+        "address": "1347 PRINCES HWY OPP RWLY STN, HEATHCOTE",
+        "postcode": "2233",
+        "number": "0459527732"
+    },
+    {
         "latitude": -33.83411,
         "longitude": 148.688111,
         "address": "24 KENDAL ST O/S ELDERS INSURCE, COWRA",
@@ -24815,6 +24794,13 @@
         "number": "0461378547"
     },
     {
+        "latitude": -33.934051,
+        "longitude": 151.177652,
+        "address": "T2 DEP  1 KEITH SMITH AVE GTE 2 REX REGIONAL, MASCOT MASCOT",
+        "postcode": "2020",
+        "number": "0461388329"
+    },
+    {
         "latitude": -36.142804,
         "longitude": 146.884027,
         "address": "1 BEECHWORTH-WODONGA RD NR WINSOR DRV, WDNGA WODONGA",
@@ -24878,6 +24864,13 @@
         "number": "0461543540"
     },
     {
+        "latitude": -30.509896,
+        "longitude": 151.653363,
+        "address": "298 BEARDY ST NR OHIO ST, ARMIDALE",
+        "postcode": "2350",
+        "number": "0461545481"
+    },
+    {
         "latitude": -29.448991,
         "longitude": 153.201482,
         "address": "109 RIVER ST OS RIVERSIDE VANPK, MACLEAN",
@@ -24939,6 +24932,13 @@
         "address": "255 DOONSIDE CRS NR HILL END RD, DOONSIDE",
         "postcode": "2767",
         "number": "0467379570"
+    },
+    {
+        "latitude": -33.751166,
+        "longitude": 151.243863,
+        "address": "20 FRENCHS FOREST RD CNR PATANGA RD, FRENCHS FOREST",
+        "postcode": "2086",
+        "number": "0467423553"
     },
     {
         "latitude": -31.434692,
@@ -25499,6 +25499,13 @@
         "address": "108 RAILWAY ST , GRANVILLE",
         "postcode": "2142",
         "number": "0474856707"
+    },
+    {
+        "latitude": -33.695965,
+        "longitude": 150.87001,
+        "address": "95 RAILWAY TCE O/S SHOPS, SCHOFIELDS",
+        "postcode": "2762",
+        "number": "0474919640"
     },
     {
         "latitude": -28.85895,
@@ -28866,13 +28873,6 @@
         "address": "69 SIMPSON DRV OUTSIDE SHOPS, BILAMBIL HEIGHTS",
         "postcode": "2486",
         "number": "0755907159"
-    },
-    {
-        "latitude": -28.179024,
-        "longitude": 153.538208,
-        "address": "41 RECREATION ST CNR STEEP ST, TWEED HEADS",
-        "postcode": "2485",
-        "number": "0755991020"
     },
     {
         "latitude": -31.959305,
