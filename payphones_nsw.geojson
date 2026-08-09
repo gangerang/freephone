@@ -591,21 +591,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.32385,
-                    -33.48739
-                ]
-            },
-            "properties": {
-                "address": "10 GEORGE ST DEEPWATER PLAZA, WOY WOY",
-                "postcode": "2256",
-                "number": "0243431198"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.419397,
                     -33.307165
                 ]
@@ -3036,21 +3021,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.59128,
-                    -32.762125
-                ]
-            },
-            "properties": {
-                "address": "1 MOLLY MORGAN DRV GREEN HILLS S/C, EAST MAITLAND",
-                "postcode": "2323",
-                "number": "0249343659"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.614664,
                     -32.602391
                 ]
@@ -3269,21 +3239,6 @@
                 "address": "50 ABERDARE ST , KITCHENER",
                 "postcode": "2325",
                 "number": "0249902732"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.3729331,
-                    -32.8428778
-                ]
-            },
-            "properties": {
-                "address": "69 ABERDARE RD , ABERDARE",
-                "postcode": "2325",
-                "number": "0249903164"
             }
         },
         {
@@ -12576,21 +12531,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.946558,
-                    -30.096171
-                ]
-            },
-            "properties": {
-                "address": "1 MORVAN ST NR TARCOON ST, BOURKE",
-                "postcode": "2840",
-                "number": "0268722232"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     145.94997,
                     -30.086365
                 ]
@@ -14976,36 +14916,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.204663,
-                    -33.877981
-                ]
-            },
-            "properties": {
-                "address": "393 SUSSEX ST , HAYMARKET",
-                "postcode": "2000",
-                "number": "0292111059"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.204917,
-                    -33.878846
-                ]
-            },
-            "properties": {
-                "address": "432 SUSSEX ST , HAYMARKET",
-                "postcode": "2000",
-                "number": "0292111063"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.206446,
                     -33.879199
                 ]
@@ -15029,36 +14939,6 @@
                 "address": "15 BROADWAY ST OS UTS NR HARRIS, ULTIMO",
                 "postcode": "2007",
                 "number": "0292113981"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.203805,
-                    -33.882969
-                ]
-            },
-            "properties": {
-                "address": "815 GEORGE ST BTWN HARRIS & QUAY, HAYMARKET",
-                "postcode": "2000",
-                "number": "0292116991"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.199351,
-                    -33.881196
-                ]
-            },
-            "properties": {
-                "address": "1 MARY ANN ST NR BULWARRA RD, ULTIMO",
-                "postcode": "2007",
-                "number": "0292123114"
             }
         },
         {
@@ -15096,21 +14976,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.207098,
-                    -33.882151
-                ]
-            },
-            "properties": {
-                "address": "1 EDDY AVE ADJ BELMORE PARK, HAYMARKET",
-                "postcode": "2000",
-                "number": "0292125004"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.209872,
                     -33.876482
                 ]
@@ -15134,21 +14999,6 @@
                 "address": "1 LEE ST RLWY SQ NR GEORGE, HAYMARKET",
                 "postcode": "2000",
                 "number": "0292126435"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.205161,
-                    -33.879884
-                ]
-            },
-            "properties": {
-                "address": "681 GEORGE ST NEAR HAY ST, HAYMARKET",
-                "postcode": "2000",
-                "number": "0292127359"
             }
         },
         {
@@ -15651,21 +15501,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.196401,
-                    -33.883986
-                ]
-            },
-            "properties": {
-                "address": "61 MOUNTAIN ST NR BROADWAY, ULTIMO",
-                "postcode": "2007",
-                "number": "0292810589"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.206999,
                     -33.883007
                 ]
@@ -15726,21 +15561,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.19945,
-                    -33.88197
-                ]
-            },
-            "properties": {
-                "address": "BLDG D 1 MARY ANN ST TAFE LIBRARY FOYER, ULTIMO",
-                "postcode": "2007",
-                "number": "0292810709"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.20832,
                     -33.88416
                 ]
@@ -15779,21 +15599,6 @@
                 "address": "MAIN  1 EDDY AVE CENTRAL WEST ENTRY, HAYMARKET",
                 "postcode": "2000",
                 "number": "0292813684"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.20407,
-                    -33.87847
-                ]
-            },
-            "properties": {
-                "address": "70 DIXON ST CHINATOWN PLAZA, HAYMARKET",
-                "postcode": "2000",
-                "number": "0292813796"
             }
         },
         {
@@ -15884,21 +15689,6 @@
                 "address": "PLATFM 24 1 EDDY AVE CENTRAL CONCSE NR, HAYMARKET",
                 "postcode": "2000",
                 "number": "0292817782"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.20832,
-                    -33.88416
-                ]
-            },
-            "properties": {
-                "address": "2 KIPPAX ST NR ELIZABETH ST, SURRY HILLS",
-                "postcode": "2010",
-                "number": "0292818283"
             }
         },
         {
@@ -16664,51 +16454,6 @@
                 "address": "339 OXFORD ST NR REGENT STREET, PADDINGTON",
                 "postcode": "2021",
                 "number": "0293616981"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.23639,
-                    -33.87946
-                ]
-            },
-            "properties": {
-                "address": "CNCRSE  203 NEW SOUTH HEAD RD EDGECLIFF RLWY STN, EDGECLIFF",
-                "postcode": "2027",
-                "number": "0293624185"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.23639,
-                    -33.87946
-                ]
-            },
-            "properties": {
-                "address": "CNCRSE  203 NEW SOUTH HEAD RD EDGECLIFF RLWY STN, EDGECLIFF",
-                "postcode": "2027",
-                "number": "0293624597"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.23639,
-                    -33.87946
-                ]
-            },
-            "properties": {
-                "address": "CNCRSE  203 NEW SOUTH HEAD RD EDGECLIFF RLWY STN, EDGECLIFF",
-                "postcode": "2027",
-                "number": "0293624615"
             }
         },
         {
@@ -17841,21 +17586,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.18255,
-                    -33.85775
-                ]
-            },
-            "properties": {
-                "address": "243 DARLING ST NR BOOTH ST, BALMAIN",
-                "postcode": "2041",
-                "number": "0295558647"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.160852,
                     -33.871202
                 ]
@@ -17864,21 +17594,6 @@
                 "address": "JCDBTH 5013 1 HELENA ST CNR BALMAIN RD, LILYFIELD",
                 "postcode": "2040",
                 "number": "0295558736"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.192689,
-                    -33.85752
-                ]
-            },
-            "properties": {
-                "address": "80 DARLING ST NR UNION ST, BALMAIN EAST",
-                "postcode": "2041",
-                "number": "0295558770"
             }
         },
         {
@@ -17906,7 +17621,7 @@
                 ]
             },
             "properties": {
-                "address": "1 SHAW ST NR STANMORE RD, PETERSHAM",
+                "address": "47 SHAW ST NR STANMORE RD, PETERSHAM",
                 "postcode": "2049",
                 "number": "0295600112"
             }
@@ -18771,21 +18486,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.796274,
-                    -33.744855
-                ]
-            },
-            "properties": {
-                "address": "157 AURORA DRV OPP BALLENY DRIVE, TREGEAR",
-                "postcode": "2770",
-                "number": "0296285193"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.005555,
                     -33.808121
                 ]
@@ -19544,21 +19244,6 @@
                 "address": "CNCRSE WEST 1 ARGYLE ST PARRAMATTA RWS, PARRAMATTA",
                 "postcode": "2150",
                 "number": "0296870413"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.005902,
-                    -33.818197
-                ]
-            },
-            "properties": {
-                "address": "0 ARGYLE ST ENTRY EASTRN CONC, PARRAMATTA",
-                "postcode": "2150",
-                "number": "0296870725"
             }
         },
         {
@@ -21441,36 +21126,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.169411,
-                    -33.864393
-                ]
-            },
-            "properties": {
-                "address": "704 DARLING ST NR WATERLOO ST, ROZELLE",
-                "postcode": "2039",
-                "number": "0298108624"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.180854,
-                    -33.855644
-                ]
-            },
-            "properties": {
-                "address": "95 CURTIS RD , BALMAIN",
-                "postcode": "2041",
-                "number": "0298181264"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.170848,
                     -33.863237
                 ]
@@ -22581,36 +22236,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.260356,
-                    -33.753611
-                ]
-            },
-            "properties": {
-                "address": "2 CORNISH AVE NR WILLANDRA RD, BEACON HILL",
-                "postcode": "2100",
-                "number": "0299756347"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.217199,
-                    -33.728348
-                ]
-            },
-            "properties": {
-                "address": "25 RALSTON AVE O/S BELROSE SHOPS, BELROSE",
-                "postcode": "2085",
-                "number": "0299756483"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.2251,
                     -33.75015
                 ]
@@ -22799,51 +22424,6 @@
                 "address": "2 BOORALIE RD , TERREY HILLS",
                 "postcode": "2084",
                 "number": "0299863560"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.303667,
-                    -33.676976
-                ]
-            },
-            "properties": {
-                "address": "1763 PITTWATER RD NR BUNGAN LNE, MONA VALE",
-                "postcode": "2103",
-                "number": "0299971743"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.303667,
-                    -33.676976
-                ]
-            },
-            "properties": {
-                "address": "1763 PITTWATER RD NR BUNGAN LNE, MONA VALE",
-                "postcode": "2103",
-                "number": "0299972210"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.30338,
-                    -33.67803
-                ]
-            },
-            "properties": {
-                "address": "2 WARATAH ST CNR PITTWATER RD, MONA VALE",
-                "postcode": "2103",
-                "number": "0299972848"
             }
         },
         {
@@ -23384,6 +22964,21 @@
                 "address": "420 GEORGE ST MID CITY CENTRE, SYDNEY",
                 "postcode": "2000",
                 "number": "0400252944"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.23639,
+                    -33.87946
+                ]
+            },
+            "properties": {
+                "address": "CNCRSE  203 NEW SOUTH HEAD RD EDGECLIFF RLWY STN, EDGECLIFF",
+                "postcode": "2027",
+                "number": "0400253766"
             }
         },
         {
@@ -25611,6 +25206,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.203805,
+                    -33.882969
+                ]
+            },
+            "properties": {
+                "address": "815 GEORGE ST BTWN HARRIS & QUAY, HAYMARKET",
+                "postcode": "2000",
+                "number": "0417490998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.90663,
                     -33.770028
                 ]
@@ -26519,6 +26129,21 @@
                 "address": "116 OAKES RD CNR OLD WINDSOR RD, OLD TOONGABBIE",
                 "postcode": "2146",
                 "number": "0418575715"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.199351,
+                    -33.881196
+                ]
+            },
+            "properties": {
+                "address": "1 MARY ANN ST NR BULWARRA RD, ULTIMO",
+                "postcode": "2007",
+                "number": "0418588841"
             }
         },
         {
@@ -27689,6 +27314,21 @@
                 "address": "27 CHESTER HILL RD NR PROCTOR PDE, CHESTER HILL",
                 "postcode": "2162",
                 "number": "0419882177"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.946558,
+                    -30.096171
+                ]
+            },
+            "properties": {
+                "address": "1 MORVAN ST NR TARCOON ST, BOURKE",
+                "postcode": "2840",
+                "number": "0419884834"
             }
         },
         {
@@ -30321,6 +29961,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.169411,
+                    -33.864393
+                ]
+            },
+            "properties": {
+                "address": "704 DARLING ST NR WATERLOO ST, ROZELLE",
+                "postcode": "2039",
+                "number": "0428765296"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.03331,
                     -33.85905
                 ]
@@ -32496,6 +32151,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.20832,
+                    -33.88416
+                ]
+            },
+            "properties": {
+                "address": "2 KIPPAX ST NR ELIZABETH ST, SURRY HILLS",
+                "postcode": "2010",
+                "number": "0436286860"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.033341,
                     -33.850703
                 ]
@@ -33704,6 +33374,21 @@
                 "address": "119 JOHN ST OS LIDCOMBE PO, LIDCOMBE",
                 "postcode": "2141",
                 "number": "0436414692"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.260356,
+                    -33.753611
+                ]
+            },
+            "properties": {
+                "address": "2 CORNISH AVE NR WILLANDRA RD, BEACON HILL",
+                "postcode": "2100",
+                "number": "0436415653"
             }
         },
         {
@@ -34964,6 +34649,21 @@
                 "address": "231 ROUSE ST TELEPHONE EXCHANGE, TENTERFIELD",
                 "postcode": "2372",
                 "number": "0436943755"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.20407,
+                    -33.87847
+                ]
+            },
+            "properties": {
+                "address": "70 DIXON ST CHINATOWN PLAZA, HAYMARKET",
+                "postcode": "2000",
+                "number": "0436961460"
             }
         },
         {
@@ -37004,6 +36704,21 @@
                 "address": "20 TORRES ST NR CAPT COOK DVE, KURNELL",
                 "postcode": "2231",
                 "number": "0438679276"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.217199,
+                    -33.728348
+                ]
+            },
+            "properties": {
+                "address": "25 RALSTON AVE O/S, BELROSE",
+                "postcode": "2085",
+                "number": "0438706078"
             }
         },
         {
@@ -40416,6 +40131,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.204917,
+                    -33.878846
+                ]
+            },
+            "properties": {
+                "address": "432 SUSSEX ST , HAYMARKET",
+                "postcode": "2000",
+                "number": "0447967668"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.559317,
                     -28.87015
                 ]
@@ -41481,6 +41211,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.204663,
+                    -33.877981
+                ]
+            },
+            "properties": {
+                "address": "393 SUSSEX ST , HAYMARKET",
+                "postcode": "2000",
+                "number": "0448217149"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.08758,
                     -33.91601
                 ]
@@ -41684,6 +41429,21 @@
                 "address": "2 BUCKLAND ST NR BOTANY RD, ALEXANDRIA",
                 "postcode": "2015",
                 "number": "0448259230"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.30338,
+                    -33.67803
+                ]
+            },
+            "properties": {
+                "address": "2 WARATAH ST CNR PITTWATER RD, MONA VALE",
+                "postcode": "2103",
+                "number": "0448266810"
             }
         },
         {
@@ -42614,6 +42374,21 @@
                 "address": "50 OLD BARRENJOEY RD OS FRECKLES, AVALON BEACH",
                 "postcode": "2107",
                 "number": "0448533121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.196401,
+                    -33.883986
+                ]
+            },
+            "properties": {
+                "address": "61 MOUNTAIN ST NR BROADWAY, ULTIMO",
+                "postcode": "2007",
+                "number": "0448533790"
             }
         },
         {
@@ -45366,6 +45141,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.180854,
+                    -33.855644
+                ]
+            },
+            "properties": {
+                "address": "95 CURTIS RD , BALMAIN",
+                "postcode": "2041",
+                "number": "0455124367"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.090629,
                     -33.807442
                 ]
@@ -46101,6 +45891,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.3729331,
+                    -32.8428778
+                ]
+            },
+            "properties": {
+                "address": "69 ABERDARE RD , ABERDARE",
+                "postcode": "2325",
+                "number": "0455283984"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.91298,
                     -34.376687
                 ]
@@ -46589,6 +46394,36 @@
                 "address": "301 GOSPORT ST , MOREE MOREE",
                 "postcode": "2400",
                 "number": "0455406716"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.207098,
+                    -33.882151
+                ]
+            },
+            "properties": {
+                "address": "1 EDDY AVE ADJ BELMORE PARK, HAYMARKET",
+                "postcode": "2000",
+                "number": "0455409752"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.18255,
+                    -33.85775
+                ]
+            },
+            "properties": {
+                "address": "243 DARLING ST NR BOOTH ST, BALMAIN",
+                "postcode": "2041",
+                "number": "0455410926"
             }
         },
         {
@@ -48464,6 +48299,21 @@
                 "address": "45 MAIN ST CNR WARWICK LN, BLACKTOWN",
                 "postcode": "2148",
                 "number": "0455726758"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.303667,
+                    -33.676976
+                ]
+            },
+            "properties": {
+                "address": "1763 PITTWATER RD NR BUNGAN LNE, MONA VALE",
+                "postcode": "2103",
+                "number": "0455726996"
             }
         },
         {
@@ -51786,6 +51636,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.19945,
+                    -33.88197
+                ]
+            },
+            "properties": {
+                "address": "BLDG D 1 MARY ANN ST TAFE LIBRARY FOYER, ULTIMO",
+                "postcode": "2007",
+                "number": "0457752232"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.5864064,
                     -32.9320278
                 ]
@@ -52139,6 +52004,21 @@
                 "address": "184 MOSSMAN ST CNR BUTLER ST, ARMIDALE",
                 "postcode": "2350",
                 "number": "0458819454"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.205161,
+                    -33.879884
+                ]
+            },
+            "properties": {
+                "address": "681 GEORGE ST NEAR HAY ST, HAYMARKET",
+                "postcode": "2000",
+                "number": "0458821022"
             }
         },
         {
@@ -53309,6 +53189,21 @@
                 "address": "109 RIVER ST OS RIVERSIDE VANPK, MACLEAN",
                 "postcode": "2463",
                 "number": "0461596839"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.23639,
+                    -33.87946
+                ]
+            },
+            "properties": {
+                "address": "CNCRSE  203 NEW SOUTH HEAD RD EDGECLIFF RLWY STN, EDGECLIFF",
+                "postcode": "2027",
+                "number": "0461597379"
             }
         },
         {
@@ -55281,6 +55176,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.23639,
+                    -33.87946
+                ]
+            },
+            "properties": {
+                "address": "CNCRSE  203 NEW SOUTH HEAD RD EDGECLIFF RLWY STN, EDGECLIFF",
+                "postcode": "2027",
+                "number": "0475702017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     148.62357,
                     -36.41523
                 ]
@@ -55769,6 +55679,21 @@
                 "address": "91 MACKELLER ST NEPEAN RIVER HOLID, EMU PLAINS",
                 "postcode": "2750",
                 "number": "0475969554"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.796274,
+                    -33.744855
+                ]
+            },
+            "properties": {
+                "address": "157 AURORA DRV OPP BALLENY DRIVE, TREGEAR",
+                "postcode": "2770",
+                "number": "0475972639"
             }
         },
         {
@@ -56519,6 +56444,21 @@
                 "address": "1 WILLIAM ST O/S AUST MUSEUM, DARLINGHURST",
                 "postcode": "2010",
                 "number": "0477025523"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.303667,
+                    -33.676976
+                ]
+            },
+            "properties": {
+                "address": "1763 PITTWATER RD NR BUNGAN LNE, MONA VALE",
+                "postcode": "2103",
+                "number": "0477026295"
             }
         },
         {
@@ -61041,6 +60981,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.192689,
+                    -33.85752
+                ]
+            },
+            "properties": {
+                "address": "80 DARLING ST NR UNION ST, BALMAIN EAST",
+                "postcode": "2041",
+                "number": "0497952209"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.899149,
                     -33.915455
                 ]
@@ -61094,6 +61049,21 @@
                 "address": "0 MONTAGUE ST FAIRY MEADOW RWS, FAIRY MEADOW",
                 "postcode": "2519",
                 "number": "0498009694"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.005902,
+                    -33.818197
+                ]
+            },
+            "properties": {
+                "address": "0 ARGYLE ST ENTRY EASTRN CONC, PARRAMATTA",
+                "postcode": "2150",
+                "number": "0498011932"
             }
         },
         {
