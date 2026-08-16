@@ -3206,13 +3206,6 @@
         "number": "0265540301"
     },
     {
-        "latitude": -32.3478879,
-        "longitude": 152.535993,
-        "address": "209 BOOMERANG DRV O/S SHOPS, BLUEYS BEACH",
-        "postcode": "2428",
-        "number": "0265540430"
-    },
-    {
         "latitude": -32.0989606,
         "longitude": 152.3810461,
         "address": "28 NABIAC ST OS TENNIS COURTS, NABIAC",
@@ -6958,13 +6951,6 @@
         "number": "0289203610"
     },
     {
-        "latitude": -33.879199,
-        "longitude": 151.206446,
-        "address": "24 CAMPBELL ST O/S AUSGRID OFFICE, HAYMARKET",
-        "postcode": "2000",
-        "number": "0292113851"
-    },
-    {
         "latitude": -33.884083,
         "longitude": 151.201338,
         "address": "15 BROADWAY ST OS UTS NR HARRIS, ULTIMO",
@@ -7161,13 +7147,6 @@
         "number": "0292690661"
     },
     {
-        "latitude": -33.870857,
-        "longitude": 151.209468,
-        "address": "121 CASTLEREAGH ST NR MARKET ST, SYDNEY",
-        "postcode": "2000",
-        "number": "0292690673"
-    },
-    {
         "latitude": -33.873086,
         "longitude": 151.207405,
         "address": "1 PARK ST CNR GEORGE ST, SYDNEY",
@@ -7224,13 +7203,6 @@
         "number": "0292792563"
     },
     {
-        "latitude": -33.87994,
-        "longitude": 151.20915,
-        "address": "198 ELIZABETH ST O/S HOTEL, SURRY HILLS",
-        "postcode": "2010",
-        "number": "0292803024"
-    },
-    {
         "latitude": -33.883007,
         "longitude": 151.206999,
         "address": "1 EDDY AVE CENTRAL EAST ARCH, HAYMARKET",
@@ -7257,13 +7229,6 @@
         "address": "1 EDDY AVE CENTRAL EAST ARCH, HAYMARKET",
         "postcode": "2000",
         "number": "0292810698"
-    },
-    {
-        "latitude": -33.88416,
-        "longitude": 151.20832,
-        "address": "2 KIPPAX ST NR ELIZABETH ST, SURRY HILLS",
-        "postcode": "2010",
-        "number": "0292812609"
     },
     {
         "latitude": -33.882401,
@@ -8972,13 +8937,6 @@
         "address": "0 ARGYLE ST UNDER BUS CANOPY, PARRAMATTA",
         "postcode": "2150",
         "number": "0296870295"
-    },
-    {
-        "latitude": -33.81725,
-        "longitude": 151.004539,
-        "address": "CNCRSE WEST 1 ARGYLE ST PARRAMATTA RWS, PARRAMATTA",
-        "postcode": "2150",
-        "number": "0296870413"
     },
     {
         "latitude": -33.8171959,
@@ -14467,6 +14425,13 @@
         "address": "285 FOREST RD O/S H& R BLOCK, HURSTVILLE",
         "postcode": "2220",
         "number": "0429620866"
+    },
+    {
+        "latitude": -33.87994,
+        "longitude": 151.20915,
+        "address": "198 ELIZABETH ST O/S HOTEL, SURRY HILLS",
+        "postcode": "2010",
+        "number": "0429625683"
     },
     {
         "latitude": -34.021183,
@@ -21308,6 +21273,13 @@
         "number": "0455230495"
     },
     {
+        "latitude": -33.879199,
+        "longitude": 151.206446,
+        "address": "24 CAMPBELL ST OUTSIDE, HAYMARKET",
+        "postcode": "2000",
+        "number": "0455232584"
+    },
+    {
         "latitude": -28.870343,
         "longitude": 153.560222,
         "address": "135 RIVER ST NR WIGMORE ARC, BALLINA",
@@ -22596,6 +22568,13 @@
         "number": "0455730693"
     },
     {
+        "latitude": -33.88416,
+        "longitude": 151.20832,
+        "address": "2 KIPPAX ST NR ELIZABETH ST, SURRY HILLS",
+        "postcode": "2010",
+        "number": "0455730868"
+    },
+    {
         "latitude": -33.799623,
         "longitude": 151.284597,
         "address": "46 EAST ESP , MANLY MANLY",
@@ -23273,6 +23252,13 @@
         "address": "2 HARNETT AVE CNR ILLAWARRA RD, MARRICKVILLE",
         "postcode": "2204",
         "number": "0455989134"
+    },
+    {
+        "latitude": -32.3478879,
+        "longitude": 152.535993,
+        "address": "209 BOOMERANG DRV O/S SHOPS, BLUEYS BEACH",
+        "postcode": "2428",
+        "number": "0455989167"
     },
     {
         "latitude": -35.371098,
@@ -24253,6 +24239,13 @@
         "address": "LOT 22 0 MIDDLE RD CNR EXETER RD, EXETER",
         "postcode": "2579",
         "number": "0458761353"
+    },
+    {
+        "latitude": -33.870857,
+        "longitude": 151.209468,
+        "address": "121 CASTLEREAGH ST NR MARKET ST, SYDNEY",
+        "postcode": "2000",
+        "number": "0458762194"
     },
     {
         "latitude": -31.823419,
@@ -26444,6 +26437,13 @@
         "address": "34 MAY ST NR COUNCIL ST, ST PETERS",
         "postcode": "2044",
         "number": "0477281954"
+    },
+    {
+        "latitude": -33.81725,
+        "longitude": 151.004539,
+        "address": "CNCRSE WEST 1 ARGYLE ST PARRAMATTA RWS, PARRAMATTA",
+        "postcode": "2150",
+        "number": "0477306354"
     },
     {
         "latitude": -33.896136,

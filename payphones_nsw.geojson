@@ -6876,21 +6876,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.535993,
-                    -32.3478879
-                ]
-            },
-            "properties": {
-                "address": "209 BOOMERANG DRV O/S SHOPS, BLUEYS BEACH",
-                "postcode": "2428",
-                "number": "0265540430"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.3810461,
                     -32.0989606
                 ]
@@ -14916,21 +14901,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.206446,
-                    -33.879199
-                ]
-            },
-            "properties": {
-                "address": "24 CAMPBELL ST O/S AUSGRID OFFICE, HAYMARKET",
-                "postcode": "2000",
-                "number": "0292113851"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.201338,
                     -33.884083
                 ]
@@ -15351,21 +15321,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.209468,
-                    -33.870857
-                ]
-            },
-            "properties": {
-                "address": "121 CASTLEREAGH ST NR MARKET ST, SYDNEY",
-                "postcode": "2000",
-                "number": "0292690673"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.207405,
                     -33.873086
                 ]
@@ -15486,21 +15441,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.20915,
-                    -33.87994
-                ]
-            },
-            "properties": {
-                "address": "198 ELIZABETH ST O/S HOTEL, SURRY HILLS",
-                "postcode": "2010",
-                "number": "0292803024"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.206999,
                     -33.883007
                 ]
@@ -15554,21 +15494,6 @@
                 "address": "1 EDDY AVE CENTRAL EAST ARCH, HAYMARKET",
                 "postcode": "2000",
                 "number": "0292810698"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.20832,
-                    -33.88416
-                ]
-            },
-            "properties": {
-                "address": "2 KIPPAX ST NR ELIZABETH ST, SURRY HILLS",
-                "postcode": "2010",
-                "number": "0292812609"
             }
         },
         {
@@ -19229,21 +19154,6 @@
                 "address": "0 ARGYLE ST UNDER BUS CANOPY, PARRAMATTA",
                 "postcode": "2150",
                 "number": "0296870295"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.004539,
-                    -33.81725
-                ]
-            },
-            "properties": {
-                "address": "CNCRSE WEST 1 ARGYLE ST PARRAMATTA RWS, PARRAMATTA",
-                "postcode": "2150",
-                "number": "0296870413"
             }
         },
         {
@@ -31004,6 +30914,21 @@
                 "address": "285 FOREST RD O/S H& R BLOCK, HURSTVILLE",
                 "postcode": "2220",
                 "number": "0429620866"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.20915,
+                    -33.87994
+                ]
+            },
+            "properties": {
+                "address": "198 ELIZABETH ST O/S HOTEL, SURRY HILLS",
+                "postcode": "2010",
+                "number": "0429625683"
             }
         },
         {
@@ -45666,6 +45591,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.206446,
+                    -33.879199
+                ]
+            },
+            "properties": {
+                "address": "24 CAMPBELL ST OUTSIDE, HAYMARKET",
+                "postcode": "2000",
+                "number": "0455232584"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.560222,
                     -28.870343
                 ]
@@ -48426,6 +48366,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.20832,
+                    -33.88416
+                ]
+            },
+            "properties": {
+                "address": "2 KIPPAX ST NR ELIZABETH ST, SURRY HILLS",
+                "postcode": "2010",
+                "number": "0455730868"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.284597,
                     -33.799623
                 ]
@@ -49874,6 +49829,21 @@
                 "address": "2 HARNETT AVE CNR ILLAWARRA RD, MARRICKVILLE",
                 "postcode": "2204",
                 "number": "0455989134"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.535993,
+                    -32.3478879
+                ]
+            },
+            "properties": {
+                "address": "209 BOOMERANG DRV O/S SHOPS, BLUEYS BEACH",
+                "postcode": "2428",
+                "number": "0455989167"
             }
         },
         {
@@ -51974,6 +51944,21 @@
                 "address": "LOT 22 0 MIDDLE RD CNR EXETER RD, EXETER",
                 "postcode": "2579",
                 "number": "0458761353"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.209468,
+                    -33.870857
+                ]
+            },
+            "properties": {
+                "address": "121 CASTLEREAGH ST NR MARKET ST, SYDNEY",
+                "postcode": "2000",
+                "number": "0458762194"
             }
         },
         {
@@ -56669,6 +56654,21 @@
                 "address": "34 MAY ST NR COUNCIL ST, ST PETERS",
                 "postcode": "2044",
                 "number": "0477281954"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.004539,
+                    -33.81725
+                ]
+            },
+            "properties": {
+                "address": "CNCRSE WEST 1 ARGYLE ST PARRAMATTA RWS, PARRAMATTA",
+                "postcode": "2150",
+                "number": "0477306354"
             }
         },
         {
