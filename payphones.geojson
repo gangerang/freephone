@@ -3238,22 +3238,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.5766792,
-                    -32.5415545
-                ]
-            },
-            "properties": {
-                "address": "795 GRESFORD RD NR SHOP, VACY VACY",
-                "state": "NSW",
-                "postcode": "2421",
-                "number": "0249388102"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.537085,
                     -32.42695
                 ]
@@ -5711,22 +5695,6 @@
                 "state": "NSW",
                 "postcode": "2790",
                 "number": "0263590505"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.021765,
-                    -33.819949
-                ]
-            },
-            "properties": {
-                "address": "4654 JENOLAN CAVES RD OPP TICKET OFFICE, JENOLAN",
-                "state": "NSW",
-                "postcode": "2790",
-                "number": "0263593201"
             }
         },
         {
@@ -19094,22 +19062,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.160852,
-                    -33.871202
-                ]
-            },
-            "properties": {
-                "address": "JCDBTH 5013 1 HELENA ST CNR BALMAIN RD, LILYFIELD",
-                "state": "NSW",
-                "postcode": "2040",
-                "number": "0295558736"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.15183,
                     -33.91524
                 ]
@@ -21471,22 +21423,6 @@
                 "state": "NSW",
                 "postcode": "2165",
                 "number": "0297257648"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.992302,
-                    -33.889402
-                ]
-            },
-            "properties": {
-                "address": "223 MILLER RD NR GOONAROI ST, BASS HILL",
-                "state": "NSW",
-                "postcode": "2197",
-                "number": "0297261650"
             }
         },
         {
@@ -24047,22 +23983,6 @@
                 "state": "NSW",
                 "postcode": "2086",
                 "number": "0299756710"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.21412,
-                    -33.762023
-                ]
-            },
-            "properties": {
-                "address": "59 THE CENTRE  NEAR DARLEY ST, FORESTVILLE",
-                "state": "NSW",
-                "postcode": "2087",
-                "number": "0299756794"
             }
         },
         {
@@ -39894,22 +39814,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.02905,
-                    -37.865676
-                ]
-            },
-            "properties": {
-                "address": "LVL 2 49 STATION ST MALVERN RLWY STN, MALVERN",
-                "state": "VIC",
-                "postcode": "3144",
-                "number": "0395760918"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     145.019022,
                     -37.856522
                 ]
@@ -46566,6 +46470,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.21412,
+                    -33.762023
+                ]
+            },
+            "properties": {
+                "address": "59 THE CENTRE  NEAR DARLEY ST, FORESTVILLE",
+                "state": "NSW",
+                "postcode": "2087",
+                "number": "0407187129"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     145.061428,
                     -37.93554
                 ]
@@ -46863,6 +46783,22 @@
                 "state": "TAS",
                 "postcode": "7249",
                 "number": "0407325953"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.160852,
+                    -33.871202
+                ]
+            },
+            "properties": {
+                "address": "JCDBTH 5013 1 HELENA ST CNR BALMAIN RD, LILYFIELD",
+                "state": "NSW",
+                "postcode": "2040",
+                "number": "0407342346"
             }
         },
         {
@@ -54486,6 +54422,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.992302,
+                    -33.889402
+                ]
+            },
+            "properties": {
+                "address": "223 MILLER RD NR GOONAROI ST, BASS HILL",
+                "state": "NSW",
+                "postcode": "2197",
+                "number": "0417919221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.207629,
                     -33.87947
                 ]
@@ -57407,22 +57359,6 @@
                 "state": "QLD",
                 "postcode": "4011",
                 "number": "0418758649"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.667872,
-                    -18.224156
-                ]
-            },
-            "properties": {
-                "address": "LOT 9 69 GREAT NORTHERN HWY NR PARK, HALLS CREEK",
-                "state": "WA",
-                "postcode": "6770",
-                "number": "0418758791"
             }
         },
         {
@@ -64191,6 +64127,22 @@
                 "state": "NSW",
                 "postcode": "2100",
                 "number": "0427656286"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.04255,
+                    -31.88585
+                ]
+            },
+            "properties": {
+                "address": "309 MORRISON RD DARLING RIDGE SHOP, SWAN VIEW",
+                "state": "WA",
+                "postcode": "6056",
+                "number": "0427666761"
             }
         },
         {
@@ -79878,22 +79830,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    138.532993,
-                    -34.883534
-                ]
-            },
-            "properties": {
-                "address": "26 WOODVILLE RD QEH OS MAIN BLDG, WOODVILLE SOUTH",
-                "state": "SA",
-                "postcode": "5011",
-                "number": "0436396132"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     147.326175,
                     -42.904042
                 ]
@@ -84111,6 +84047,22 @@
                 "state": "VIC",
                 "postcode": "3146",
                 "number": "0436915674"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.021765,
+                    -33.819949
+                ]
+            },
+            "properties": {
+                "address": "4654 JENOLAN CAVES RD OPP TICKET OFFICE, JENOLAN",
+                "state": "NSW",
+                "postcode": "2790",
+                "number": "0436920964"
             }
         },
         {
@@ -92038,6 +91990,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    138.532993,
+                    -34.883534
+                ]
+            },
+            "properties": {
+                "address": "26 WOODVILLE RD QEH OS MAIN BLDG, WOODVILLE SOUTH",
+                "state": "SA",
+                "postcode": "5011",
+                "number": "0438738033"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.208082,
                     -33.872602
                 ]
@@ -95439,6 +95407,22 @@
                 "state": "QLD",
                 "postcode": "4069",
                 "number": "0439655938"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.667872,
+                    -18.224156
+                ]
+            },
+            "properties": {
+                "address": "LOT 9 69 GREAT NORTHERN HWY NR PARK, HALLS CREEK",
+                "state": "WA",
+                "postcode": "6770",
+                "number": "0439656107"
             }
         },
         {
@@ -100319,6 +100303,22 @@
                 "state": "VIC",
                 "postcode": "3880",
                 "number": "0447675889"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.026611,
+                    -27.460989
+                ]
+            },
+            "properties": {
+                "address": "2 ST PAUL'S TCE NR BOUNDARY ST, SPRING HILL",
+                "state": "QLD",
+                "postcode": "4000",
+                "number": "0447679611"
             }
         },
         {
@@ -110118,6 +110118,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    138.421939,
+                    -31.88817
+                ]
+            },
+            "properties": {
+                "address": "60 ELDER TCE CNR FLINDERS RANGE, HAWKER",
+                "state": "SA",
+                "postcode": "5434",
+                "number": "0448376343"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.239764,
                     -33.845797
                 ]
@@ -112342,6 +112358,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    138.51916,
+                    -34.98001
+                ]
+            },
+            "properties": {
+                "address": "115 JETTY RD NR ROSE ST, GLENELG",
+                "state": "SA",
+                "postcode": "5045",
+                "number": "0448512751"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     147.267405,
                     -42.847497
                 ]
@@ -114303,22 +114335,6 @@
                 "state": "VIC",
                 "postcode": "3309",
                 "number": "0448640955"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    116.04255,
-                    -31.88585
-                ]
-            },
-            "properties": {
-                "address": "309 MORRISON RD DARLING RIDGE SHOP, SWAN VIEW",
-                "state": "WA",
-                "postcode": "6056",
-                "number": "0448643224"
             }
         },
         {
@@ -122982,22 +122998,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    138.51916,
-                    -34.98001
-                ]
-            },
-            "properties": {
-                "address": "115 JETTY RD NR ROSE ST, GLENELG",
-                "state": "SA",
-                "postcode": "5045",
-                "number": "0455171148"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.86784,
                     -33.91738
                 ]
@@ -128543,6 +128543,22 @@
                 "state": "QLD",
                 "postcode": "4114",
                 "number": "0455489962"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.013995,
+                    -27.454501
+                ]
+            },
+            "properties": {
+                "address": "47 MUSK AVE NR CARRAWAY ST, KELVIN GROVE",
+                "state": "QLD",
+                "postcode": "4059",
+                "number": "0455490064"
             }
         },
         {
@@ -144902,6 +144918,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.336265,
+                    -30.31188
+                ]
+            },
+            "properties": {
+                "address": "LOT 0 0 ARKAROOLA VILLAGE COMM OPP RECEPTION, ARKAROOLA VILLAGE",
+                "state": "SA",
+                "postcode": "5701",
+                "number": "0456995524"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     145.2036,
                     -36.0591
                 ]
@@ -155222,8 +155254,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.100879,
-                    -33.940423
+                    151.100251,
+                    -33.940741
                 ]
             },
             "properties": {
@@ -163131,7 +163163,7 @@
                 ]
             },
             "properties": {
-                "address": "7 WICKHAM RD , HAMPTON EAST",
+                "address": "7 WICKHAM RD OPP JUNE ST, HAMPTON EAST",
                 "state": "VIC",
                 "postcode": "3188",
                 "number": "0476565879"
@@ -168918,6 +168950,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    145.020469,
+                    -20.76973
+                ]
+            },
+            "properties": {
+                "address": "20 FLINDERS HWY EAST OF HILL ST, TORRENS CREEK",
+                "state": "QLD",
+                "postcode": "4816",
+                "number": "0482626812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.977357,
                     -34.242217
                 ]
@@ -172495,6 +172543,22 @@
                 "state": "VIC",
                 "postcode": "3677",
                 "number": "0484146743"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.837204,
+                    -32.517594
+                ]
+            },
+            "properties": {
+                "address": "30 SMOKER ST , STIRLING NORTH",
+                "state": "SA",
+                "postcode": "5710",
+                "number": "0484149623"
             }
         },
         {
@@ -179014,8 +179078,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    148.050899,
-                    -37.793711
+                    148.099739,
+                    -37.83922
                 ]
             },
             "properties": {
@@ -179622,6 +179686,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    115.80668,
+                    -32.23572
+                ]
+            },
+            "properties": {
+                "address": "7 PACE RD NR MEDINA AVE, MEDINA MEDINA",
+                "state": "WA",
+                "postcode": "6167",
+                "number": "0492147941"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     137.52202,
                     -33.02846
                 ]
@@ -179926,6 +180006,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.5766792,
+                    -32.5415545
+                ]
+            },
+            "properties": {
+                "address": "795 GRESFORD RD NR SHOP, VACY VACY",
+                "state": "NSW",
+                "postcode": "2421",
+                "number": "0492417126"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     144.142208,
                     -37.34386
                 ]
@@ -180127,6 +180223,22 @@
                 "state": "VIC",
                 "postcode": "3000",
                 "number": "0497032359"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.02905,
+                    -37.865676
+                ]
+            },
+            "properties": {
+                "address": "LVL 2 49 STATION ST MALVERN RLWY STN, MALVERN",
+                "state": "VIC",
+                "postcode": "3144",
+                "number": "0497060619"
             }
         },
         {
@@ -185350,22 +185462,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.026611,
-                    -27.460989
-                ]
-            },
-            "properties": {
-                "address": "2 ST PAUL'S TCE NR BOUNDARY ST, SPRING HILL",
-                "state": "QLD",
-                "postcode": "4000",
-                "number": "0738312555"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     153.013689,
                     -27.459021
                 ]
@@ -185375,22 +185471,6 @@
                 "state": "QLD",
                 "postcode": "4059",
                 "number": "0738312685"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.013995,
-                    -27.454501
-                ]
-            },
-            "properties": {
-                "address": "47 MUSK AVE NR CARRAWAY ST, KELVIN GROVE",
-                "state": "QLD",
-                "postcode": "4059",
-                "number": "0738319148"
             }
         },
         {
@@ -194575,22 +194655,6 @@
                 "state": "QLD",
                 "postcode": "4816",
                 "number": "0747415190"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    145.020469,
-                    -20.76973
-                ]
-            },
-            "properties": {
-                "address": "20 FLINDERS HWY EAST OF HILL ST, TORRENS CREEK",
-                "state": "QLD",
-                "postcode": "4816",
-                "number": "0747417328"
             }
         },
         {
@@ -205318,22 +205382,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    137.837204,
-                    -32.517594
-                ]
-            },
-            "properties": {
-                "address": "30 SMOKER ST , STIRLING NORTH",
-                "state": "SA",
-                "postcode": "5710",
-                "number": "0886436024"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     137.567512,
                     -33.029973
                 ]
@@ -205478,22 +205526,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    138.421939,
-                    -31.88817
-                ]
-            },
-            "properties": {
-                "address": "60 ELDER TCE CNR FLINDERS RANGE, HAWKER",
-                "state": "SA",
-                "postcode": "5434",
-                "number": "0886484024"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     138.373387,
                     -31.845975
                 ]
@@ -205519,22 +205551,6 @@
                 "state": "SA",
                 "postcode": "5701",
                 "number": "0886484641"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.336265,
-                    -30.31188
-                ]
-            },
-            "properties": {
-                "address": "LOT 0 0 ARKAROOLA VILLAGE COMM OPP RECEPTION, ARKAROOLA VILLAGE",
-                "state": "SA",
-                "postcode": "5701",
-                "number": "0886484643"
             }
         },
         {
@@ -218943,22 +218959,6 @@
                 "state": "WA",
                 "postcode": "6167",
                 "number": "0894394134"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    115.80668,
-                    -32.23572
-                ]
-            },
-            "properties": {
-                "address": "7 PACE RD NR MEDINA AVE, MEDINA MEDINA",
-                "state": "WA",
-                "postcode": "6167",
-                "number": "0894394223"
             }
         },
         {
