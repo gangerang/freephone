@@ -3036,21 +3036,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.5766792,
-                    -32.5415545
-                ]
-            },
-            "properties": {
-                "address": "795 GRESFORD RD NR SHOP, VACY VACY",
-                "postcode": "2421",
-                "number": "0249388102"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.537085,
                     -32.42695
                 ]
@@ -4964,21 +4949,6 @@
                 "address": "33 MUDGEE RD NR SHOP, CULLEN BULLEN",
                 "postcode": "2790",
                 "number": "0263590505"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.021765,
-                    -33.819949
-                ]
-            },
-            "properties": {
-                "address": "4654 JENOLAN CAVES RD OPP TICKET OFFICE, JENOLAN",
-                "postcode": "2790",
-                "number": "0263593201"
             }
         },
         {
@@ -17511,21 +17481,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.160852,
-                    -33.871202
-                ]
-            },
-            "properties": {
-                "address": "JCDBTH 5013 1 HELENA ST CNR BALMAIN RD, LILYFIELD",
-                "postcode": "2040",
-                "number": "0295558736"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.15183,
                     -33.91524
                 ]
@@ -19739,21 +19694,6 @@
                 "address": "4 STATION ST O/S SHOP OFFICE CH, FAIRFIELD",
                 "postcode": "2165",
                 "number": "0297257648"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.992302,
-                    -33.889402
-                ]
-            },
-            "properties": {
-                "address": "223 MILLER RD NR GOONAROI ST, BASS HILL",
-                "postcode": "2197",
-                "number": "0297261650"
             }
         },
         {
@@ -22161,21 +22101,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.21412,
-                    -33.762023
-                ]
-            },
-            "properties": {
-                "address": "59 THE CENTRE  NEAR DARLEY ST, FORESTVILLE",
-                "postcode": "2087",
-                "number": "0299756794"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.28671,
                     -33.79794
                 ]
@@ -23481,6 +23406,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.21412,
+                    -33.762023
+                ]
+            },
+            "properties": {
+                "address": "59 THE CENTRE  NEAR DARLEY ST, FORESTVILLE",
+                "postcode": "2087",
+                "number": "0407187129"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.180007,
                     -33.934013
                 ]
@@ -23594,6 +23534,21 @@
                 "address": "3 RAILWAY ST WOY WOY RWLY STN, WOY WOY",
                 "postcode": "2256",
                 "number": "0407312208"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.160852,
+                    -33.871202
+                ]
+            },
+            "properties": {
+                "address": "JCDBTH 5013 1 HELENA ST CNR BALMAIN RD, LILYFIELD",
+                "postcode": "2040",
+                "number": "0407342346"
             }
         },
         {
@@ -25544,6 +25499,21 @@
                 "address": "29 RUTLAND ST , LAWRENCE",
                 "postcode": "2460",
                 "number": "0417913143"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.992302,
+                    -33.889402
+                ]
+            },
+            "properties": {
+                "address": "223 MILLER RD NR GOONAROI ST, BASS HILL",
+                "postcode": "2197",
+                "number": "0417919221"
             }
         },
         {
@@ -34499,6 +34469,21 @@
                 "address": "0 VICTORIA AVE CNR 2 PACKARD AVE, CASTLE HILL",
                 "postcode": "2154",
                 "number": "0436914582"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.021765,
+                    -33.819949
+                ]
+            },
+            "properties": {
+                "address": "4654 JENOLAN CAVES RD OPP TICKET OFFICE, JENOLAN",
+                "postcode": "2790",
+                "number": "0436920964"
             }
         },
         {
@@ -54246,8 +54231,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.100879,
-                    -33.940423
+                    151.100251,
+                    -33.940741
                 ]
             },
             "properties": {
@@ -60689,6 +60674,21 @@
                 "address": "0 HARRISON ST CNR NORTHUMBERLAND, MARYVILLE",
                 "postcode": "2293",
                 "number": "0492413990"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.5766792,
+                    -32.5415545
+                ]
+            },
+            "properties": {
+                "address": "795 GRESFORD RD NR SHOP, VACY VACY",
+                "postcode": "2421",
+                "number": "0492417126"
             }
         },
         {
