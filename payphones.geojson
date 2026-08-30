@@ -5478,22 +5478,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.158408,
-                    -33.479509
-                ]
-            },
-            "properties": {
-                "address": "3 ROY ST TELEPHONE EXCHANGE, LITHGOW",
-                "state": "NSW",
-                "postcode": "2790",
-                "number": "0263531235"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.146202,
                     -33.483601
                 ]
@@ -6031,22 +6015,6 @@
                 "state": "NSW",
                 "postcode": "2850",
                 "number": "0263721539"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    149.5875103,
-                    -32.5960915
-                ]
-            },
-            "properties": {
-                "address": "142 CHURCH ST , MUDGEE",
-                "state": "NSW",
-                "postcode": "2850",
-                "number": "0263721632"
             }
         },
         {
@@ -30518,22 +30486,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.43111,
-                    -38.41426
-                ]
-            },
-            "properties": {
-                "address": "56 SMYTHE ST OS GEN STORE, CORINELLA",
-                "state": "VIC",
-                "postcode": "3984",
-                "number": "0356780200"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     145.46667,
                     -38.48358
                 ]
@@ -30575,22 +30527,6 @@
                 "state": "VIC",
                 "postcode": "3992",
                 "number": "0356787201"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    145.52993,
-                    -38.40765
-                ]
-            },
-            "properties": {
-                "address": "1514 BASS HWY , GRANTVILLE",
-                "state": "VIC",
-                "postcode": "3984",
-                "number": "0356788201"
             }
         },
         {
@@ -32539,7 +32475,7 @@
                 ]
             },
             "properties": {
-                "address": "1 LEIGH DRV OS MILK BAR, PAKENHAM",
+                "address": "1 LEIGH DRV NR EMILY CL, PAKENHAM",
                 "state": "VIC",
                 "postcode": "3810",
                 "number": "0359401822"
@@ -32614,22 +32550,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.24274,
-                    -38.45589
-                ]
-            },
-            "properties": {
-                "address": "37 SHAMROCK AVE OPP PRIMARY SCHOOL, COWES COWES",
-                "state": "VIC",
-                "postcode": "3922",
-                "number": "0359521564"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     145.2390796,
                     -38.4483337
                 ]
@@ -32671,22 +32591,6 @@
                 "state": "VIC",
                 "postcode": "3922",
                 "number": "0359568401"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    145.303743,
-                    -38.463427
-                ]
-            },
-            "properties": {
-                "address": "41 LOCK RD OS RHYLL STORE, RHYLL RHYLL",
-                "state": "VIC",
-                "postcode": "3923",
-                "number": "0359569351"
             }
         },
         {
@@ -36022,22 +35926,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    144.976745,
-                    -37.80565
-                ]
-            },
-            "properties": {
-                "address": "83 GERTRUDE ST NR BRUNSWICK ST, FITZROY",
-                "state": "VIC",
-                "postcode": "3065",
-                "number": "0384151870"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     144.978547,
                     -37.866924
                 ]
@@ -36847,22 +36735,6 @@
                 "state": "VIC",
                 "postcode": "3040",
                 "number": "0393754017"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    144.932161,
-                    -37.783301
-                ]
-            },
-            "properties": {
-                "address": "117 WELLINGTON ST , FLEMINGTON",
-                "state": "VIC",
-                "postcode": "3031",
-                "number": "0393761902"
             }
         },
         {
@@ -44271,6 +44143,22 @@
                 "state": "QLD",
                 "postcode": "4157",
                 "number": "0400135942"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.826832,
+                    -32.247124
+                ]
+            },
+            "properties": {
+                "address": "56 PARMELIA AVE NR SUTHERLAND PDE, PARMELIA",
+                "state": "WA",
+                "postcode": "6167",
+                "number": "0400139388"
             }
         },
         {
@@ -65702,6 +65590,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    145.303743,
+                    -38.463427
+                ]
+            },
+            "properties": {
+                "address": "41 LOCK RD OS RHYLL STORE, RHYLL RHYLL",
+                "state": "VIC",
+                "postcode": "3923",
+                "number": "0428031856"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.063073,
                     -27.460065
                 ]
@@ -67103,6 +67007,22 @@
                 "state": "NSW",
                 "postcode": "2480",
                 "number": "0428336477"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.76849,
+                    -32.081487
+                ]
+            },
+            "properties": {
+                "address": "58 ROCKINGHAM RD CNR STARLING ST, HAMILTON HILL",
+                "state": "WA",
+                "postcode": "6163",
+                "number": "0428342924"
             }
         },
         {
@@ -68687,6 +68607,22 @@
                 "state": "NSW",
                 "postcode": "2540",
                 "number": "0428681925"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.25057,
+                    -27.78544
+                ]
+            },
+            "properties": {
+                "address": "6 VAUGHAN DRV OS ORMEAU S/C, ORMEAU",
+                "state": "QLD",
+                "postcode": "4208",
+                "number": "0428686623"
             }
         },
         {
@@ -90854,6 +90790,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    145.77694,
+                    -16.92317
+                ]
+            },
+            "properties": {
+                "address": "88 LAKE ST NR SHIELDS ST, CAIRNS CTY CAIRNS CITY",
+                "state": "QLD",
+                "postcode": "4870",
+                "number": "0438419758"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.822901,
                     -33.764909
                 ]
@@ -94639,6 +94591,22 @@
                 "state": "NSW",
                 "postcode": "2795",
                 "number": "0439388906"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.43111,
+                    -38.41426
+                ]
+            },
+            "properties": {
+                "address": "56 SMYTHE ST OS GEN STORE, CORINELLA",
+                "state": "VIC",
+                "postcode": "3984",
+                "number": "0439390100"
             }
         },
         {
@@ -109446,6 +109414,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    136.89263,
+                    -30.56234
+                ]
+            },
+            "properties": {
+                "address": "14 BURGOYNE ST O/S ROXBY VILLAGE, ROXBY DOWNS",
+                "state": "SA",
+                "postcode": "5725",
+                "number": "0448331351"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.12344,
                     -33.967983
                 ]
@@ -115446,6 +115430,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    115.768423,
+                    -31.898136
+                ]
+            },
+            "properties": {
+                "address": "111 BRIGHTON RD NR CALAIS RD, SCARBOROUGH",
+                "state": "WA",
+                "postcode": "6019",
+                "number": "0448713190"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.06201,
                     -28.86063
                 ]
@@ -116927,6 +116927,22 @@
                 "state": "NSW",
                 "postcode": "2101",
                 "number": "0448769084"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.5875103,
+                    -32.5960915
+                ]
+            },
+            "properties": {
+                "address": "142 CHURCH ST , MUDGEE",
+                "state": "NSW",
+                "postcode": "2850",
+                "number": "0448770317"
             }
         },
         {
@@ -128998,6 +129014,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    144.976745,
+                    -37.80565
+                ]
+            },
+            "properties": {
+                "address": "83 GERTRUDE ST NR BRUNSWICK ST, FITZROY",
+                "state": "VIC",
+                "postcode": "3065",
+                "number": "0455505416"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.43482,
                     -28.0333
                 ]
@@ -133734,6 +133766,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.013689,
+                    -27.459021
+                ]
+            },
+            "properties": {
+                "address": "21 MUSGRAVE RD NR NORMANBY HOTEL, RED HILL RED HILL",
+                "state": "QLD",
+                "postcode": "4059",
+                "number": "0455725890"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     142.022216,
                     -37.744271
                 ]
@@ -136719,6 +136767,22 @@
                 "state": "NSW",
                 "postcode": "2222",
                 "number": "0455794451"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.919727,
+                    -31.923717
+                ]
+            },
+            "properties": {
+                "address": "467 GUILDFORD RD NR SLADE ST, BAYSWATER",
+                "state": "WA",
+                "postcode": "6053",
+                "number": "0455795128"
             }
         },
         {
@@ -143926,6 +143990,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    115.814577,
+                    -32.246712
+                ]
+            },
+            "properties": {
+                "address": "4 CHISHAM AVE KWINANA MKTPLACE, KWINANA",
+                "state": "WA",
+                "postcode": "6167",
+                "number": "0456694772"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.552617,
                     -28.867143
                 ]
@@ -146959,6 +147039,22 @@
                 "state": "QLD",
                 "postcode": "4558",
                 "number": "0458505551"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.026611,
+                    -27.460989
+                ]
+            },
+            "properties": {
+                "address": "2 ST PAUL'S TCE NR BOUNDARY ST, SPRING HILL",
+                "state": "QLD",
+                "postcode": "4000",
+                "number": "0458522456"
             }
         },
         {
@@ -150854,8 +150950,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.239194,
-                    -33.918964
+                    151.239655,
+                    -33.917331
                 ]
             },
             "properties": {
@@ -150998,6 +151094,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    152.95268,
+                    -27.11021
+                ]
+            },
+            "properties": {
+                "address": "LOT 50 0 VISENTIN RD QR MORAYFIELD, MORAYFIELD",
+                "state": "QLD",
+                "postcode": "4506",
+                "number": "0461375731"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.641323,
                     -33.863838
                 ]
@@ -151071,6 +151183,22 @@
                 "state": "SA",
                 "postcode": "5086",
                 "number": "0461397907"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.52993,
+                    -38.40765
+                ]
+            },
+            "properties": {
+                "address": "1514 BASS HWY , GRANTVILLE",
+                "state": "VIC",
+                "postcode": "3984",
+                "number": "0461402578"
             }
         },
         {
@@ -151919,6 +152047,22 @@
                 "state": "TAS",
                 "postcode": "7249",
                 "number": "0467453649"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.932161,
+                    -37.783301
+                ]
+            },
+            "properties": {
+                "address": "117 WELLINGTON ST , FLEMINGTON",
+                "state": "VIC",
+                "postcode": "3031",
+                "number": "0467509447"
             }
         },
         {
@@ -157558,6 +157702,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.221412,
+                    -27.524378
+                ]
+            },
+            "properties": {
+                "address": "51 CAMBRIDGE DRV ALEXANDRA HILLS SC, ALEXANDRA HILLS",
+                "state": "QLD",
+                "postcode": "4161",
+                "number": "0475143384"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.58749,
                     -32.744914
                 ]
@@ -159878,6 +160038,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    145.24274,
+                    -38.45589
+                ]
+            },
+            "properties": {
+                "address": "37 SHAMROCK AVE OPP PRIMARY SCHOOL, COWES COWES",
+                "state": "VIC",
+                "postcode": "3922",
+                "number": "0475742758"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     143.15081,
                     -38.22911
                 ]
@@ -161867,7 +162043,7 @@
                 ]
             },
             "properties": {
-                "address": "29 SIXTH ST W SIDE ADELAIDE RD, GAWLER SOUTH",
+                "address": "29 ADELAIDE RD NR SIXTH ST, GAWLER SOUTH",
                 "state": "SA",
                 "postcode": "5118",
                 "number": "0476149863"
@@ -178326,6 +178502,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    149.186281,
+                    -26.584913
+                ]
+            },
+            "properties": {
+                "address": "23 CHADFORD ST N OF COLLEGE ST, WALLUMBILLA",
+                "state": "QLD",
+                "postcode": "4428",
+                "number": "0488731762"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     152.97171,
                     -27.395517
                 ]
@@ -180815,6 +181007,22 @@
                 "state": "VIC",
                 "postcode": "3121",
                 "number": "0497507596"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.212898,
+                    -27.514203
+                ]
+            },
+            "properties": {
+                "address": "2 BLUEBELL ST NR VALANTINE RD, ALEXANDRA HILLS",
+                "state": "QLD",
+                "postcode": "4161",
+                "number": "0497510914"
             }
         },
         {
@@ -185398,22 +185606,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.221412,
-                    -27.524378
-                ]
-            },
-            "properties": {
-                "address": "51 CAMBRIDGE DRV ALEXANDRA HILLS SC, ALEXANDRA HILLS",
-                "state": "QLD",
-                "postcode": "4161",
-                "number": "0738240037"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     153.223894,
                     -27.543908
                 ]
@@ -185423,54 +185615,6 @@
                 "state": "QLD",
                 "postcode": "4161",
                 "number": "0738241105"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.212898,
-                    -27.514203
-                ]
-            },
-            "properties": {
-                "address": "2 BLUEBELL ST NR VALANTINE RD, ALEXANDRA HILLS",
-                "state": "QLD",
-                "postcode": "4161",
-                "number": "0738242139"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.026611,
-                    -27.460989
-                ]
-            },
-            "properties": {
-                "address": "2 ST PAUL'S TCE NR BOUNDARY ST, SPRING HILL",
-                "state": "QLD",
-                "postcode": "4000",
-                "number": "0738311891"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.013689,
-                    -27.459021
-                ]
-            },
-            "properties": {
-                "address": "21 MUSGRAVE RD NR NORMANBY HOTEL, RED HILL RED HILL",
-                "state": "QLD",
-                "postcode": "4059",
-                "number": "0738312685"
             }
         },
         {
@@ -186086,22 +186230,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.77694,
-                    -16.92317
-                ]
-            },
-            "properties": {
-                "address": "52 LAKE ST O/S ORCHID PLAZA, CAIRNS CTY CAIRNS CITY",
-                "state": "QLD",
-                "postcode": "4870",
-                "number": "0740414825"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     145.769111,
                     -16.918059
                 ]
@@ -186475,7 +186603,7 @@
                 ]
             },
             "properties": {
-                "address": "88 LAKE ST S OF SHIELDS ST, CAIRNS CTY CAIRNS CITY",
+                "address": "88 LAKE ST NR SHIELDS ST, CAIRNS CTY CAIRNS CITY",
                 "state": "QLD",
                 "postcode": "4870",
                 "number": "0740516720"
@@ -191743,22 +191871,6 @@
                 "state": "QLD",
                 "postcode": "4462",
                 "number": "0746231664"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    149.186281,
-                    -26.584913
-                ]
-            },
-            "properties": {
-                "address": "23 CHADFORD ST N OF COLLEGE ST, WALLUMBILLA",
-                "state": "QLD",
-                "postcode": "4428",
-                "number": "0746234148"
             }
         },
         {
@@ -199494,22 +199606,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.95268,
-                    -27.11021
-                ]
-            },
-            "properties": {
-                "address": "LOT 50 0 VISENTIN RD QR MORAYFIELD, MORAYFIELD",
-                "state": "QLD",
-                "postcode": "4506",
-                "number": "0754286037"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.864,
                     -27.03982
                 ]
@@ -203046,22 +203142,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.25057,
-                    -27.78544
-                ]
-            },
-            "properties": {
-                "address": "6 VAUGHAN DRV OS ORMEAU S/C, ORMEAU",
-                "state": "QLD",
-                "postcode": "4208",
-                "number": "0755476419"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     153.304485,
                     -27.870314
                 ]
@@ -205542,22 +205622,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.336265,
-                    -30.31188
-                ]
-            },
-            "properties": {
-                "address": "LOT 0 0 ARKAROOLA VILLAGE COMM OPP RECEPTION, ARKAROOLA VILLAGE",
-                "state": "SA",
-                "postcode": "5701",
-                "number": "0886484641"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     139.30326,
                     -30.53259
                 ]
@@ -206006,22 +206070,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.89263,
-                    -30.56234
-                ]
-            },
-            "properties": {
-                "address": "14 BURGOYNE ST O/S ROXBY VILLAGE, ROXBY DOWNS",
-                "state": "SA",
-                "postcode": "5725",
-                "number": "0886710403"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     135.750222,
                     -30.969655
                 ]
@@ -206191,22 +206239,6 @@
                 "state": "SA",
                 "postcode": "5732",
                 "number": "0886752685"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    138.349138,
-                    -30.287383
-                ]
-            },
-            "properties": {
-                "address": "LOT  24 MAIN ST ROADHOUSE, LYNDHURST",
-                "state": "SA",
-                "postcode": "5731",
-                "number": "0886757795"
             }
         },
         {
@@ -217350,22 +217382,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    115.919727,
-                    -31.923717
-                ]
-            },
-            "properties": {
-                "address": "467 GUILDFORD RD NR SLADE ST, BAYSWATER",
-                "state": "WA",
-                "postcode": "6053",
-                "number": "0892721451"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     116.00182,
                     -31.88642
                 ]
@@ -217974,22 +217990,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    115.76849,
-                    -32.081487
-                ]
-            },
-            "properties": {
-                "address": "58 ROCKINGHAM RD CNR STARLING ST, HAMILTON HILL",
-                "state": "WA",
-                "postcode": "6163",
-                "number": "0893357309"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     115.754745,
                     -32.057639
                 ]
@@ -218079,22 +218079,6 @@
                 "state": "WA",
                 "postcode": "6157",
                 "number": "0893395599"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    115.768423,
-                    -31.898136
-                ]
-            },
-            "properties": {
-                "address": "111 BRIGHTON RD NR CALAIS RD, SCARBOROUGH",
-                "state": "WA",
-                "postcode": "6019",
-                "number": "0893413372"
             }
         },
         {
@@ -218950,22 +218934,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    115.826832,
-                    -32.247124
-                ]
-            },
-            "properties": {
-                "address": "56 PARMELIA AVE NR SUTHERLAND PDE, PARMELIA",
-                "state": "WA",
-                "postcode": "6167",
-                "number": "0894394134"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     115.80776,
                     -32.24874
                 ]
@@ -218991,22 +218959,6 @@
                 "state": "WA",
                 "postcode": "6167",
                 "number": "0894396168"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    115.814577,
-                    -32.246712
-                ]
-            },
-            "properties": {
-                "address": "4 CHISHAM AVE KWINANA MKTPLACE, KWINANA",
-                "state": "WA",
-                "postcode": "6167",
-                "number": "0894396450"
             }
         },
         {
