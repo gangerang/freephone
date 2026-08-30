@@ -4746,21 +4746,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.158408,
-                    -33.479509
-                ]
-            },
-            "properties": {
-                "address": "3 ROY ST TELEPHONE EXCHANGE, LITHGOW",
-                "postcode": "2790",
-                "number": "0263531235"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.146202,
                     -33.483601
                 ]
@@ -5264,21 +5249,6 @@
                 "address": "80 MARKET ST NR POST OFFICE, MUDGEE",
                 "postcode": "2850",
                 "number": "0263721539"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    149.5875103,
-                    -32.5960915
-                ]
-            },
-            "properties": {
-                "address": "142 CHURCH ST , MUDGEE",
-                "postcode": "2850",
-                "number": "0263721632"
             }
         },
         {
@@ -43671,6 +43641,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    149.5875103,
+                    -32.5960915
+                ]
+            },
+            "properties": {
+                "address": "142 CHURCH ST , MUDGEE",
+                "postcode": "2850",
+                "number": "0448770317"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.84181,
                     -34.07223
                 ]
@@ -52926,8 +52911,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.239194,
-                    -33.918964
+                    151.239655,
+                    -33.917331
                 ]
             },
             "properties": {

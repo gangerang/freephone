@@ -2212,13 +2212,6 @@
         "number": "0263531206"
     },
     {
-        "latitude": -33.479509,
-        "longitude": 150.158408,
-        "address": "3 ROY ST TELEPHONE EXCHANGE, LITHGOW",
-        "postcode": "2790",
-        "number": "0263531235"
-    },
-    {
         "latitude": -33.483601,
         "longitude": 150.146202,
         "address": "285 MAIN ST NR CUPRO ST, LITHGOW",
@@ -2455,13 +2448,6 @@
         "address": "80 MARKET ST NR POST OFFICE, MUDGEE",
         "postcode": "2850",
         "number": "0263721539"
-    },
-    {
-        "latitude": -32.5960915,
-        "longitude": 149.5875103,
-        "address": "142 CHURCH ST , MUDGEE",
-        "postcode": "2850",
-        "number": "0263721632"
     },
     {
         "latitude": -32.5931523,
@@ -20377,6 +20363,13 @@
         "number": "0448769084"
     },
     {
+        "latitude": -32.5960915,
+        "longitude": 149.5875103,
+        "address": "142 CHURCH ST , MUDGEE",
+        "postcode": "2850",
+        "number": "0448770317"
+    },
+    {
         "latitude": -34.07223,
         "longitude": 150.84181,
         "address": "184 JUNCTION RD OS RUSE TAVERN, RUSE RUSE",
@@ -24696,8 +24689,8 @@
         "number": "0461287285"
     },
     {
-        "latitude": -33.918964,
-        "longitude": 151.239194,
+        "latitude": -33.917331,
+        "longitude": 151.239655,
         "address": "149 BARKER ST PWH ADULTS FOYER, RANDWICK",
         "postcode": "2031",
         "number": "0461288983"
