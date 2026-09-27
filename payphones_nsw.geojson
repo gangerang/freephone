@@ -201,21 +201,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.795942,
-                    -34.560871
-                ]
-            },
-            "properties": {
-                "address": "179 PRINCES HWY CNR CREAMERY RD, ALBION PARK RAIL",
-                "postcode": "2527",
-                "number": "0242571151"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.798657,
                     -34.562917
                 ]
@@ -516,6 +501,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.862469,
+                    -34.546389
+                ]
+            },
+            "properties": {
+                "address": "43 SHELLHARBOUR RD WARILLA GROVE SHOP, WARILLA",
+                "postcode": "2528",
+                "number": "0242973581"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.341601,
                     -33.423638
                 ]
@@ -786,21 +786,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.385982,
-                    -33.439055
-                ]
-            },
-            "properties": {
-                "address": "27 KARALTA RD OS TENNIS COURTS, ERINA ERINA",
-                "postcode": "2250",
-                "number": "0243651042"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.39503,
                     -33.439439
                 ]
@@ -869,36 +854,6 @@
                 "address": "40 TERRIGAL ESP OPP HOLIDAY INN, TERRIGAL",
                 "postcode": "2260",
                 "number": "0243852459"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.546425,
-                    -33.273612
-                ]
-            },
-            "properties": {
-                "address": "2 OLEANDER ST IN TRST PK-MAIN ST, CANTON BEACH",
-                "postcode": "2263",
-                "number": "0243971041"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.600646,
-                    -34.874655
-                ]
-            },
-            "properties": {
-                "address": "0 BERRY ST NR 72 JUNCTION ST, NOWRA",
-                "postcode": "2541",
-                "number": "0244210698"
             }
         },
         {
@@ -1716,21 +1671,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.74456,
-                    -33.605352
-                ]
-            },
-            "properties": {
-                "address": "24 LAURENCE ST , HOBARTVILLE",
-                "postcode": "2753",
-                "number": "0245782965"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.821097,
                     -33.605332
                 ]
@@ -2084,21 +2024,6 @@
                 "address": "401 GLENMORE PKWY CRN CAMELIA AVE, GLENMORE PARK",
                 "postcode": "2745",
                 "number": "0247334812"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.60991,
-                    -33.74371
-                ]
-            },
-            "properties": {
-                "address": "PLATFM 2 141 GREAT WESTERN HWY BLAXLAND RLWY STN, BLAXLAND",
-                "postcode": "2774",
-                "number": "0247398202"
             }
         },
         {
@@ -3404,21 +3329,6 @@
                 "address": "110 PACIFIC HWY CRN MIDGE ST, COOLONGOLOOK",
                 "postcode": "2423",
                 "number": "0249977101"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.2802641,
-                    -32.9024813
-                ]
-            },
-            "properties": {
-                "address": "52 MILLFIELD RD , PAXTON",
-                "postcode": "2325",
-                "number": "0249981405"
             }
         },
         {
@@ -6546,21 +6456,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.866856,
-                    -32.05072
-                ]
-            },
-            "properties": {
-                "address": "111 LIVERPOOL ST NEAR KELLY ST, SCONE SCONE",
-                "postcode": "2337",
-                "number": "0265451432"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.84697,
                     -32.045185
                 ]
@@ -7911,21 +7806,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.323595,
-                    -28.817528
-                ]
-            },
-            "properties": {
-                "address": "608 BALLINA RD , GOONELLABAH",
-                "postcode": "2480",
-                "number": "0266251104"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     153.30481,
                     -28.81072
                 ]
@@ -9191,7 +9071,7 @@
                 ]
             },
             "properties": {
-                "address": "16 MCDOUGAL ST OPP ALBERT ST, CASINO",
+                "address": "14 MCDOUGAL ST OPP ALBERT ST, CASINO",
                 "postcode": "2470",
                 "number": "0266622587"
             }
@@ -11346,21 +11226,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    149.783031,
-                    -30.324931
-                ]
-            },
-            "properties": {
-                "address": "140 MAITLAND ST O/S POST OFFICE, NARRABRI",
-                "postcode": "2390",
-                "number": "0267921032"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     149.77793,
                     -30.33814
                 ]
@@ -11399,36 +11264,6 @@
                 "address": "31 COOMA RD CNR BELAR ST, NARRABRI",
                 "postcode": "2390",
                 "number": "0267924247"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    149.444637,
-                    -30.225026
-                ]
-            },
-            "properties": {
-                "address": "106 ROSE ST OS LIBRARY, WEE WAA WEE WAA",
-                "postcode": "2388",
-                "number": "0267953147"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    149.44415,
-                    -30.22483
-                ]
-            },
-            "properties": {
-                "address": "106 ROSE ST OS LIBRARY, WEE WAA WEE WAA",
-                "postcode": "2388",
-                "number": "0267954304"
             }
         },
         {
@@ -11816,7 +11651,7 @@
                 ]
             },
             "properties": {
-                "address": "9 ANNE ST NR CAMP ST, COONABARABRAN",
+                "address": "9 ANN ST NR CAMP ST, COONABARABRAN",
                 "postcode": "2357",
                 "number": "0268421054"
             }
@@ -14841,21 +14676,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.201338,
-                    -33.884083
-                ]
-            },
-            "properties": {
-                "address": "15 BROADWAY ST OS UTS NR HARRIS, ULTIMO",
-                "postcode": "2007",
-                "number": "0292113981"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.203539,
                     -33.88363
                 ]
@@ -15846,21 +15666,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.235823,
-                    -33.879256
-                ]
-            },
-            "properties": {
-                "address": "203 NEW SOUTH HEAD RD EDGECLIFF CENTRE, EDGECLIFF",
-                "postcode": "2027",
-                "number": "0293283095"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.217219,
                     -33.882193
                 ]
@@ -16746,21 +16551,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.201134,
-                    -33.826645
-                ]
-            },
-            "properties": {
-                "address": "2 BURLINGTON ST CNR WILLOUGHBY RD, CROWS NEST",
-                "postcode": "2065",
-                "number": "0294394304"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.200917,
                     -33.827268
                 ]
@@ -17024,21 +16814,6 @@
                 "address": "LVL 5 12 MISSENDEN RD ROYAL PRINCE ALFRE, CAMPERDOWN",
                 "postcode": "2050",
                 "number": "0295160913"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.170747,
-                    -33.896745
-                ]
-            },
-            "properties": {
-                "address": "35 LIBERTY ST NR CAMBRIDGE ST, ENMORE",
-                "postcode": "2042",
-                "number": "0295164320"
             }
         },
         {
@@ -17391,21 +17166,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.194071,
-                    -33.869443
-                ]
-            },
-            "properties": {
-                "address": "2 UNION ST CNR HARRIS ST, PYRMONT",
-                "postcode": "2009",
-                "number": "0295521654"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.170644,
                     -33.881202
                 ]
@@ -17751,21 +17511,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.18529,
-                    -33.8778
-                ]
-            },
-            "properties": {
-                "address": "186 GLEBE POINT RD NEAR WIGRAM RD, GLEBE GLEBE",
-                "postcode": "2037",
-                "number": "0295661186"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.161279,
                     -33.901333
                 ]
@@ -18059,21 +17804,6 @@
                 "address": "129 GEORGE ST CNR ELIZABETH ST, LIVERPOOL",
                 "postcode": "2170",
                 "number": "0296010468"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.939585,
-                    -33.909956
-                ]
-            },
-            "properties": {
-                "address": "0 SAPPHO RD CNR HUME HWY, WARWICK FARM",
-                "postcode": "2170",
-                "number": "0296010675"
             }
         },
         {
@@ -19071,21 +18801,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.0047473,
-                    -33.8174563
-                ]
-            },
-            "properties": {
-                "address": "0 ARGYLE ST UNDER BUS CANOPY, PARRAMATTA",
-                "postcode": "2150",
-                "number": "0296870295"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.0042978,
                     -33.8171959
                 ]
@@ -19626,21 +19341,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.938732,
-                    -33.894881
-                ]
-            },
-            "properties": {
-                "address": "PLATFM 2 0 RAILWAY PDE CABRAMATTA RWS, CABRAMATTA",
-                "postcode": "2166",
-                "number": "0297256260"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.956209,
                     -33.868844
                 ]
@@ -20076,36 +19776,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.093655,
-                    -33.873887
-                ]
-            },
-            "properties": {
-                "address": "2 REDMYRE RD ADJ 41 THE BLVD, STRATHFIELD",
-                "postcode": "2135",
-                "number": "0297463604"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.070109,
-                    -33.865486
-                ]
-            },
-            "properties": {
-                "address": "5 HENLEY ST NR THE CRESCENT, HOMEBUSH WEST",
-                "postcode": "2140",
-                "number": "0297463605"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.093513,
                     -33.8724
                 ]
@@ -20144,21 +19814,6 @@
                 "address": "1 ALBERT RD OS STATION STH SID, STRATHFIELD",
                 "postcode": "2135",
                 "number": "0297463693"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.088809,
-                    -33.870023
-                ]
-            },
-            "properties": {
-                "address": "11 BERESFORD RD NR DUKE ST, STRATHFIELD",
-                "postcode": "2135",
-                "number": "0297468418"
             }
         },
         {
@@ -20271,21 +19926,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.070109,
-                    -33.865486
-                ]
-            },
-            "properties": {
-                "address": "5 HENLEY ST NR THE CRESCENT, HOMEBUSH WEST",
-                "postcode": "2140",
-                "number": "0297644496"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.035151,
                     -33.968083
                 ]
@@ -20366,7 +20006,7 @@
                 ]
             },
             "properties": {
-                "address": "GRND FLR 14 AMY ST CAMPSIE SHOP CNTRE, CAMPSIE",
+                "address": "LVL LG 14 AMY ST CAMPSIE SHOP CNTRE, CAMPSIE",
                 "postcode": "2194",
                 "number": "0297891267"
             }
@@ -21021,21 +20661,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.927986,
-                    -33.918251
-                ]
-            },
-            "properties": {
-                "address": "42 CAMPBELL ST CNR BIGGE ST, LIVERPOOL",
-                "postcode": "2170",
-                "number": "0298212182"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.927096,
                     -33.924446
                 ]
@@ -21066,21 +20691,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.916405,
-                    -33.93459
-                ]
-            },
-            "properties": {
-                "address": "0 CONGRESSIONAL DRV OPP MONTECLAIR AVE, LIVERPOOL",
-                "postcode": "2170",
-                "number": "0298224578"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.94864,
                     -33.932921
                 ]
@@ -21089,51 +20699,6 @@
                 "address": "34 STOCKTON AVE OS MOOREBANK SHOPS, MOOREBANK",
                 "postcode": "2170",
                 "number": "0298224696"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.91066,
-                    -33.93382
-                ]
-            },
-            "properties": {
-                "address": "43 REILLY ST NR GILL AVE, LIVERPOOL",
-                "postcode": "2170",
-                "number": "0298224719"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.90858,
-                    -33.92709
-                ]
-            },
-            "properties": {
-                "address": "1 FRANGIPANE AVE CNR FLOWERDALE RD, LIVERPOOL",
-                "postcode": "2170",
-                "number": "0298224761"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.932393,
-                    -33.914424
-                ]
-            },
-            "properties": {
-                "address": "1 DRUMMOND ST NR HART LANE, WARWICK FARM",
-                "postcode": "2170",
-                "number": "0298225179"
             }
         },
         {
@@ -21404,21 +20969,6 @@
                 "address": "24 RAILWAY PDE OPP WESTMEAD RWS, WESTMEAD",
                 "postcode": "2145",
                 "number": "0298915624"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.0032084,
-                    -33.8162371
-                ]
-            },
-            "properties": {
-                "address": "195 CHURCH ST MALL NEAR DARCY ST, PARRAMATTA",
-                "postcode": "2150",
-                "number": "0298915625"
             }
         },
         {
@@ -21914,21 +21464,6 @@
                 "address": "149 WEST ST OS CROWS NEST TAFE, CROWS NEST",
                 "postcode": "2065",
                 "number": "0299575602"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.19948,
-                    -33.80714
-                ]
-            },
-            "properties": {
-                "address": "62 FRENCHS RD CNR WILLOUGHBY RD, WILLOUGHBY",
-                "postcode": "2068",
-                "number": "0299581730"
             }
         },
         {
@@ -23511,6 +23046,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.843765,
+                    -33.771203
+                ]
+            },
+            "properties": {
+                "address": "2 ROOTY HILL RD NR NORTH PDE, ROOTY HILL",
+                "postcode": "2766",
+                "number": "0407340675"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.160852,
                     -33.871202
                 ]
@@ -23924,6 +23474,21 @@
                 "address": "327 GEORGE ST O/S BAKERY, DENILIQUIN",
                 "postcode": "2710",
                 "number": "0407964774"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.657222,
+                    -30.516432
+                ]
+            },
+            "properties": {
+                "address": "142 MARKHAM ST , ARMIDALE",
+                "postcode": "2350",
+                "number": "0408020526"
             }
         },
         {
@@ -24686,7 +24251,7 @@
                 ]
             },
             "properties": {
-                "address": "401 TAREAN RD OS INFO CENTRE, KARUAH",
+                "address": "401 TAREAN RD NR MOBIL, KARUAH",
                 "postcode": "2324",
                 "number": "0409715787"
             }
@@ -24884,6 +24449,21 @@
                 "address": "211 LAKE ENTRANCE RD STOCKLAND SHELLHAR, SHELLHARBOUR CITY CENTRE",
                 "postcode": "2529",
                 "number": "0417145508"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.939585,
+                    -33.909956
+                ]
+            },
+            "properties": {
+                "address": "0 SAPPHO RD CNR HUME HWY, WARWICK FARM",
+                "postcode": "2170",
+                "number": "0417176387"
             }
         },
         {
@@ -26136,6 +25716,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.866856,
+                    -32.05072
+                ]
+            },
+            "properties": {
+                "address": "111 LIVERPOOL ST NR KELLY ST, SCONE SCONE",
+                "postcode": "2337",
+                "number": "0418678915"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.04903,
                     -33.9454
                 ]
@@ -26946,6 +26541,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.0032084,
+                    -33.8162371
+                ]
+            },
+            "properties": {
+                "address": "195 CHURCH ST MALL NEAR DARCY ST, PARRAMATTA",
+                "postcode": "2150",
+                "number": "0419590395"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.296309,
                     -33.754633
                 ]
@@ -27134,6 +26744,21 @@
                 "address": "PLATFM 2 5 BURFITT PDE GLENBROOK RLWY STN, GLENBROOK",
                 "postcode": "2773",
                 "number": "0419843828"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.070109,
+                    -33.865486
+                ]
+            },
+            "properties": {
+                "address": "5 HENLEY ST NR THE CRESCENT, HOMEBUSH WEST",
+                "postcode": "2140",
+                "number": "0419856128"
             }
         },
         {
@@ -27494,21 +27119,6 @@
                 "address": "85 MAIN ST , GRENFELL",
                 "postcode": "2810",
                 "number": "0427063679"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.324379,
-                    -33.504593
-                ]
-            },
-            "properties": {
-                "address": "59 TRAFALGAR AVE O/S FIRE STATION, WOY WOY",
-                "postcode": "2256",
-                "number": "0427064268"
             }
         },
         {
@@ -29211,6 +28821,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.60991,
+                    -33.74371
+                ]
+            },
+            "properties": {
+                "address": "PLATFM 2 141 GREAT WESTERN HWY BLAXLAND RLWY STN, BLAXLAND",
+                "postcode": "2774",
+                "number": "0428413207"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.6654028,
                     -32.8989751
                 ]
@@ -29414,6 +29039,21 @@
                 "address": "113 CHARLES ST OS NEWSAGENT, ILUKA",
                 "postcode": "2466",
                 "number": "0428489415"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.783031,
+                    -30.324931
+                ]
+            },
+            "properties": {
+                "address": "140 MAITLAND ST O/S POST OFFICE, NARRABRI",
+                "postcode": "2390",
+                "number": "0428495176"
             }
         },
         {
@@ -29654,6 +29294,21 @@
                 "address": "77 MAIN RD NR GOORAMAR DRV, CAMBEWARRA",
                 "postcode": "2540",
                 "number": "0428681925"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.235823,
+                    -33.879256
+                ]
+            },
+            "properties": {
+                "address": "203 NEW SOUTH HEAD RD EDGECLIFF CENTRE, EDGECLIFF",
+                "postcode": "2027",
+                "number": "0428687306"
             }
         },
         {
@@ -30366,6 +30021,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.0047473,
+                    -33.8174563
+                ]
+            },
+            "properties": {
+                "address": "0 ARGYLE ST UNDER BUS CANOPY, PARRAMATTA",
+                "postcode": "2150",
+                "number": "0429215196"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.990643,
                     -33.836749
                 ]
@@ -30756,6 +30426,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.90858,
+                    -33.92709
+                ]
+            },
+            "properties": {
+                "address": "1 FRANGIPANE AVE CNR FLOWERDALE RD, LIVERPOOL",
+                "postcode": "2170",
+                "number": "0429556299"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.375163,
                     -28.340552
                 ]
@@ -30989,6 +30674,21 @@
                 "address": "55 RILEY ST ADJ HOYTS STEPS, PENRITH",
                 "postcode": "2750",
                 "number": "0429684802"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.201134,
+                    -33.826645
+                ]
+            },
+            "properties": {
+                "address": "2 BURLINGTON ST CNR WILLOUGHBY RD, CROWS NEST",
+                "postcode": "2065",
+                "number": "0429692219"
             }
         },
         {
@@ -31806,21 +31506,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.022255,
-                    -33.867798
-                ]
-            },
-            "properties": {
-                "address": "284 CUMBERLAND RD NEAR ALBERT RD, AUBURN",
-                "postcode": "2144",
-                "number": "0436127401"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.210898,
                     -33.884432
                 ]
@@ -32084,6 +31769,21 @@
                 "address": "LOT 32 1 TEMPUS ST ROUSE HILL RWS, ROUSE HILL",
                 "postcode": "2155",
                 "number": "0436292984"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.070109,
+                    -33.865486
+                ]
+            },
+            "properties": {
+                "address": "5 HENLEY ST NR THE CRESCENT, HOMEBUSH WEST",
+                "postcode": "2140",
+                "number": "0436295335"
             }
         },
         {
@@ -32361,6 +32061,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.18529,
+                    -33.8778
+                ]
+            },
+            "properties": {
+                "address": "186 GLEBE POINT RD NEAR, GLEBE GLEBE",
+                "postcode": "2037",
+                "number": "0436326210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.242516,
                     -33.920128
                 ]
@@ -32504,21 +32219,6 @@
                 "address": "162 PICNIC POINT RD ADJ 2 DORIS ST, PICNIC POINT",
                 "postcode": "2213",
                 "number": "0436343163"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.657222,
-                    -30.516432
-                ]
-            },
-            "properties": {
-                "address": "142 MARKHAM ST , ARMIDALE",
-                "postcode": "2350",
-                "number": "0436345347"
             }
         },
         {
@@ -32819,21 +32519,6 @@
                 "address": "123 WARRAL RD CNR GREEN ST, WEST TAMWORTH",
                 "postcode": "2340",
                 "number": "0436375717"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.01016,
-                    -33.90974
-                ]
-            },
-            "properties": {
-                "address": "48 DARGAN ST NR GLASSOP ST, YAGOONA",
-                "postcode": "2199",
-                "number": "0436379606"
             }
         },
         {
@@ -33876,8 +33561,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.801255,
-                    -34.08628
+                    150.801829,
+                    -34.08544
                 ]
             },
             "properties": {
@@ -35136,6 +34821,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.323595,
+                    -28.817528
+                ]
+            },
+            "properties": {
+                "address": "608 BALLINA RD , GOONELLABAH",
+                "postcode": "2480",
+                "number": "0437356377"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     147.377413,
                     -35.097636
                 ]
@@ -35411,7 +35111,7 @@
                 ]
             },
             "properties": {
-                "address": "30 CANTON BEACH RD CNR MAIN RD, TOUKLEY",
+                "address": "38 CANTON BEACH RD CNR MAIN RD, TOUKLEY",
                 "postcode": "2263",
                 "number": "0437622471"
             }
@@ -36059,6 +35759,36 @@
                 "address": "ENTRY  2 GLENHOPE RD CHERRYBROOK RWS, CHERRYBROOK",
                 "postcode": "2126",
                 "number": "0438125407"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.324379,
+                    -33.504593
+                ]
+            },
+            "properties": {
+                "address": "59 TRAFALGAR AVE O/S FIRE STATION, WOY WOY",
+                "postcode": "2256",
+                "number": "0438129674"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.16403,
+                    -33.91863
+                ]
+            },
+            "properties": {
+                "address": "88 SAMUEL ST CNR SAMUEL LANE, TEMPE TEMPE",
+                "postcode": "2044",
+                "number": "0438134828"
             }
         },
         {
@@ -37956,6 +37686,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.170747,
+                    -33.896745
+                ]
+            },
+            "properties": {
+                "address": "35 LIBERTY ST NR CAMBRIDGE ST, ENMORE",
+                "postcode": "2042",
+                "number": "0447050210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.182145,
                     -33.895011
                 ]
@@ -39156,21 +38901,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.988885,
-                    -33.805859
-                ]
-            },
-            "properties": {
-                "address": "166 HAWKESBURY RD NEAR QUEENS RD, WESTMEAD",
-                "postcode": "2145",
-                "number": "0447765589"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.284088,
                     -33.799161
                 ]
@@ -39756,6 +39486,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.932393,
+                    -33.914424
+                ]
+            },
+            "properties": {
+                "address": "1 DRUMMOND ST NR HART LANE, WARWICK FARM",
+                "postcode": "2170",
+                "number": "0447891678"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.942589,
                     -33.761492
                 ]
@@ -39779,6 +39524,21 @@
                 "address": "2 FRANCIS ST NR ANNE ST, MARRICKVILLE",
                 "postcode": "2204",
                 "number": "0447904565"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.988885,
+                    -33.805859
+                ]
+            },
+            "properties": {
+                "address": "166 HAWKESBURY RD NEAR QUEENS RD, WESTMEAD",
+                "postcode": "2145",
+                "number": "0447908088"
             }
         },
         {
@@ -41871,6 +41631,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.201338,
+                    -33.884083
+                ]
+            },
+            "properties": {
+                "address": "15 BROADWAY ST OS UTS NR HARRIS, ULTIMO",
+                "postcode": "2007",
+                "number": "0448396780"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.042606,
                     -33.812228
                 ]
@@ -42674,21 +42449,6 @@
                 "address": "LOT 2 0 BARTON HWY ADJ PARK, MURRUMBATEMAN",
                 "postcode": "2582",
                 "number": "0448632026"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.843765,
-                    -33.771203
-                ]
-            },
-            "properties": {
-                "address": "2 ROOTY HILL RD NR NORTH PDE, ROOTY HILL",
-                "postcode": "2766",
-                "number": "0448637042"
             }
         },
         {
@@ -43536,6 +43296,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.87412,
+                    -34.49165
+                ]
+            },
+            "properties": {
+                "address": "240 NORTHCLIFF DRV CNR GRIFFIN ST, WARRAWONG",
+                "postcode": "2502",
+                "number": "0448763245"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.207205,
                     -33.878612
                 ]
@@ -44159,6 +43934,21 @@
                 "address": "133 MEMORIAL AVE NR MURPHY AVE, LIVERPOOL",
                 "postcode": "2170",
                 "number": "0448852385"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.600646,
+                    -34.874655
+                ]
+            },
+            "properties": {
+                "address": "0 BERRY ST NR 72 JUNCTION ST, NOWRA",
+                "postcode": "2541",
+                "number": "0448861173"
             }
         },
         {
@@ -45059,6 +44849,21 @@
                 "address": "2 RYEDALE RD OS RAILWAY ENTRY, WEST RYDE",
                 "postcode": "2114",
                 "number": "0455124797"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.194071,
+                    -33.869443
+                ]
+            },
+            "properties": {
+                "address": "2 UNION ST CN HARRIS ST, PYRMONT",
+                "postcode": "2009",
+                "number": "0455125967"
             }
         },
         {
@@ -46634,6 +46439,21 @@
                 "address": "91 MAIN RD NR SEVENTH ST, SPEERS POINT",
                 "postcode": "2284",
                 "number": "0455464823"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.093655,
+                    -33.873887
+                ]
+            },
+            "properties": {
+                "address": "2 REDMYRE RD ADJ 41 THE BLVD, STRATHFIELD",
+                "postcode": "2135",
+                "number": "0455468307"
             }
         },
         {
@@ -48681,21 +48501,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.16403,
-                    -33.91863
-                ]
-            },
-            "properties": {
-                "address": "88 SAMUEL ST CNR SAMUEL LANE, TEMPE TEMPE",
-                "postcode": "2044",
-                "number": "0455747591"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.76351,
                     -34.05583
                 ]
@@ -49161,6 +48966,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.088809,
+                    -33.870023
+                ]
+            },
+            "properties": {
+                "address": "11 BERESFORD RD NR DUKE ST, STRATHFIELD",
+                "postcode": "2135",
+                "number": "0455839238"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.690842,
                     -32.902869
                 ]
@@ -49484,21 +49304,6 @@
                 "address": "210 SOUTHERN CROSS DRV AIRPORT, BALLINA",
                 "postcode": "2478",
                 "number": "0455875183"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.87412,
-                    -34.49165
-                ]
-            },
-            "properties": {
-                "address": "240 NORTHCLIFF DRV CNR GRIFFIN ST, WARRAWONG",
-                "postcode": "2502",
-                "number": "0455878024"
             }
         },
         {
@@ -50219,6 +50024,21 @@
                 "address": "4 AUGUSTA ST NR PRINGLE AVE, BANKSTOWN",
                 "postcode": "2200",
                 "number": "0456118323"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.444637,
+                    -30.225026
+                ]
+            },
+            "properties": {
+                "address": "101 ROSE ST OS POST OFFICE, WEE WAA WEE WAA",
+                "postcode": "2388",
+                "number": "0456159864"
             }
         },
         {
@@ -52731,13 +52551,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.862469,
-                    -34.546389
+                    151.01016,
+                    -33.90974
                 ]
             },
             "properties": {
-                "address": "43 SHELLHARBOUR RD WARILLA GROVE SHOP, WARILLA",
-                "postcode": "2528",
+                "address": "48 DARGAN ST NR GLASSOP ST, YAGOONA",
+                "postcode": "2199",
+                "number": "0460849757"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.938732,
+                    -33.894881
+                ]
+            },
+            "properties": {
+                "address": "PLATFM 2 0 RAILWAY PDE CABRAMATTA RWS, CABRAMATTA",
+                "postcode": "2166",
                 "number": "0460851419"
             }
         },
@@ -52916,7 +52751,7 @@
                 ]
             },
             "properties": {
-                "address": "149 BARKER ST PWH ADULTS FOYER, RANDWICK",
+                "address": "0 HIGH ST ADULTS NR INFO DSK, RANDWICK",
                 "postcode": "2031",
                 "number": "0461288983"
             }
@@ -54141,6 +53976,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.91066,
+                    -33.93382
+                ]
+            },
+            "properties": {
+                "address": "43 REILLY ST NR GILL AVE, LIVERPOOL",
+                "postcode": "2170",
+                "number": "0474178382"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     149.28407,
                     -36.512655
                 ]
@@ -54494,6 +54344,21 @@
                 "address": "108 RAILWAY ST , GRANVILLE",
                 "postcode": "2142",
                 "number": "0474856707"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.022255,
+                    -33.867798
+                ]
+            },
+            "properties": {
+                "address": "284 CUMBERLAND RD NEAR ALBERT RD, AUBURN",
+                "postcode": "2144",
+                "number": "0474913566"
             }
         },
         {
@@ -54966,21 +54831,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.5166251,
-                    -32.7099023
-                ]
-            },
-            "properties": {
-                "address": "360 NEW ENGLAND HWY ON WALL BP S/STN, RUTHERFORD",
-                "postcode": "2320",
-                "number": "0475522674"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.260522,
                     -33.944665
                 ]
@@ -55026,6 +54876,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.795942,
+                    -34.560871
+                ]
+            },
+            "properties": {
+                "address": "179 PRINCES HWY CNR CREAMERY RD, ALBION PARK RAIL",
+                "postcode": "2527",
+                "number": "0475580678"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.08858,
                     -33.8588
                 ]
@@ -55064,6 +54929,21 @@
                 "address": "OUTSID WALL 330 ANZAC PDE UNSW SQUARE HOUSE, KENSINGTON",
                 "postcode": "2033",
                 "number": "0475594581"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.916405,
+                    -33.93459
+                ]
+            },
+            "properties": {
+                "address": "0 CONGRESSIONAL DRV OPP MONTECLAIR AVE, LIVERPOOL",
+                "postcode": "2170",
+                "number": "0475632436"
             }
         },
         {
@@ -55941,6 +55821,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.2802641,
+                    -32.9024813
+                ]
+            },
+            "properties": {
+                "address": "52 MILLFIELD RD , PAXTON",
+                "postcode": "2325",
+                "number": "0476479654"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.995761,
                     -33.789086
                 ]
@@ -55979,6 +55874,21 @@
                 "address": "82 VICTORIA ST OS WERRINGTON S/C, WERRINGTON",
                 "postcode": "2747",
                 "number": "0476485862"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.984783,
+                    -33.962684
+                ]
+            },
+            "properties": {
+                "address": "24 MCLAURIN AVE NR BROE AVE, EAST HILLS",
+                "postcode": "2213",
+                "number": "0476488782"
             }
         },
         {
@@ -58206,6 +58116,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.74456,
+                    -33.605352
+                ]
+            },
+            "properties": {
+                "address": "24 LAURENCE ST , HOBARTVILLE",
+                "postcode": "2753",
+                "number": "0484035835"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.259412,
                     -33.889975
                 ]
@@ -58671,6 +58596,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.927986,
+                    -33.918251
+                ]
+            },
+            "properties": {
+                "address": "42 CAMPBELL ST CNR BIGGE ST, LIVERPOOL",
+                "postcode": "2170",
+                "number": "0484321640"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.065932,
                     -33.749604
                 ]
@@ -59114,6 +59054,21 @@
                 "address": "WARD  664 PACIFIC HWY WYNG-HOSP TARAMIND, HAMLYN TERRACE",
                 "postcode": "2259",
                 "number": "0484832617"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.385982,
+                    -33.439055
+                ]
+            },
+            "properties": {
+                "address": "27 KARALTA RD OS TENNIS COURTS, ERINA ERINA",
+                "postcode": "2250",
+                "number": "0484850440"
             }
         },
         {
@@ -59736,21 +59691,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.984783,
-                    -33.962684
-                ]
-            },
-            "properties": {
-                "address": "24 MCLAURIN AVE NR BROE AVE, EAST HILLS",
-                "postcode": "2213",
-                "number": "0488037127"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     144.902673,
                     -35.812826
                 ]
@@ -60074,6 +60014,21 @@
                 "address": "10 HOFFMAN DRV NR YARROMA, SWANHAVEN",
                 "postcode": "2540",
                 "number": "0488724425"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.19948,
+                    -33.80714
+                ]
+            },
+            "properties": {
+                "address": "62 FRENCHS RD CNR WILLOUGHBY RD, WILLOUGHBY",
+                "postcode": "2068",
+                "number": "0488749207"
             }
         },
         {
@@ -61286,7 +61241,7 @@
                 ]
             },
             "properties": {
-                "address": "697 BONNYRIGG AVE BONNYRIGG TWAY STN, BONNYRIGG",
+                "address": "27 BONNYRIGG AVE BONNYRIGG TWAY STN, BONNYRIGG",
                 "postcode": "2177",
                 "number": "0498692278"
             }
