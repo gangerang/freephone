@@ -534,22 +534,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.862469,
-                    -34.546389
-                ]
-            },
-            "properties": {
-                "address": "43 SHELLHARBOUR RD WARILLA GROVE SHOP, WARILLA",
-                "state": "NSW",
-                "postcode": "2528",
-                "number": "0242973581"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.341601,
                     -33.423638
                 ]
@@ -12710,8 +12694,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    147.61662,
-                    -29.66808
+                    147.670056,
+                    -29.635208
                 ]
             },
             "properties": {
@@ -16118,22 +16102,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.204022,
-                    -33.883083
-                ]
-            },
-            "properties": {
-                "address": "1 LEE ST RLWY SQ NR GEORGE, HAYMARKET",
-                "state": "NSW",
-                "postcode": "2000",
-                "number": "0292126435"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.209462,
                     -33.863617
                 ]
@@ -18598,22 +18566,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.01469,
-                    -34.06766
-                ]
-            },
-            "properties": {
-                "address": "0 PRINCES HWY ENGADINE RLWY STN, ENGADINE",
-                "state": "NSW",
-                "postcode": "2233",
-                "number": "0295481279"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.155224,
                     -33.893891
                 ]
@@ -19439,22 +19391,6 @@
                 "state": "NSW",
                 "postcode": "2170",
                 "number": "0296014177"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.906098,
-                    -33.935333
-                ]
-            },
-            "properties": {
-                "address": "80 BOUNDARY RD CNR MARY CRES, LIVERPOOL",
-                "state": "NSW",
-                "postcode": "2170",
-                "number": "0296015409"
             }
         },
         {
@@ -20795,7 +20731,7 @@
                 ]
             },
             "properties": {
-                "address": "0 CLAREMONT ST NR BEAMISH ST, CAMPSIE",
+                "address": "2 CLAREMONT ST NR BEAMISH ST, CAMPSIE",
                 "state": "NSW",
                 "postcode": "2194",
                 "number": "0297182568"
@@ -21883,7 +21819,7 @@
                 ]
             },
             "properties": {
-                "address": "0 CLAREMONT ST NR BEAMISH ST, CAMPSIE",
+                "address": "2 CLAREMONT ST NR BEAMISH ST, CAMPSIE",
                 "state": "NSW",
                 "postcode": "2194",
                 "number": "0297896829"
@@ -22479,22 +22415,6 @@
                 "state": "NSW",
                 "postcode": "2170",
                 "number": "0298224104"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.94864,
-                    -33.932921
-                ]
-            },
-            "properties": {
-                "address": "34 STOCKTON AVE OS MOOREBANK SHOPS, MOOREBANK",
-                "state": "NSW",
-                "postcode": "2170",
-                "number": "0298224696"
             }
         },
         {
@@ -35942,22 +35862,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    144.928532,
-                    -37.787368
-                ]
-            },
-            "properties": {
-                "address": "350 RACECOURSE RD NEWMARKET RLWY STN, FLEMINGTON",
-                "state": "VIC",
-                "postcode": "3031",
-                "number": "0393721440"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     144.927939,
                     -37.787713
                 ]
@@ -36927,22 +36831,6 @@
                 "state": "VIC",
                 "postcode": "3073",
                 "number": "0394701720"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    145.003358,
-                    -37.741247
-                ]
-            },
-            "properties": {
-                "address": "367 HIGH ST , PRESTON",
-                "state": "VIC",
-                "postcode": "3072",
-                "number": "0394702891"
             }
         },
         {
@@ -39279,22 +39167,6 @@
                 "state": "VIC",
                 "postcode": "3191",
                 "number": "0395988387"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    145.01806,
-                    -37.96593
-                ]
-            },
-            "properties": {
-                "address": "117 BLUFF RD OPP MCKAY AVE, BLACK ROCK",
-                "state": "VIC",
-                "postcode": "3193",
-                "number": "0395988638"
             }
         },
         {
@@ -42111,22 +41983,6 @@
                 "state": "VIC",
                 "postcode": "3109",
                 "number": "0398421261"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    145.157,
-                    -37.78866
-                ]
-            },
-            "properties": {
-                "address": "956 DONCASTER RD CNR DEVON DRV, DONCASTER EAST",
-                "state": "VIC",
-                "postcode": "3109",
-                "number": "0398421290"
             }
         },
         {
@@ -46966,6 +46822,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.00495,
+                    -27.432681
+                ]
+            },
+            "properties": {
+                "address": "280 ENOGGERA RD O/S MCDONALDS, NEWMARKET",
+                "state": "QLD",
+                "postcode": "4051",
+                "number": "0408013444"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.657222,
                     -30.516432
                 ]
@@ -47487,6 +47359,22 @@
                 "state": "VIC",
                 "postcode": "3075",
                 "number": "0408386741"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.118203,
+                    -27.657325
+                ]
+            },
+            "properties": {
+                "address": "1 MILKY WAY QR KINGSTON, KINGSTON",
+                "state": "QLD",
+                "postcode": "4114",
+                "number": "0408387890"
             }
         },
         {
@@ -50054,6 +49942,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    152.987414,
+                    -27.467041
+                ]
+            },
+            "properties": {
+                "address": "198 BOUNDARY RD NR RAINWORTH RD, BARDON",
+                "state": "QLD",
+                "postcode": "4065",
+                "number": "0409834653"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     144.30631,
                     -36.729467
                 ]
@@ -50907,7 +50811,7 @@
                 ]
             },
             "properties": {
-                "address": "0 SAPPHO RD CNR HUME HWY, WARWICK FARM",
+                "address": "1 SAPPHO RD CNR HUME HWY, WARWICK FARM",
                 "state": "NSW",
                 "postcode": "2170",
                 "number": "0417176387"
@@ -52534,8 +52438,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.103645,
-                    -37.70345
+                    145.102545,
+                    -37.702905
                 ]
             },
             "properties": {
@@ -53775,22 +53679,6 @@
                 "state": "NSW",
                 "postcode": "2423",
                 "number": "0417964891"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.09783,
-                    -27.6317
-                ]
-            },
-            "properties": {
-                "address": "125 STATION RD QR TRINDER PARK, WOODRIDGE",
-                "state": "QLD",
-                "postcode": "4114",
-                "number": "0417967295"
             }
         },
         {
@@ -61030,6 +60918,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    145.01806,
+                    -37.96593
+                ]
+            },
+            "properties": {
+                "address": "117 BLUFF RD OPP MCKAY AVE, BLACK ROCK",
+                "state": "VIC",
+                "postcode": "3193",
+                "number": "0427146911"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     152.84724,
                     -27.59887
                 ]
@@ -62223,6 +62127,22 @@
                 "state": "WA",
                 "postcode": "6158",
                 "number": "0427426530"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.429939,
+                    -28.011364
+                ]
+            },
+            "properties": {
+                "address": "31 AUBREY ST NR GOLD COAST HWY, SURFERS PARADISE",
+                "state": "QLD",
+                "postcode": "4217",
+                "number": "0427430166"
             }
         },
         {
@@ -65055,6 +64975,22 @@
                 "state": "QLD",
                 "postcode": "4700",
                 "number": "0428056865"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.003358,
+                    -37.741247
+                ]
+            },
+            "properties": {
+                "address": "367 HIGH ST , PRESTON",
+                "state": "VIC",
+                "postcode": "3072",
+                "number": "0428057832"
             }
         },
         {
@@ -70662,6 +70598,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.06244,
+                    -27.38258
+                ]
+            },
+            "properties": {
+                "address": "1692 SANDGATE RD QR VIRGINIA STN, VIRGINIA",
+                "state": "QLD",
+                "postcode": "4014",
+                "number": "0429305720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     144.891832,
                     -37.816779
                 ]
@@ -74479,6 +74431,22 @@
                 "state": "NSW",
                 "postcode": "2000",
                 "number": "0436027794"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.005939,
+                    -27.461768
+                ]
+            },
+            "properties": {
+                "address": "202 GIVEN TCE NR 7  GUTHRIE, PADDINGTON",
+                "state": "QLD",
+                "postcode": "4064",
+                "number": "0436027956"
             }
         },
         {
@@ -79606,6 +79574,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    149.794294,
+                    -25.642713
+                ]
+            },
+            "properties": {
+                "address": "0 DAWSON ST NR HUTTON ST, TAROOM",
+                "state": "QLD",
+                "postcode": "4420",
+                "number": "0436410136"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     152.354221,
                     -24.879502
                 ]
@@ -80591,22 +80575,6 @@
                 "state": "QLD",
                 "postcode": "4060",
                 "number": "0436441388"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.027234,
-                    -27.360898
-                ]
-            },
-            "properties": {
-                "address": "39 KIRBY RD , ASPLEY",
-                "state": "QLD",
-                "postcode": "4034",
-                "number": "0436442029"
             }
         },
         {
@@ -84038,22 +84006,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.928285,
-                    -33.870214
-                ]
-            },
-            "properties": {
-                "address": "338 HAMILTON RD CNR NANGAR ST, FAIRFIELD WEST",
-                "state": "NSW",
-                "postcode": "2165",
-                "number": "0437068299"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     116.26642,
                     -31.862658
                 ]
@@ -84159,22 +84111,6 @@
                 "state": "NSW",
                 "postcode": "2535",
                 "number": "0437077569"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.077131,
-                    -27.394837
-                ]
-            },
-            "properties": {
-                "address": "750 NUDGEE RD CNR COOPER RD, NORTHGATE",
-                "state": "QLD",
-                "postcode": "4013",
-                "number": "0437078254"
             }
         },
         {
@@ -90966,6 +90902,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.077131,
+                    -27.394837
+                ]
+            },
+            "properties": {
+                "address": "750 NUDGEE RD CNR COOPER RD, NORTHGATE",
+                "state": "QLD",
+                "postcode": "4013",
+                "number": "0438584927"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     144.915051,
                     -37.777814
                 ]
@@ -91343,6 +91295,22 @@
                 "state": "NSW",
                 "postcode": "2357",
                 "number": "0438668520"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.352571,
+                    -24.865347
+                ]
+            },
+            "properties": {
+                "address": "58 BOURBONG ST TARGET ARCADE, BUNDABERG CENTRAL",
+                "state": "QLD",
+                "postcode": "4670",
+                "number": "0438670542"
             }
         },
         {
@@ -100022,6 +99990,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.143429,
+                    -33.904144
+                ]
+            },
+            "properties": {
+                "address": "1 SEAVIEW ST NR MARRICKVILLE RD, DULWICH HILL",
+                "state": "NSW",
+                "postcode": "2203",
+                "number": "0447686405"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.20871,
                     -33.86579
                 ]
@@ -101302,22 +101286,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.143429,
-                    -33.904144
-                ]
-            },
-            "properties": {
-                "address": "1 SEAVIEW ST NR MARRICKVILLE RD, DULWICH HILL",
-                "state": "NSW",
-                "postcode": "2203",
-                "number": "0447808966"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     138.61055,
                     -34.84773
                 ]
@@ -102031,22 +101999,6 @@
                 "state": "NSW",
                 "postcode": "2031",
                 "number": "0447859937"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.06244,
-                    -27.38258
-                ]
-            },
-            "properties": {
-                "address": "1692 SANDGATE RD QR VIRGINIA STN, VIRGINIA",
-                "state": "QLD",
-                "postcode": "4014",
-                "number": "0447864769"
             }
         },
         {
@@ -102863,6 +102815,22 @@
                 "state": "VIC",
                 "postcode": "3806",
                 "number": "0447935707"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.906098,
+                    -33.935333
+                ]
+            },
+            "properties": {
+                "address": "80 BOUNDARY RD CNR MARY CRES, LIVERPOOL",
+                "state": "NSW",
+                "postcode": "2170",
+                "number": "0447936500"
             }
         },
         {
@@ -104319,22 +104287,6 @@
                 "state": "QLD",
                 "postcode": "4870",
                 "number": "0448055090"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.00495,
-                    -27.432681
-                ]
-            },
-            "properties": {
-                "address": "280 ENOGGERA RD O/S MCDONALDS, NEWMARKET",
-                "state": "QLD",
-                "postcode": "4051",
-                "number": "0448055154"
             }
         },
         {
@@ -106886,6 +106838,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.05605,
+                    -27.37532
+                ]
+            },
+            "properties": {
+                "address": "369 BILSEN RD QR SUNSHINE, GEEBUNG",
+                "state": "QLD",
+                "postcode": "4034",
+                "number": "0448192055"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     115.78994,
                     -31.960674
                 ]
@@ -108047,6 +108015,22 @@
                 "state": "NSW",
                 "postcode": "2478",
                 "number": "0448269618"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.978297,
+                    -27.326282
+                ]
+            },
+            "properties": {
+                "address": "349 SOUTH PINE RD NR LEITCHS RD, BRENDALE",
+                "state": "QLD",
+                "postcode": "4500",
+                "number": "0448271654"
             }
         },
         {
@@ -115094,6 +115078,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.152598,
+                    -34.053091
+                ]
+            },
+            "properties": {
+                "address": "62 CRONULLA MALL OPP POST OFFICE, CRONULLA",
+                "state": "NSW",
+                "postcode": "2230",
+                "number": "0448695980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.25762,
                     -27.17862
                 ]
@@ -115759,22 +115759,6 @@
                 "state": "NSW",
                 "postcode": "2073",
                 "number": "0448733219"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.05605,
-                    -27.37532
-                ]
-            },
-            "properties": {
-                "address": "369 BILSEN RD QR SUNSHINE, GEEBUNG",
-                "state": "QLD",
-                "postcode": "4034",
-                "number": "0448734665"
             }
         },
         {
@@ -117263,22 +117247,6 @@
                 "state": "VIC",
                 "postcode": "3550",
                 "number": "0448778196"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.937445,
-                    -33.872458
-                ]
-            },
-            "properties": {
-                "address": "197 HAMILTON RD NR THE BOULEVARDE, FAIRFIELD",
-                "state": "NSW",
-                "postcode": "2165",
-                "number": "0448778701"
             }
         },
         {
@@ -123990,6 +123958,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.937445,
+                    -33.872458
+                ]
+            },
+            "properties": {
+                "address": "197 HAMILTON RD NR THE BOULEVARDE, FAIRFIELD",
+                "state": "NSW",
+                "postcode": "2165",
+                "number": "0455242783"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     115.836038,
                     -32.063241
                 ]
@@ -124518,6 +124502,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.833701,
+                    -34.458373
+                ]
+            },
+            "properties": {
+                "address": "31 WAPLES RD CNR MIANGA CRES, UNANDERRA",
+                "state": "NSW",
+                "postcode": "2526",
+                "number": "0455283227"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.024782,
                     -27.486913
                 ]
@@ -124934,8 +124934,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    144.744136,
-                    -37.732902
+                    144.743317,
+                    -37.731997
                 ]
             },
             "properties": {
@@ -132198,22 +132198,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.978297,
-                    -27.326282
-                ]
-            },
-            "properties": {
-                "address": "349 SOUTH PINE RD NR LEITCHS RD, BRENDALE",
-                "state": "QLD",
-                "postcode": "4500",
-                "number": "0455690162"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     115.790808,
                     -31.863087
                 ]
@@ -134742,6 +134726,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    145.157,
+                    -37.78866
+                ]
+            },
+            "properties": {
+                "address": "956 DONCASTER RD CNR DEVON DRV, DONCASTER EAST",
+                "state": "VIC",
+                "postcode": "3109",
+                "number": "0455731987"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     145.049192,
                     -37.958632
                 ]
@@ -137206,22 +137206,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.048939,
-                    -27.389304
-                ]
-            },
-            "properties": {
-                "address": "156 HAMILTON RD , WAVELL HEIGHTS",
-                "state": "QLD",
-                "postcode": "4012",
-                "number": "0455826002"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.910081,
                     -34.362751
                 ]
@@ -138614,22 +138598,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.987414,
-                    -27.467041
-                ]
-            },
-            "properties": {
-                "address": "198 BOUNDARY RD NR RAINWORTH RD, BARDON",
-                "state": "QLD",
-                "postcode": "4065",
-                "number": "0455866177"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.752522,
                     -33.598446
                 ]
@@ -138927,6 +138895,22 @@
                 "state": "WA",
                 "postcode": "6024",
                 "number": "0455875682"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.431674,
+                    -28.014737
+                ]
+            },
+            "properties": {
+                "address": "21 OLD BURLEIGH RD , SURFERS PARADISE",
+                "state": "QLD",
+                "postcode": "4217",
+                "number": "0455877536"
             }
         },
         {
@@ -142166,22 +142150,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.118203,
-                    -27.657325
-                ]
-            },
-            "properties": {
-                "address": "1 MILKY WAY QR KINGSTON, KINGSTON",
-                "state": "QLD",
-                "postcode": "4114",
-                "number": "0456199268"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     143.87859,
                     -37.56548
                 ]
@@ -144246,6 +144214,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.048939,
+                    -27.389304
+                ]
+            },
+            "properties": {
+                "address": "156 HAMILTON RD , WAVELL HEIGHTS",
+                "state": "QLD",
+                "postcode": "4012",
+                "number": "0456763442"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     138.659928,
                     -34.855069
                 ]
@@ -144479,6 +144463,22 @@
                 "state": "NSW",
                 "postcode": "2122",
                 "number": "0456814410"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.09783,
+                    -27.6317
+                ]
+            },
+            "properties": {
+                "address": "125 STATION RD QR TRINDER PARK, WOODRIDGE",
+                "state": "QLD",
+                "postcode": "4114",
+                "number": "0456818224"
             }
         },
         {
@@ -148310,6 +148310,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.94864,
+                    -33.932921
+                ]
+            },
+            "properties": {
+                "address": "34 STOCKTON AVE OS MOOREBANK SHOPS, MOOREBANK",
+                "state": "NSW",
+                "postcode": "2170",
+                "number": "0459248357"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     139.619101,
                     -34.341172
                 ]
@@ -151887,6 +151903,22 @@
                 "state": "SA",
                 "postcode": "5008",
                 "number": "0461588700"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.1221,
+                    -26.77274
+                ]
+            },
+            "properties": {
+                "address": "750 NICKLIN WAY CURRIMUNDI MARKET, CURRIMUNDI",
+                "state": "QLD",
+                "postcode": "4551",
+                "number": "0461594645"
             }
         },
         {
@@ -159835,7 +159867,7 @@
                 ]
             },
             "properties": {
-                "address": "0 CONGRESSIONAL DRV OPP MONTECLAIR AVE, LIVERPOOL",
+                "address": "107 CONGRESSIONAL DRV OPP MONTECLAIR AVE, LIVERPOOL",
                 "state": "NSW",
                 "postcode": "2170",
                 "number": "0475632436"
@@ -167574,22 +167606,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.093313,
-                    -26.655028
-                ]
-            },
-            "properties": {
-                "address": "9 FIRST AVE NR MEMORIAL AVE, MAROOCHYDORE",
-                "state": "QLD",
-                "postcode": "4558",
-                "number": "0477605126"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     145.119485,
                     -37.709257
                 ]
@@ -169615,22 +169631,6 @@
                 "state": "WA",
                 "postcode": "6014",
                 "number": "0482609619"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.152598,
-                    -34.053091
-                ]
-            },
-            "properties": {
-                "address": "62 CRONULLA MALL OPP POST OFFICE, CRONULLA",
-                "state": "NSW",
-                "postcode": "2230",
-                "number": "0482609757"
             }
         },
         {
@@ -174374,6 +174374,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.928285,
+                    -33.870214
+                ]
+            },
+            "properties": {
+                "address": "338 HAMILTON RD CNR NANGAR ST, FAIRFIELD WEST",
+                "state": "NSW",
+                "postcode": "2165",
+                "number": "0484359360"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.044938,
                     -27.50896
                 ]
@@ -175279,22 +175295,6 @@
                 "state": "NT",
                 "postcode": "820",
                 "number": "0484614887"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.833701,
-                    -34.458373
-                ]
-            },
-            "properties": {
-                "address": "31 WAPLES RD CNR MIANGA CRES, UNANDERRA",
-                "state": "NSW",
-                "postcode": "2526",
-                "number": "0484616275"
             }
         },
         {
@@ -177558,6 +177558,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.204022,
+                    -33.883083
+                ]
+            },
+            "properties": {
+                "address": "1 LEE ST RLWY SQ NR GEORGE, HAYMARKET",
+                "state": "NSW",
+                "postcode": "2000",
+                "number": "0487248846"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.737013,
                     -32.890175
                 ]
@@ -177663,6 +177679,22 @@
                 "state": "SA",
                 "postcode": "5051",
                 "number": "0487408826"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.035587,
+                    -22.135794
+                ]
+            },
+            "properties": {
+                "address": "39 BANKSIA RD CNR ACACIA ST, STANAGE",
+                "state": "QLD",
+                "postcode": "4702",
+                "number": "0487444193"
             }
         },
         {
@@ -179046,8 +179078,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.103774,
-                    -37.703616
+                    145.101081,
+                    -37.702962
                 ]
             },
             "properties": {
@@ -179551,6 +179583,22 @@
                 "state": "QLD",
                 "postcode": "4221",
                 "number": "0491203728"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.01469,
+                    -34.06766
+                ]
+            },
+            "properties": {
+                "address": "0 PRINCES HWY ENGADINE RLWY STN, ENGADINE",
+                "state": "NSW",
+                "postcode": "2233",
+                "number": "0491204187"
             }
         },
         {
@@ -181423,6 +181471,22 @@
                 "state": "SA",
                 "postcode": "5109",
                 "number": "0497105097"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.720269,
+                    -23.46188
+                ]
+            },
+            "properties": {
+                "address": "988 RUBYVALE SAPPHIRE RD OS POST OFFICE, SPPHR CNTRL SAPPHIRE CENTRAL",
+                "state": "QLD",
+                "postcode": "4702",
+                "number": "0497116001"
             }
         },
         {
@@ -183574,6 +183638,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.027234,
+                    -27.360898
+                ]
+            },
+            "properties": {
+                "address": "39 KIRBY RD , ASPLEY",
+                "state": "QLD",
+                "postcode": "4034",
+                "number": "0499076674"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.7079644,
                     -32.896851
                 ]
@@ -184751,6 +184831,22 @@
                 "state": "SA",
                 "postcode": "5330",
                 "number": "0499884087"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.928532,
+                    -37.787368
+                ]
+            },
+            "properties": {
+                "address": "350 RACECOURSE RD NEWMARKET RLWY STN, FLEMINGTON",
+                "state": "VIC",
+                "postcode": "3031",
+                "number": "0499891377"
             }
         },
         {
@@ -186207,22 +186303,6 @@
                 "state": "QLD",
                 "postcode": "4032",
                 "number": "0733598244"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.005939,
-                    -27.461768
-                ]
-            },
-            "properties": {
-                "address": "202 GIVEN TCE NR 7  GUTHRIE, PADDINGTON",
-                "state": "QLD",
-                "postcode": "4064",
-                "number": "0733697814"
             }
         },
         {
@@ -191318,22 +191398,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.352571,
-                    -24.865347
-                ]
-            },
-            "properties": {
-                "address": "58 BOURBONG ST TARGET ARCADE, BUNDABERG CENTRAL",
-                "state": "QLD",
-                "postcode": "4670",
-                "number": "0741533540"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.368879,
                     -24.859446
                 ]
@@ -192575,22 +192639,6 @@
                 "state": "QLD",
                 "postcode": "4415",
                 "number": "0746272030"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    149.794294,
-                    -25.642713
-                ]
-            },
-            "properties": {
-                "address": "0 DAWSON ST NR HUTTON ST, TAROOM",
-                "state": "QLD",
-                "postcode": "4420",
-                "number": "0746273237"
             }
         },
         {
@@ -197462,22 +197510,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.035587,
-                    -22.135794
-                ]
-            },
-            "properties": {
-                "address": "39 BANKSIA RD CNR ACACIA ST, STANAGE",
-                "state": "QLD",
-                "postcode": "4702",
-                "number": "0749373101"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.38764,
                     -23.6379
                 ]
@@ -199126,22 +199158,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    147.720269,
-                    -23.46188
-                ]
-            },
-            "properties": {
-                "address": "988 RUBYVALE SAPPHIRE RD OS POST OFFICE, SPPHR CNTRL SAPPHIRE CENTRAL",
-                "state": "QLD",
-                "postcode": "4702",
-                "number": "0749810137"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     148.170276,
                     -23.510555
                 ]
@@ -199951,22 +199967,6 @@
                 "state": "QLD",
                 "postcode": "4512",
                 "number": "0754298103"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.1221,
-                    -26.77274
-                ]
-            },
-            "properties": {
-                "address": "750 NICKLIN WAY CURRIMUNDI MARKET, CURRIMUNDI",
-                "state": "QLD",
-                "postcode": "4551",
-                "number": "0754376815"
             }
         },
         {
@@ -202943,38 +202943,6 @@
                 "state": "QLD",
                 "postcode": "4218",
                 "number": "0755276614"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.429939,
-                    -28.011364
-                ]
-            },
-            "properties": {
-                "address": "31 AUBREY ST NR GOLD COAST HWY, SURFERS PARADISE",
-                "state": "QLD",
-                "postcode": "4217",
-                "number": "0755315691"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.431674,
-                    -28.014737
-                ]
-            },
-            "properties": {
-                "address": "21 OLD BURLEIGH RD , SURFERS PARADISE",
-                "state": "QLD",
-                "postcode": "4217",
-                "number": "0755315845"
             }
         },
         {
