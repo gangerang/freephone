@@ -501,21 +501,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.862469,
-                    -34.546389
-                ]
-            },
-            "properties": {
-                "address": "43 SHELLHARBOUR RD WARILLA GROVE SHOP, WARILLA",
-                "postcode": "2528",
-                "number": "0242973581"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.341601,
                     -33.423638
                 ]
@@ -11526,8 +11511,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    147.61662,
-                    -29.66808
+                    147.670056,
+                    -29.635208
                 ]
             },
             "properties": {
@@ -14721,21 +14706,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.204022,
-                    -33.883083
-                ]
-            },
-            "properties": {
-                "address": "1 LEE ST RLWY SQ NR GEORGE, HAYMARKET",
-                "postcode": "2000",
-                "number": "0292126435"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.209462,
                     -33.863617
                 ]
@@ -17046,21 +17016,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.01469,
-                    -34.06766
-                ]
-            },
-            "properties": {
-                "address": "0 PRINCES HWY ENGADINE RLWY STN, ENGADINE",
-                "postcode": "2233",
-                "number": "0295481279"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.155224,
                     -33.893891
                 ]
@@ -17834,21 +17789,6 @@
                 "address": "0 BRADSHAW AVE CNR SWAIN ST, MOOREBANK",
                 "postcode": "2170",
                 "number": "0296014177"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.906098,
-                    -33.935333
-                ]
-            },
-            "properties": {
-                "address": "80 BOUNDARY RD CNR MARY CRES, LIVERPOOL",
-                "postcode": "2170",
-                "number": "0296015409"
             }
         },
         {
@@ -19106,7 +19046,7 @@
                 ]
             },
             "properties": {
-                "address": "0 CLAREMONT ST NR BEAMISH ST, CAMPSIE",
+                "address": "2 CLAREMONT ST NR BEAMISH ST, CAMPSIE",
                 "postcode": "2194",
                 "number": "0297182568"
             }
@@ -20126,7 +20066,7 @@
                 ]
             },
             "properties": {
-                "address": "0 CLAREMONT ST NR BEAMISH ST, CAMPSIE",
+                "address": "2 CLAREMONT ST NR BEAMISH ST, CAMPSIE",
                 "postcode": "2194",
                 "number": "0297896829"
             }
@@ -20684,21 +20624,6 @@
                 "address": "2 MARYVALE AVE NR MEMORIAL AVE, LIVERPOOL",
                 "postcode": "2170",
                 "number": "0298224104"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.94864,
-                    -33.932921
-                ]
-            },
-            "properties": {
-                "address": "34 STOCKTON AVE OS MOOREBANK SHOPS, MOOREBANK",
-                "postcode": "2170",
-                "number": "0298224696"
             }
         },
         {
@@ -24461,7 +24386,7 @@
                 ]
             },
             "properties": {
-                "address": "0 SAPPHO RD CNR HUME HWY, WARWICK FARM",
+                "address": "1 SAPPHO RD CNR HUME HWY, WARWICK FARM",
                 "postcode": "2170",
                 "number": "0417176387"
             }
@@ -34356,21 +34281,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.928285,
-                    -33.870214
-                ]
-            },
-            "properties": {
-                "address": "338 HAMILTON RD CNR NANGAR ST, FAIRFIELD WEST",
-                "postcode": "2165",
-                "number": "0437068299"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.89647,
                     -34.4314
                 ]
@@ -38781,6 +38691,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.143429,
+                    -33.904144
+                ]
+            },
+            "properties": {
+                "address": "1 SEAVIEW ST NR MARRICKVILLE RD, DULWICH HILL",
+                "postcode": "2203",
+                "number": "0447686405"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.20871,
                     -33.86579
                 ]
@@ -39164,21 +39089,6 @@
                 "address": "10 THE CRESCENT  NR BLAXLAND RD, PENRITH",
                 "postcode": "2750",
                 "number": "0447806982"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.143429,
-                    -33.904144
-                ]
-            },
-            "properties": {
-                "address": "1 SEAVIEW ST NR MARRICKVILLE RD, DULWICH HILL",
-                "postcode": "2203",
-                "number": "0447808966"
             }
         },
         {
@@ -39674,6 +39584,21 @@
                 "address": "0 ARGYLE ST CNR KENT ST, MILLERS POINT",
                 "postcode": "2000",
                 "number": "0447933811"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.906098,
+                    -33.935333
+                ]
+            },
+            "properties": {
+                "address": "80 BOUNDARY RD CNR MARY CRES, LIVERPOOL",
+                "postcode": "2170",
+                "number": "0447936500"
             }
         },
         {
@@ -42816,6 +42741,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.152598,
+                    -34.053091
+                ]
+            },
+            "properties": {
+                "address": "62 CRONULLA MALL OPP POST OFFICE, CRONULLA",
+                "postcode": "2230",
+                "number": "0448695980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.92907,
                     -33.92174
                 ]
@@ -43529,21 +43469,6 @@
                 "address": "18 LANCASTER ST , BLACKTOWN",
                 "postcode": "2148",
                 "number": "0448778168"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.937445,
-                    -33.872458
-                ]
-            },
-            "properties": {
-                "address": "197 HAMILTON RD NR THE BOULEVARDE, FAIRFIELD",
-                "postcode": "2165",
-                "number": "0448778701"
             }
         },
         {
@@ -45471,6 +45396,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.937445,
+                    -33.872458
+                ]
+            },
+            "properties": {
+                "address": "197 HAMILTON RD NR THE BOULEVARDE, FAIRFIELD",
+                "postcode": "2165",
+                "number": "0455242783"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.103348,
                     -30.327127
                 ]
@@ -45584,6 +45524,21 @@
                 "address": "140 ROWE ST ROWE ST MALL, EASTWOOD",
                 "postcode": "2122",
                 "number": "0455283201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.833701,
+                    -34.458373
+                ]
+            },
+            "properties": {
+                "address": "31 WAPLES RD CNR MIANGA CRES, UNANDERRA",
+                "postcode": "2526",
+                "number": "0455283227"
             }
         },
         {
@@ -51966,6 +51921,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.94864,
+                    -33.932921
+                ]
+            },
+            "properties": {
+                "address": "34 STOCKTON AVE OS MOOREBANK SHOPS, MOOREBANK",
+                "postcode": "2170",
+                "number": "0459248357"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     152.83731,
                     -31.093113
                 ]
@@ -54941,7 +54911,7 @@
                 ]
             },
             "properties": {
-                "address": "0 CONGRESSIONAL DRV OPP MONTECLAIR AVE, LIVERPOOL",
+                "address": "107 CONGRESSIONAL DRV OPP MONTECLAIR AVE, LIVERPOOL",
                 "postcode": "2170",
                 "number": "0475632436"
             }
@@ -57516,21 +57486,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.152598,
-                    -34.053091
-                ]
-            },
-            "properties": {
-                "address": "62 CRONULLA MALL OPP POST OFFICE, CRONULLA",
-                "postcode": "2230",
-                "number": "0482609757"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.154719,
                     -32.722051
                 ]
@@ -58701,6 +58656,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.928285,
+                    -33.870214
+                ]
+            },
+            "properties": {
+                "address": "338 HAMILTON RD CNR NANGAR ST, FAIRFIELD WEST",
+                "postcode": "2165",
+                "number": "0484359360"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.709713,
                     -32.910448
                 ]
@@ -58904,21 +58874,6 @@
                 "address": "GRND FLR 1 HOSPITAL RD HOSPITAL FOYER, CONCORD WEST",
                 "postcode": "2138",
                 "number": "0484593870"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.833701,
-                    -34.458373
-                ]
-            },
-            "properties": {
-                "address": "31 WAPLES RD CNR MIANGA CRES, UNANDERRA",
-                "postcode": "2526",
-                "number": "0484616275"
             }
         },
         {
@@ -59459,6 +59414,21 @@
                 "address": "124 OYSTER BAY RD O/S POST OFFICE, OYSTER BAY",
                 "postcode": "2225",
                 "number": "0487230976"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.204022,
+                    -33.883083
+                ]
+            },
+            "properties": {
+                "address": "1 LEE ST RLWY SQ NR GEORGE, HAYMARKET",
+                "postcode": "2000",
+                "number": "0487248846"
             }
         },
         {
@@ -60074,6 +60044,21 @@
                 "address": "14 LAYCOCK ST OS SHOPS, CAREY BAY",
                 "postcode": "2283",
                 "number": "0488974362"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.01469,
+                    -34.06766
+                ]
+            },
+            "properties": {
+                "address": "0 PRINCES HWY ENGADINE RLWY STN, ENGADINE",
+                "postcode": "2233",
+                "number": "0491204187"
             }
         },
         {
