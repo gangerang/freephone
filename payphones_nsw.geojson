@@ -14676,21 +14676,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.203375,
-                    -33.884137
-                ]
-            },
-            "properties": {
-                "address": "12 LEE ST BUS INT/RAILWAY SQ, CHIPPENDALE",
-                "postcode": "2008",
-                "number": "0292124921"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.209872,
                     -33.876482
                 ]
@@ -18081,21 +18066,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.011785,
-                    -33.815821
-                ]
-            },
-            "properties": {
-                "address": "135 GEORGE ST O/S HOTEL, PARRAMATTA",
-                "postcode": "2150",
-                "number": "0296334509"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.002058,
                     -33.81492
                 ]
@@ -18539,21 +18509,6 @@
                 "address": "288 CARRINGTON RD NR BREAM ST, COOGEE",
                 "postcode": "2034",
                 "number": "0296650187"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.255501,
-                    -33.92077
-                ]
-            },
-            "properties": {
-                "address": "1 VICAR ST CNR COOGEE BAY RD, COOGEE",
-                "postcode": "2034",
-                "number": "0296653274"
             }
         },
         {
@@ -22814,6 +22769,21 @@
                 "address": "195 BRUNKER RD NR POST OFFICE, ADAMSTOWN",
                 "postcode": "2289",
                 "number": "0407135865"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.203375,
+                    -33.884137
+                ]
+            },
+            "properties": {
+                "address": "12 LEE ST BUS INT/RAILWAY SQ, CHIPPENDALE",
+                "postcode": "2008",
+                "number": "0407159233"
             }
         },
         {
@@ -41061,6 +41031,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.011785,
+                    -33.815821
+                ]
+            },
+            "properties": {
+                "address": "135 GEORGE ST O/S HOTEL, PARRAMATTA",
+                "postcode": "2150",
+                "number": "0448276813"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     149.857106,
                     -33.704315
                 ]
@@ -45186,8 +45171,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.225011,
-                    -33.894883
+                    151.2251,
+                    -33.894808
                 ]
             },
             "properties": {
@@ -47159,6 +47144,21 @@
                 "address": "1141 BARRENJOEY RD PITTWATER RESERVE, PALM BEACH",
                 "postcode": "2108",
                 "number": "0455632597"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.255501,
+                    -33.92077
+                ]
+            },
+            "properties": {
+                "address": "1 VICAR ST CNR COOGEE BAY RD, COOGEE",
+                "postcode": "2034",
+                "number": "0455633405"
             }
         },
         {

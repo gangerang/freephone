@@ -6846,13 +6846,6 @@
         "number": "0292123893"
     },
     {
-        "latitude": -33.884137,
-        "longitude": 151.203375,
-        "address": "12 LEE ST BUS INT/RAILWAY SQ, CHIPPENDALE",
-        "postcode": "2008",
-        "number": "0292124921"
-    },
-    {
         "latitude": -33.876482,
         "longitude": 151.209872,
         "address": "1 LIVERPOOL ST MUSEUM RLWY STN, SYDNEY",
@@ -8435,13 +8428,6 @@
         "number": "0296334410"
     },
     {
-        "latitude": -33.815821,
-        "longitude": 151.011785,
-        "address": "135 GEORGE ST O/S HOTEL, PARRAMATTA",
-        "postcode": "2150",
-        "number": "0296334509"
-    },
-    {
         "latitude": -33.81492,
         "longitude": 151.002058,
         "address": "57 MACQUARIE ST , PARRAMATTA",
@@ -8650,13 +8636,6 @@
         "address": "288 CARRINGTON RD NR BREAM ST, COOGEE",
         "postcode": "2034",
         "number": "0296650187"
-    },
-    {
-        "latitude": -33.92077,
-        "longitude": 151.255501,
-        "address": "1 VICAR ST CNR COOGEE BAY RD, COOGEE",
-        "postcode": "2034",
-        "number": "0296653274"
     },
     {
         "latitude": -33.920738,
@@ -10645,6 +10624,13 @@
         "address": "195 BRUNKER RD NR POST OFFICE, ADAMSTOWN",
         "postcode": "2289",
         "number": "0407135865"
+    },
+    {
+        "latitude": -33.884137,
+        "longitude": 151.203375,
+        "address": "12 LEE ST BUS INT/RAILWAY SQ, CHIPPENDALE",
+        "postcode": "2008",
+        "number": "0407159233"
     },
     {
         "latitude": -34.053113,
@@ -19159,6 +19145,13 @@
         "number": "0448274009"
     },
     {
+        "latitude": -33.815821,
+        "longitude": 151.011785,
+        "address": "135 GEORGE ST O/S HOTEL, PARRAMATTA",
+        "postcode": "2150",
+        "number": "0448276813"
+    },
+    {
         "latitude": -33.704315,
         "longitude": 149.857106,
         "address": "124 OBERON ST MALACHI GILMORE HA, OBERON",
@@ -21084,8 +21077,8 @@
         "number": "0455202837"
     },
     {
-        "latitude": -33.894883,
-        "longitude": 151.225011,
+        "latitude": -33.894808,
+        "longitude": 151.2251,
         "address": "1 ERROL FYNN BLV O/S EQ CARPARK, MOORE PARK",
         "postcode": "2021",
         "number": "0455203563"
@@ -22006,6 +21999,13 @@
         "address": "1141 BARRENJOEY RD PITTWATER RESERVE, PALM BEACH",
         "postcode": "2108",
         "number": "0455632597"
+    },
+    {
+        "latitude": -33.92077,
+        "longitude": 151.255501,
+        "address": "1 VICAR ST CNR COOGEE BAY RD, COOGEE",
+        "postcode": "2034",
+        "number": "0455633405"
     },
     {
         "latitude": -33.626829,
