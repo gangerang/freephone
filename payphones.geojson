@@ -21638,38 +21638,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.102756,
-                    -33.913066
-                ]
-            },
-            "properties": {
-                "address": "LVL LG 14 AMY ST CAMPSIE SHOP CNTRE, CAMPSIE",
-                "state": "NSW",
-                "postcode": "2194",
-                "number": "0297891267"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.102716,
-                    -33.912774
-                ]
-            },
-            "properties": {
-                "address": "LVL 1 14 AMY ST CAMPSIE SHOP CNTRE, CAMPSIE",
-                "state": "NSW",
-                "postcode": "2194",
-                "number": "0297891283"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.103818,
                     -33.911161
                 ]
@@ -35151,22 +35119,6 @@
                 "state": "VIC",
                 "postcode": "3047",
                 "number": "0393097154"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    144.832961,
-                    -37.786907
-                ]
-            },
-            "properties": {
-                "address": "64 STATION PL , SUNSHINE",
-                "state": "VIC",
-                "postcode": "3020",
-                "number": "0393112612"
             }
         },
         {
@@ -116582,6 +116534,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    138.566823,
+                    -34.967343
+                ]
+            },
+            "properties": {
+                "address": "36 ALMOND GR , GLANDORE",
+                "state": "SA",
+                "postcode": "5037",
+                "number": "0448764201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.012001,
                     -33.832703
                 ]
@@ -127398,6 +127366,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    147.139732,
+                    -41.438655
+                ]
+            },
+            "properties": {
+                "address": "73 YORK ST CNR ST JOHN ST, LAUNCESTON",
+                "state": "TAS",
+                "postcode": "7250",
+                "number": "0455458524"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.93402,
                     -33.775039
                 ]
@@ -134102,6 +134086,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    147.29011,
+                    -23.64906
+                ]
+            },
+            "properties": {
+                "address": "0 LONG ST BOGANTUNGAN R/S, WILLOWS",
+                "state": "QLD",
+                "postcode": "4702",
+                "number": "0455728038"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     138.631753,
                     -34.921453
                 ]
@@ -138431,22 +138431,6 @@
                 "state": "NSW",
                 "postcode": "2250",
                 "number": "0455864610"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    147.139732,
-                    -41.438655
-                ]
-            },
-            "properties": {
-                "address": "73 YORK ST CNR ST JOHN ST, LAUNCESTON",
-                "state": "TAS",
-                "postcode": "7250",
-                "number": "0455865222"
             }
         },
         {
@@ -157686,6 +157670,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.495306,
+                    -20.708102
+                ]
+            },
+            "properties": {
+                "address": "185 LITTLE WEST ST COPPER CITY RIVERS, WINSTON",
+                "state": "QLD",
+                "postcode": "4825",
+                "number": "0474972064"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     152.95116,
                     -27.094365
                 ]
@@ -163686,6 +163686,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    152.37691,
+                    -24.88916
+                ]
+            },
+            "properties": {
+                "address": "167 MCCARTHY RD NR ANDERSON ST, AVENELL HEIGHTS",
+                "state": "QLD",
+                "postcode": "4670",
+                "number": "0476495091"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     145.122276,
                     -37.819071
                 ]
@@ -167718,6 +167734,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    144.832961,
+                    -37.786907
+                ]
+            },
+            "properties": {
+                "address": "64 STATION PL , SUNSHINE",
+                "state": "VIC",
+                "postcode": "3020",
+                "number": "0477622392"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     145.160438,
                     -37.964876
                 ]
@@ -170047,6 +170079,22 @@
                 "state": "VIC",
                 "postcode": "3051",
                 "number": "0482686833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.324061,
+                    -24.878254
+                ]
+            },
+            "properties": {
+                "address": "31 PAYNE ST NR WARRELL ST, MILLBANK",
+                "state": "QLD",
+                "postcode": "4670",
+                "number": "0482687282"
             }
         },
         {
@@ -177215,6 +177263,22 @@
                 "state": "QLD",
                 "postcode": "4165",
                 "number": "0487008559"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.363893,
+                    -24.899013
+                ]
+            },
+            "properties": {
+                "address": "278 GOODWOOD RD NR WYLLIE ST, THABEBAN",
+                "state": "QLD",
+                "postcode": "4670",
+                "number": "0487017165"
             }
         },
         {
@@ -191366,22 +191430,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.37691,
-                    -24.88916
-                ]
-            },
-            "properties": {
-                "address": "167 MCCARTHY RD NR ANDERSON ST, AVENELL HEIGHTS",
-                "state": "QLD",
-                "postcode": "4670",
-                "number": "0741532984"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.370049,
                     -24.909756
                 ]
@@ -191391,22 +191439,6 @@
                 "state": "QLD",
                 "postcode": "4670",
                 "number": "0741533473"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    152.363893,
-                    -24.899013
-                ]
-            },
-            "properties": {
-                "address": "278 GOODWOOD RD NR WYLLIE ST, THABEBAN",
-                "state": "QLD",
-                "postcode": "4670",
-                "number": "0741533492"
             }
         },
         {
@@ -191439,22 +191471,6 @@
                 "state": "QLD",
                 "postcode": "4670",
                 "number": "0741533940"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    152.324061,
-                    -24.878254
-                ]
-            },
-            "properties": {
-                "address": "31 PAYNE ST NR WARRELL ST, MILLBANK",
-                "state": "QLD",
-                "postcode": "4670",
-                "number": "0741533943"
             }
         },
         {
@@ -195926,22 +195942,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.495306,
-                    -20.708102
-                ]
-            },
-            "properties": {
-                "address": "185 LITTLE WEST ST COPPER CITY RIVERS, WINSTON",
-                "state": "QLD",
-                "postcode": "4825",
-                "number": "0747495732"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     139.497661,
                     -20.682482
                 ]
@@ -199519,22 +199519,6 @@
                 "state": "QLD",
                 "postcode": "4702",
                 "number": "0749854337"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    147.29011,
-                    -23.64906
-                ]
-            },
-            "properties": {
-                "address": "0 LONG ST BOGANTUNGAN R/S, WILLOWS",
-                "state": "QLD",
-                "postcode": "4702",
-                "number": "0749855310"
             }
         },
         {
@@ -204079,22 +204063,6 @@
                 "state": "SA",
                 "postcode": "5044",
                 "number": "0882941698"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    138.566823,
-                    -34.967343
-                ]
-            },
-            "properties": {
-                "address": "36 ALMOND GR , GLANDORE",
-                "state": "SA",
-                "postcode": "5037",
-                "number": "0882977365"
             }
         },
         {

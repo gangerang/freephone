@@ -10816,22 +10816,6 @@
         "number": "0297872365"
     },
     {
-        "latitude": -33.913066,
-        "longitude": 151.102756,
-        "address": "LVL LG 14 AMY ST CAMPSIE SHOP CNTRE, CAMPSIE",
-        "state": "NSW",
-        "postcode": "2194",
-        "number": "0297891267"
-    },
-    {
-        "latitude": -33.912774,
-        "longitude": 151.102716,
-        "address": "LVL 1 14 AMY ST CAMPSIE SHOP CNTRE, CAMPSIE",
-        "state": "NSW",
-        "postcode": "2194",
-        "number": "0297891283"
-    },
-    {
         "latitude": -33.911161,
         "longitude": 151.103818,
         "address": "196 BEAMISH ST ANZAC MALL STH, CAMPSIE",
@@ -17574,14 +17558,6 @@
         "state": "VIC",
         "postcode": "3047",
         "number": "0393097154"
-    },
-    {
-        "latitude": -37.786907,
-        "longitude": 144.832961,
-        "address": "64 STATION PL , SUNSHINE",
-        "state": "VIC",
-        "postcode": "3020",
-        "number": "0393112612"
     },
     {
         "latitude": -37.787898,
@@ -58288,6 +58264,14 @@
         "number": "0448764060"
     },
     {
+        "latitude": -34.967343,
+        "longitude": 138.566823,
+        "address": "36 ALMOND GR , GLANDORE",
+        "state": "SA",
+        "postcode": "5037",
+        "number": "0448764201"
+    },
+    {
         "latitude": -33.832703,
         "longitude": 151.012001,
         "address": "0 RAILWAY PDE GRANVILLE RLWY STN, GRANVILLE",
@@ -63696,6 +63680,14 @@
         "number": "0455457556"
     },
     {
+        "latitude": -41.438655,
+        "longitude": 147.139732,
+        "address": "73 YORK ST CNR ST JOHN ST, LAUNCESTON",
+        "state": "TAS",
+        "postcode": "7250",
+        "number": "0455458524"
+    },
+    {
         "latitude": -33.775039,
         "longitude": 150.93402,
         "address": "224 PROSPECT HWY PLAZA NR ALDI, SEVEN HILLS",
@@ -67048,6 +67040,14 @@
         "number": "0455727951"
     },
     {
+        "latitude": -23.64906,
+        "longitude": 147.29011,
+        "address": "0 LONG ST BOGANTUNGAN R/S, WILLOWS",
+        "state": "QLD",
+        "postcode": "4702",
+        "number": "0455728038"
+    },
+    {
         "latitude": -34.921453,
         "longitude": 138.631753,
         "address": "110 THE PARADE  , NORWOOD",
@@ -69214,14 +69214,6 @@
         "state": "NSW",
         "postcode": "2250",
         "number": "0455864610"
-    },
-    {
-        "latitude": -41.438655,
-        "longitude": 147.139732,
-        "address": "73 YORK ST CNR ST JOHN ST, LAUNCESTON",
-        "state": "TAS",
-        "postcode": "7250",
-        "number": "0455865222"
     },
     {
         "latitude": -27.486557,
@@ -78840,6 +78832,14 @@
         "number": "0474970673"
     },
     {
+        "latitude": -20.708102,
+        "longitude": 139.495306,
+        "address": "185 LITTLE WEST ST COPPER CITY RIVERS, WINSTON",
+        "state": "QLD",
+        "postcode": "4825",
+        "number": "0474972064"
+    },
+    {
         "latitude": -27.094365,
         "longitude": 152.95116,
         "address": "0 MARKET DRV NR 62 MORAYFIELD R, CBLTRE S CABOOLTURE SOUTH",
@@ -81840,6 +81840,14 @@
         "number": "0476492750"
     },
     {
+        "latitude": -24.88916,
+        "longitude": 152.37691,
+        "address": "167 MCCARTHY RD NR ANDERSON ST, AVENELL HEIGHTS",
+        "state": "QLD",
+        "postcode": "4670",
+        "number": "0476495091"
+    },
+    {
         "latitude": -37.819071,
         "longitude": 145.122276,
         "address": "41 MAIN ST CNR MARKET ST MALL, BOX HILL",
@@ -83856,6 +83864,14 @@
         "number": "0477621387"
     },
     {
+        "latitude": -37.786907,
+        "longitude": 144.832961,
+        "address": "64 STATION PL , SUNSHINE",
+        "state": "VIC",
+        "postcode": "3020",
+        "number": "0477622392"
+    },
+    {
         "latitude": -37.964876,
         "longitude": 145.160438,
         "address": "29 MYRTLE ST NR CRN HOSKEN ST, SPRINGVALE SOUTH",
@@ -85022,6 +85038,14 @@
         "state": "VIC",
         "postcode": "3051",
         "number": "0482686833"
+    },
+    {
+        "latitude": -24.878254,
+        "longitude": 152.324061,
+        "address": "31 PAYNE ST NR WARRELL ST, MILLBANK",
+        "state": "QLD",
+        "postcode": "4670",
+        "number": "0482687282"
     },
     {
         "latitude": -29.751602,
@@ -88606,6 +88630,14 @@
         "state": "QLD",
         "postcode": "4165",
         "number": "0487008559"
+    },
+    {
+        "latitude": -24.899013,
+        "longitude": 152.363893,
+        "address": "278 GOODWOOD RD NR WYLLIE ST, THABEBAN",
+        "state": "QLD",
+        "postcode": "4670",
+        "number": "0487017165"
     },
     {
         "latitude": -19.25302,
@@ -95680,28 +95712,12 @@
         "number": "0741528781"
     },
     {
-        "latitude": -24.88916,
-        "longitude": 152.37691,
-        "address": "167 MCCARTHY RD NR ANDERSON ST, AVENELL HEIGHTS",
-        "state": "QLD",
-        "postcode": "4670",
-        "number": "0741532984"
-    },
-    {
         "latitude": -24.909756,
         "longitude": 152.370049,
         "address": "403 GOODWOOD RD NR THOMAS THOMSEN, THABEBAN",
         "state": "QLD",
         "postcode": "4670",
         "number": "0741533473"
-    },
-    {
-        "latitude": -24.899013,
-        "longitude": 152.363893,
-        "address": "278 GOODWOOD RD NR WYLLIE ST, THABEBAN",
-        "state": "QLD",
-        "postcode": "4670",
-        "number": "0741533492"
     },
     {
         "latitude": -24.859446,
@@ -95718,14 +95734,6 @@
         "state": "QLD",
         "postcode": "4670",
         "number": "0741533940"
-    },
-    {
-        "latitude": -24.878254,
-        "longitude": 152.324061,
-        "address": "31 PAYNE ST NR WARRELL ST, MILLBANK",
-        "state": "QLD",
-        "postcode": "4670",
-        "number": "0741533943"
     },
     {
         "latitude": -24.872872,
@@ -97960,14 +97968,6 @@
         "number": "0747491671"
     },
     {
-        "latitude": -20.708102,
-        "longitude": 139.495306,
-        "address": "185 LITTLE WEST ST COPPER CITY RIVERS, WINSTON",
-        "state": "QLD",
-        "postcode": "4825",
-        "number": "0747495732"
-    },
-    {
         "latitude": -20.682482,
         "longitude": 139.497661,
         "address": "2 MOONDARRA DRV MNDRA VAN PARK, LNSKY LANSKEY",
@@ -99758,14 +99758,6 @@
         "state": "QLD",
         "postcode": "4702",
         "number": "0749854337"
-    },
-    {
-        "latitude": -23.64906,
-        "longitude": 147.29011,
-        "address": "0 LONG ST BOGANTUNGAN R/S, WILLOWS",
-        "state": "QLD",
-        "postcode": "4702",
-        "number": "0749855310"
     },
     {
         "latitude": -22.81493,
@@ -102038,14 +102030,6 @@
         "state": "SA",
         "postcode": "5044",
         "number": "0882941698"
-    },
-    {
-        "latitude": -34.967343,
-        "longitude": 138.566823,
-        "address": "36 ALMOND GR , GLANDORE",
-        "state": "SA",
-        "postcode": "5037",
-        "number": "0882977365"
     },
     {
         "latitude": -34.964274,
