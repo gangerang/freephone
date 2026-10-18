@@ -19896,36 +19896,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.102756,
-                    -33.913066
-                ]
-            },
-            "properties": {
-                "address": "LVL LG 14 AMY ST CAMPSIE SHOP CNTRE, CAMPSIE",
-                "postcode": "2194",
-                "number": "0297891267"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.102716,
-                    -33.912774
-                ]
-            },
-            "properties": {
-                "address": "LVL 1 14 AMY ST CAMPSIE SHOP CNTRE, CAMPSIE",
-                "postcode": "2194",
-                "number": "0297891283"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.103818,
                     -33.911161
                 ]
